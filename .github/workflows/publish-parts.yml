@@ -1,6 +1,7 @@
 name: Publish Collected Parts
 
-# Copies the collected Germany parts of a run onto the germany-data branch.
+# Copies the collected Germany parts of a run onto the germany-data branch,
+# optionally adding Workday / SmartRecruiters descriptions first.
 
 on:
   workflow_dispatch:
@@ -8,6 +9,9 @@ on:
       run_id:
         description: "Run ID of the Daily Job Search run"
         required: true
+      title_regex:
+        description: "Only add descriptions to records whose title matches (empty = all)"
+        default: ""
 
 permissions:
   contents: write
@@ -16,7 +20,13 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
       - name: Download collected parts
         uses: actions/download-artifact@v4
         with:
@@ -25,9 +35,14 @@ jobs:
           merge-multiple: true
           run-id: ${{ inputs.run_id }}
           github-token: ${{ github.token }}
+      - name: Add descriptions
+        env:
+          PYTHONPATH: src
+          PYTHONUNBUFFERED: "1"
+          TITLE_REGEX: ${{ inputs.title_regex }}
+        run: python scripts/germany_collect.py enrich --in parts --workers 24 --budget-min 240 --title-regex "$TITLE_REGEX"
       - name: Push to germany-data branch
         run: |
-          ls -la parts
           cd parts
           git init -q -b germany-data
           git config user.name "github-actions[bot]"

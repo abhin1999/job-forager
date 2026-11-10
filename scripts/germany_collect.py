@@ -865,6 +865,9 @@ def cmd_enrich(args: argparse.Namespace) -> int:
         with gzip.open(p, "rt", encoding="utf-8") as f:
             recs = [json.loads(line) for line in f]
         todo = [r for r in recs if r.get("source") in handlers and not r.get("description")]
+        if args.title_regex:
+            rx = re.compile(args.title_regex, re.I)
+            todo = [r for r in todo if rx.search(r.get("title") or "")]
         if not todo:
             continue
         outcome = Counter()
@@ -914,6 +917,7 @@ def main() -> int:
     e.add_argument("--in", dest="inp", required=True)
     e.add_argument("--workers", type=int, default=24)
     e.add_argument("--budget-min", type=float, default=150)
+    e.add_argument("--title-regex", default="", help="only enrich records whose title matches")
     args = ap.parse_args()
     return {"collect": cmd_collect, "merge": cmd_merge, "enrich": cmd_enrich}[args.cmd](args)
 
