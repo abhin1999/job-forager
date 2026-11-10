@@ -161,8 +161,9 @@ jobs:
         run: |
           EXTRA=""
           if [ "${{ inputs.validate_urls }}" != "true" ]; then EXTRA="--no-validate"; fi
+          python scripts/germany_collect.py enrich --in parts --workers 24 --budget-min 120
           python scripts/germany_collect.py merge --in parts --out final \
-            --workers 32 --validate-budget-min 300 $EXTRA
+            --workers 32 --validate-budget-min 200 $EXTRA
 
       - name: Upload dataset
         if: always()

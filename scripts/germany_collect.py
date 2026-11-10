@@ -708,6 +708,7 @@ def cmd_merge(args: argparse.Namespace) -> int:
         raw_by_src[b["source"]] += int(b["records"] or 0)
     uniq_by_src = Counter(r["source"] for r in rows)
     ok_by_src = Counter(r["source"] for r in rows if r["url_status"] == "ok")
+    desc_by_src = Counter(r["source"] for r in rows if r["description"])
     checked_by_src = Counter(r["source"] for r in rows if r["url_status"] in ("ok", "unreachable", "error"))
     employers_by_src: dict[str, set] = defaultdict(set)
     for r in rows:
@@ -719,7 +720,7 @@ def cmd_merge(args: argparse.Namespace) -> int:
     rep_cols = ["source", "boards_discovered", "boards_queried", "boards_ok", "boards_partial", "boards_empty",
                 "boards_not_found", "boards_failed", "boards_not_queried", "raw_records_worldwide",
                 "germany_records_collected", "germany_unique_records", "germany_employers",
-                "urls_checked", "urls_working", "queried_successfully"]
+                "with_description", "urls_checked", "urls_working", "queried_successfully"]
     report = []
     for s in sorted(set(by_src_boards) | set(collected)):
         c = by_src_boards[s]
@@ -730,6 +731,7 @@ def cmd_merge(args: argparse.Namespace) -> int:
             "boards_not_found": c["not_found"], "boards_failed": c["failed"], "boards_not_queried": c["not_queried"],
             "raw_records_worldwide": raw_by_src[s], "germany_records_collected": collected[s],
             "germany_unique_records": uniq_by_src[s], "germany_employers": len(employers_by_src[s]),
+            "with_description": desc_by_src[s],
             "urls_checked": checked_by_src[s], "urls_working": ok_by_src[s],
             "queried_successfully": "yes" if raw_by_src[s] > 0 else "no",
         })
@@ -773,6 +775,7 @@ def cmd_merge(args: argparse.Namespace) -> int:
         "germany_by_match_type": dict(Counter(r["germany_match"] for r in rows)),
         "board_status_by_source": {s: dict(c) for s, c in by_src_boards.items()},
         "url_status": dict(Counter(r["url_status"] for r in rows)),
+        "records_with_description": sum(desc_by_src.values()),
         "working_application_urls": sum(1 for r in rows if r["url_status"] == "ok"),
         "execution_errors": exec_errors,
         "list_sources": list_rows,
@@ -784,6 +787,7 @@ def cmd_merge(args: argparse.Namespace) -> int:
           f"- Unique after dedup: **{summary['germany_unique_after_dedup']}**",
           f"- Unique employers: **{summary['unique_employers_germany']}**",
           f"- Boards discovered / queried: **{summary['company_boards_discovered']} / {summary['company_boards_queried']}**",
+          f"- Records with a job description: **{summary['records_with_description']}**",
           f"- Working application URLs: **{summary['working_application_urls']}** ({summary['url_status']})",
           f"- Execution errors: {len(exec_errors)}", "", "| " + " | ".join(rep_cols) + " |",
           "|" + "---|" * len(rep_cols)]
@@ -795,6 +799,98 @@ def cmd_merge(args: argparse.Namespace) -> int:
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as f:
             f.write(text)
     print(text)
+    return 0
+
+
+# --------------------------------------------------------------------------
+# Description enrichment (Germany records only)
+# The engine's Workday and SmartRecruiters collectors return no description:
+# both list APIs omit it. One detail request per Germany record fills it in.
+# --------------------------------------------------------------------------
+
+_UA = {"User-Agent": "Mozilla/5.0 (compatible; jobforager/1.0)", "Accept": "application/json"}
+
+
+def _get_json(url: str) -> Any:
+    req = urllib.request.Request(url, headers=_UA)
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return json.loads(resp.read().decode("utf-8", "replace"))
+
+
+def _enrich_workday(rec: dict[str, Any]) -> str:
+    from jobforager.search.workday import _parse_workday_url
+
+    meta = rec.get("metadata") or {}
+    site, path = meta.get("career_site_url"), meta.get("external_path")
+    if not site or not path or str(path).startswith("http"):
+        return "no_path"
+    data = _get_json(_parse_workday_url(site)["api_base_url"] + path)
+    info = data.get("jobPostingInfo") or {}
+    desc = info.get("jobDescription")
+    if info.get("startDate"):
+        rec["posted_at"] = info["startDate"]
+    if info.get("location") and not rec.get("location"):
+        rec["location"] = info["location"]
+    if desc:
+        rec["description"] = desc
+        return "filled"
+    return "no_description"
+
+
+def _enrich_smartrecruiters(rec: dict[str, Any]) -> str:
+    slug = (rec.get("metadata") or {}).get("company_slug")
+    jid = rec.get("external_id")
+    if not slug or not jid:
+        return "no_path"
+    data = _get_json(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings/{jid}")
+    sections = ((data.get("jobAd") or {}).get("sections") or {})
+    parts = []
+    for key in ("companyDescription", "jobDescription", "qualifications", "additionalInformation"):
+        sec = sections.get(key) or {}
+        if sec.get("text"):
+            parts.append(f"<h3>{sec.get('title') or key}</h3>\n{sec['text']}")
+    if data.get("applyUrl") and not rec.get("apply_url"):
+        rec["apply_url"] = data["applyUrl"]
+    if parts:
+        rec["description"] = "\n".join(parts)
+        return "filled"
+    return "no_description"
+
+
+def cmd_enrich(args: argparse.Namespace) -> int:
+    handlers = {"workday": _enrich_workday, "smartrecruiters": _enrich_smartrecruiters}
+    deadline = time.monotonic() + float(args.budget_min) * 60
+    grand = Counter()
+    for p in sorted(Path(args.inp).rglob("germany_*.jsonl.gz")):
+        with gzip.open(p, "rt", encoding="utf-8") as f:
+            recs = [json.loads(line) for line in f]
+        todo = [r for r in recs if r.get("source") in handlers and not r.get("description")]
+        if not todo:
+            continue
+        outcome = Counter()
+
+        def work(rec: dict[str, Any]) -> str:
+            if time.monotonic() > deadline:
+                return "not_attempted_time_budget"
+            try:
+                return handlers[rec["source"]](rec)
+            except urllib.error.HTTPError as exc:
+                return f"http_{exc.code}"
+            except Exception as exc:
+                return f"error_{type(exc).__name__}"
+
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            for n, res in enumerate(ex.map(work, todo), 1):
+                outcome[res] += 1
+                if n % 2000 == 0:
+                    print(f"[enrich] {p.name} {n}/{len(todo)} {dict(outcome)}", flush=True)
+        with gzip.open(p, "wt", encoding="utf-8") as f:
+            for r in recs:
+                f.write(json.dumps(r, ensure_ascii=False, default=_json_default) + "\n")
+        print(f"[enrich] {p.name}: {len(todo)} records without description -> {dict(outcome)}", flush=True)
+        for k, v in outcome.items():
+            grand[f"{todo[0]['source']}:{k}"] += v
+    print("[enrich] total", json.dumps(dict(grand), indent=1))
     return 0
 
 
@@ -814,8 +910,12 @@ def main() -> int:
     m.add_argument("--workers", type=int, default=32)
     m.add_argument("--validate-budget-min", type=float, default=240)
     m.add_argument("--no-validate", action="store_true")
+    e = sub.add_parser("enrich")
+    e.add_argument("--in", dest="inp", required=True)
+    e.add_argument("--workers", type=int, default=24)
+    e.add_argument("--budget-min", type=float, default=150)
     args = ap.parse_args()
-    return cmd_collect(args) if args.cmd == "collect" else cmd_merge(args)
+    return {"collect": cmd_collect, "merge": cmd_merge, "enrich": cmd_enrich}[args.cmd](args)
 
 
 if __name__ == "__main__":

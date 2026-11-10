@@ -80,7 +80,8 @@ def main() -> int:
         status, detail, new, de = "ok", "", 0, 0
         try:
             kwargs = dict(site_name=[site], search_term="", location=loc, results_wanted=SITES[site],
-                          country_indeed="Germany", description_format="plain", verbose=0)
+                          country_indeed="Germany", description_format="plain", verbose=0,
+                          linkedin_fetch_description=True)
             if jt:
                 kwargs["job_type"] = jt
             df = scrape_jobs(**kwargs)

@@ -1,0 +1,57 @@
+name: Enrich Descriptions And Export
+
+# Takes the collected parts of a finished (or partly finished) "Daily Job Search"
+# run, adds job descriptions to Workday and SmartRecruiters Germany records,
+# then merges, dedupes, validates URLs and exports.
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Run ID of the Daily Job Search run to take collected parts from"
+        required: true
+      validate_urls:
+        description: "Check every application URL (true/false)"
+        default: "true"
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          pip install -e .
+          pip install openpyxl
+      - name: Download collected parts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: part-*
+          path: parts
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+      - name: Enrich, merge, validate, export
+        env:
+          PYTHONPATH: src
+          PYTHONUNBUFFERED: "1"
+        run: |
+          EXTRA=""
+          if [ "${{ inputs.validate_urls }}" != "true" ]; then EXTRA="--no-validate"; fi
+          python scripts/germany_collect.py enrich --in parts --workers 24 --budget-min 120
+          python scripts/germany_collect.py merge --in parts --out final \
+            --workers 32 --validate-budget-min 200 $EXTRA
+      - name: Upload dataset
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: germany-jobs-with-descriptions-${{ github.run_id }}
+          path: final/
+          retention-days: 30
