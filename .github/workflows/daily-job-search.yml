@@ -1,14 +1,44 @@
 name: Daily Job Search
 
+# Germany-wide full collection. Runs the existing jobforager collectors for
+# every discovered company board (no title/keyword/language filter), then
+# merges, dedupes, validates URLs and exports CSV / XLSX / JSON.
+
 on:
-  schedule:
-    - cron: "0 1 * * *"
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "Boards per source (0 = all boards). Use e.g. 50 for a smoke test."
+        default: "0"
+      validate_urls:
+        description: "Check every application URL (true/false)"
+        default: "true"
+
+permissions:
+  contents: read
 
 jobs:
-  search:
+  collect:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { source: greenhouse, shard: "" }
+          - { source: lever, shard: "" }
+          - { source: ashby, shard: "" }
+          - { source: smartrecruiters, shard: "" }
+          - { source: personio, shard: "" }
+          - { source: pinpoint, shard: "" }
+          - { source: hiringcafe, shard: "" }
+          - { source: supplementary, shard: "" }   # remotive, remoteok, arbeitnow, hackernews, weworkremotely
+          - { source: workday, shard: "0/6" }
+          - { source: workday, shard: "1/6" }
+          - { source: workday, shard: "2/6" }
+          - { source: workday, shard: "3/6" }
+          - { source: workday, shard: "4/6" }
+          - { source: workday, shard: "5/6" }
     steps:
       - uses: actions/checkout@v4
 
@@ -17,55 +47,86 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Restore job database cache
-        uses: actions/cache@v4
+      - name: Install dependencies
+        run: |
+          pip install -e .
+          pip install curl_cffi
+
+      - name: Collect ${{ matrix.source }} ${{ matrix.shard }}
+        env:
+          PYTHONPATH: src
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python scripts/germany_collect.py collect \
+            --source "${{ matrix.source }}" \
+            --shard "${{ matrix.shard }}" \
+            --limit "${{ inputs.limit }}" \
+            --workers 24 \
+            --budget-min 320 \
+            --out out
+
+      - name: Artifact name
+        id: n
+        run: echo "name=$(echo '${{ matrix.source }}-${{ matrix.shard }}' | tr '/' '_')" >> "$GITHUB_OUTPUT"
+
+      - name: Upload Germany records and board log
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          path: ~/.cache/jobforager
-          key: jobdb-${{ runner.os }}-${{ github.run_id }}
-          restore-keys: jobdb-${{ runner.os }}-
+          name: part-${{ steps.n.outputs.name }}
+          path: |
+            out/germany_*.jsonl.gz
+            out/boards_*.csv
+            out/stats_*.json
+          retention-days: 14
+
+      - name: Upload unfiltered raw records (worldwide)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ steps.n.outputs.name }}
+          path: out/raw_*.jsonl.gz
+          compression-level: 0
+          retention-days: 14
+
+  merge:
+    needs: collect
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
       - name: Install dependencies
         run: |
           pip install -e .
+          pip install openpyxl
 
-      - name: Run incremental job search
+      - name: Download collected parts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: part-*
+          path: parts
+
+      - name: Merge, dedupe, validate URLs, export
         env:
           PYTHONPATH: src
+          PYTHONUNBUFFERED: "1"
         run: |
-          python -m jobforager.cli search \
-            --sources all \
-            --title-keywords "Application Security,Application Security Engineer,Security,Security Engineer,Pentest,Penetration Test,Penetration Tester,Penetration Testing Engineer,Offensive Security,Offensive Security Engineer,Offsec,Offsec Engineer,Product Security,Product Security Engineer" \
-            --location "UK, London, remote" \
-            --last 1d \
-            --since-last-run \
-            --output-json new_jobs.json
+          EXTRA=""
+          if [ "${{ inputs.validate_urls }}" != "true" ]; then EXTRA="--no-validate"; fi
+          python scripts/germany_collect.py merge --in parts --out final \
+            --workers 32 --validate-budget-min 300 $EXTRA
 
-      - name: Run full job search (all jobs)
-        env:
-          PYTHONPATH: src
-        run: |
-          python -m jobforager.cli search \
-            --sources all \
-            --title-keywords "Application Security,Application Security Engineer,Security,Security Engineer,Pentest,Penetration Test,Penetration Tester,Penetration Testing Engineer,Offensive Security,Offensive Security Engineer,Offsec,Offsec Engineer,Product Security,Product Security Engineer" \
-            --location "UK, London, remote" \
-            --last 1d \
-            --output-json all_jobs.json
-
-      - name: Generate job board HTML
-        run: python scripts/gen_job_board.py all_jobs.json new_jobs.json job_board.html
-
-      - name: Upload new jobs
+      - name: Upload dataset
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: new-jobs-${{ github.run_id }}
-          path: new_jobs.json
-          retention-days: 7
-
-      - name: Upload all jobs
-        uses: actions/upload-artifact@v4
-        with:
-          name: all-jobs-${{ github.run_id }}
-          path: |
-            all_jobs.json
-            job_board.html
-          retention-days: 7
+          name: germany-jobs-${{ github.run_id }}
+          path: final/
+          retention-days: 30
