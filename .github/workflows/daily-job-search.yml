@@ -89,8 +89,49 @@ jobs:
           compression-level: 0
           retention-days: 14
 
+  jobspy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install JobSpy
+        run: pip install -U python-jobspy
+
+      - name: Collect Germany via JobSpy (Indeed, LinkedIn, Glassdoor)
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python scripts/jobspy_germany.py --out out --budget-min 300 \
+            --limit "$([ '${{ inputs.limit }}' = '0' ] && echo 0 || echo 6)"
+
+      - name: Upload Germany records and search log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: part-jobspy
+          path: |
+            out/germany_*.jsonl.gz
+            out/boards_*.csv
+            out/stats_*.json
+          retention-days: 14
+
+      - name: Upload raw records
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-jobspy
+          path: out/raw_*.jsonl.gz
+          compression-level: 0
+          retention-days: 14
+
   merge:
-    needs: collect
+    needs: [collect, jobspy]
     if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 350

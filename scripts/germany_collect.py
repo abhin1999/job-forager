@@ -644,7 +644,8 @@ def cmd_merge(args: argparse.Namespace) -> int:
     url_of = [(j.apply_url or j.job_url) for j in unique]
     results: list[dict[str, Any] | None] = [None] * len(unique)
     deadline = time.monotonic() + float(args.validate_budget_min) * 60
-    skip_sources = {"weworkremotely", "hiringcafe"}  # same skip set as the engine pipeline
+    # engine pipeline skips these two; job-board aggregators block automated HEAD checks
+    skip_sources = {"weworkremotely", "hiringcafe", "indeed", "linkedin", "glassdoor"}
 
     def check(i: int) -> None:
         if time.monotonic() > deadline or unique[i].source in skip_sources:
@@ -669,7 +670,7 @@ def cmd_merge(args: argparse.Namespace) -> int:
         ex = extras[id(job)]
         res = results[i]
         if res is None:
-            status = "skipped_by_engine" if job.source in skip_sources else "not_checked"
+            status = "skipped" if job.source in skip_sources else "not_checked"
             code = ""
         else:
             status, code = res["status"], res.get("http_code") or ""
