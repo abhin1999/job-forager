@@ -1,0 +1,35 @@
+{
+  "tag": "pinpoint",
+  "source": "pinpoint",
+  "collected_at": "2026-11-12T12:12:22+00:00",
+  "boards_discovered_total": 415,
+  "raw_records": 11427,
+  "germany_records": 175,
+  "board_status": {
+    "ok": 337,
+    "empty": 77,
+    "not_found": 1
+  },
+  "http_requests_by_host": {
+    "githubusercontent.com": 1,
+    "pinpointhq.com": 415
+  },
+  "list_sources": [
+    {
+      "ats": "pinpoint",
+      "list": "engine (data/*.json + engine fetch)",
+      "url": "",
+      "status": "ok",
+      "entries": 76
+    },
+    {
+      "ats": "pinpoint",
+      "list": "stapply-ai",
+      "url": "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ats-companies/pinpoint.csv",
+      "status": "ok",
+      "entries": 406
+    }
+  ],
+  "errors": [],
+  "elapsed_seconds": 83
+}

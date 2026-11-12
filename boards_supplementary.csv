@@ -1,0 +1,6 @@
+source,board,status,records,germany_records,http_requests,seconds,detail
+arbeitnow,(single endpoint),ok,300,88,1,0,
+hackernews,(single endpoint),ok,254,34,2,0,
+remoteok,(single endpoint),ok,98,5,1,0,
+remotive,(single endpoint),ok,14,11,1,0,
+weworkremotely,(single endpoint),ok,100,0,1,0,

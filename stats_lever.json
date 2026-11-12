@@ -1,0 +1,43 @@
+{
+  "tag": "lever",
+  "source": "lever",
+  "collected_at": "2026-11-12T12:12:26+00:00",
+  "boards_discovered_total": 4829,
+  "raw_records": 70428,
+  "germany_records": 1610,
+  "board_status": {
+    "not_found": 2500,
+    "ok": 1813,
+    "empty": 511,
+    "failed": 5
+  },
+  "http_requests_by_host": {
+    "githubusercontent.com": 4,
+    "lever.co": 4934
+  },
+  "list_sources": [
+    {
+      "ats": "lever",
+      "list": "engine (data/*.json + engine fetch)",
+      "url": "",
+      "status": "ok",
+      "entries": 4368
+    },
+    {
+      "ats": "lever",
+      "list": "Feashliaa",
+      "url": "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/lever_companies.json",
+      "status": "ok",
+      "entries": 4368
+    },
+    {
+      "ats": "lever",
+      "list": "stapply-ai",
+      "url": "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ats-companies/lever.csv",
+      "status": "ok",
+      "entries": 2393
+    }
+  ],
+  "errors": [],
+  "elapsed_seconds": 542
+}

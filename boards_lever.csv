@@ -1,0 +1,4830 @@
+source,board,status,records,germany_records,http_requests,seconds,detail
+lever,100ms,ok,10,0,1,1.2,
+lever,10up-2,not_found,0,0,1,0.34,GET 404
+lever,15five,ok,4,0,1,1.03,
+lever,174powerglobal,not_found,0,0,1,0.48,GET 404
+lever,1776,not_found,0,0,1,1.35,GET 404
+lever,1840&Company,ok,65,0,1,1.08,
+lever,18c,not_found,0,0,1,0.83,GET 404
+lever,1910genetics,not_found,0,0,1,0.72,GET 404
+lever,1inch,ok,5,0,1,2.3,
+lever,1password,not_found,0,0,1,1.46,GET 404
+lever,21,not_found,0,0,1,0.53,GET 404
+lever,21hhs,ok,353,0,1,2.07,
+lever,2a,not_found,0,0,1,1.18,GET 404
+lever,2brains,ok,10,0,1,1.46,
+lever,2os,empty,0,0,1,1.92,
+lever,32Co,ok,4,0,1,1.92,
+lever,360learning,ok,47,8,1,2.52,
+lever,3box,not_found,0,0,1,1.72,GET 404
+lever,3dhubs,not_found,0,0,1,2.56,GET 404
+lever,3eco,not_found,0,0,1,2.05,GET 404
+lever,3pillarglobal,empty,0,0,1,2.1,
+lever,3xmgroup,not_found,0,0,1,2.28,GET 404
+lever,42dot,not_found,0,0,1,2.2,GET 404
+lever,4front,ok,11,0,1,5.32,
+lever,4mation,not_found,0,0,1,2.31,GET 404
+lever,4sightsupplychain,not_found,0,0,1,2.25,GET 404
+lever,500,not_found,0,0,1,2.35,GET 404
+lever,522productions,not_found,0,0,1,2.2,GET 404
+lever,54collective,not_found,0,0,1,2.2,GET 404
+lever,5amventures,ok,4,0,1,2.32,
+lever,5wpr,not_found,0,0,1,2.15,GET 404
+lever,5xdata,not_found,0,0,1,2.14,GET 404
+lever,7geese,not_found,0,0,1,2.23,GET 404
+lever,8thlight,not_found,0,0,1,2.18,GET 404
+lever,8x8,not_found,0,0,1,2.16,GET 404
+lever,90seconds,ok,8,1,1,2.57,
+lever,99taxis,not_found,0,0,1,2.08,GET 404
+lever,BreezeBio,ok,2,0,1,1.13,
+lever,CVRx,ok,4,0,1,1.81,
+lever,Eyeline,empty,0,0,1,1.45,
+lever,FairTradeRealEstate,ok,5,0,1,1.23,
+lever,FixGroup,ok,18,0,1,2.07,
+lever,Flat.mx,ok,2,0,1,1.85,
+lever,JetBridge,ok,3,1,1,1.35,
+lever,Meirowitz-Wasserberg,ok,14,0,1,2.26,
+lever,NSHS,not_found,0,0,1,2.37,GET 404
+lever,PPA,ok,12,0,1,1.98,
+lever,ProbiusDx,ok,2,0,1,2.1,
+lever,Smile.io,ok,1,0,1,1.2,
+lever,SpaceSystemsIntegration,ok,33,0,1,6.7,
+lever,Wayground,ok,10,0,1,0.5,
+lever,abacus,not_found,0,0,1,3.5,GET 404
+lever,ableserve,ok,67,0,1,2.39,
+lever,ablspacesystems,not_found,0,0,1,2.05,GET 404
+lever,abovelending,ok,3,0,1,3.08,
+lever,abridge,not_found,0,0,1,2.19,GET 404
+lever,abt,ok,3,0,1,2.29,
+lever,abtaba,ok,254,1,1,11.62,
+lever,abtasty,not_found,0,0,1,2.3,GET 404
+lever,academia,not_found,0,0,1,2.18,GET 404
+lever,academy,not_found,0,0,1,2.25,GET 404
+lever,acala,not_found,0,0,1,2.28,GET 404
+lever,acast,not_found,0,0,1,2.37,GET 404
+lever,acceldata,ok,37,0,1,2.51,
+lever,accesso,not_found,0,0,1,2.3,GET 404
+lever,accesssoftek,ok,2,0,1,2.47,
+lever,accompanyhealth,not_found,0,0,1,2.58,GET 404
+lever,accrue,not_found,0,0,1,2.22,GET 404
+lever,accurate,empty,0,0,1,2.27,
+lever,acds,ok,8,0,1,2.46,
+lever,achievers,ok,14,0,1,2.51,
+lever,acl,not_found,0,0,1,2.31,GET 404
+lever,aclaimant,not_found,0,0,1,2.21,GET 404
+lever,acord,ok,2,0,1,2.09,
+lever,acpl,not_found,0,0,1,2.97,GET 404
+lever,acselhealth,ok,2,0,1,2.09,
+lever,act,not_found,0,0,1,2.64,GET 404
+lever,actian,ok,4,1,1,2.11,
+lever,actionlife,ok,68,0,1,3.2,
+lever,activecampaign,ok,10,0,1,3.13,
+lever,activetheory,ok,4,2,1,2.15,
+lever,actriv,ok,1,0,1,2.01,
+lever,ad2games,not_found,0,0,1,2.26,GET 404
+lever,ada,not_found,0,0,1,1.98,GET 404
+lever,ada-diamonds,not_found,0,0,1,2.01,GET 404
+lever,adaptavist,not_found,0,0,1,1.96,GET 404
+lever,adcolony,not_found,0,0,1,2.03,GET 404
+lever,additionwealth,ok,9,0,1,2.2,
+lever,addx,not_found,0,0,1,2.13,GET 404
+lever,adeptailabs,not_found,0,0,1,2.23,GET 404
+lever,adhoclabs,ok,1,0,1,2.21,
+lever,adidevelopments,ok,8,0,1,2.29,
+lever,adjarabet,ok,3,0,1,2.2,
+lever,adlook,ok,28,1,1,2.38,
+lever,adora,ok,5,0,1,2.3,
+lever,adtech,empty,0,0,1,2.29,
+lever,adthena,not_found,0,0,1,2.28,GET 404
+lever,advancedagrilytics,ok,9,0,1,2.37,
+lever,advancednavigation,not_found,0,0,1,1.98,GET 404
+lever,adventus,ok,4,0,1,1.85,
+lever,adverum,empty,0,0,1,1.85,
+lever,advocate,ok,4,0,1,1.99,
+lever,ae-2,ok,26,0,1,2.2,
+lever,aechelon,empty,0,0,1,3.71,
+lever,aeler,not_found,0,0,1,2.25,GET 404
+lever,aeratechnology,ok,19,0,1,4.24,
+lever,aerialapplications,not_found,0,0,1,3.86,GET 404
+lever,aerispartners.com,ok,7,0,1,2.21,
+lever,aero,ok,9,0,1,2.17,
+lever,aerostrat,ok,3,0,1,2.17,
+lever,aethoshotels,ok,28,0,1,2.9,
+lever,aeva,ok,45,0,1,2.43,
+lever,afarmedia,not_found,0,0,1,2.11,GET 404
+lever,afero,ok,5,0,1,2.98,
+lever,affinity,not_found,0,0,1,2.14,GET 404
+lever,affirm,not_found,0,0,1,2.28,GET 404
+lever,afreshtechnologies,not_found,0,0,1,2.11,GET 404
+lever,afterpaytouch,not_found,0,0,1,2.2,GET 404
+lever,agatesoftware,ok,6,0,1,2.45,
+lever,agentnoon,not_found,0,0,1,2.86,GET 404
+lever,agerpoint,not_found,0,0,1,2.43,GET 404
+lever,agicap,ok,19,8,1,2.37,
+lever,agile-defense,ok,179,2,1,4.93,
+lever,agilesearch,not_found,0,0,1,2.3,GET 404
+lever,agiloft,ok,19,0,1,4.05,
+lever,agotai,not_found,0,0,1,2.38,GET 404
+lever,agreena,not_found,0,0,1,1.94,GET 404
+lever,agtonomy,ok,6,0,1,2.05,
+lever,ahschc,ok,33,0,1,2.42,
+lever,aicamp,empty,0,0,1,2.06,
+lever,aicrete,ok,3,0,1,1.94,
+lever,aidaly,not_found,0,0,1,2.16,GET 404
+lever,aidash,not_found,0,0,1,1.79,GET 404
+lever,aifi,ok,2,1,1,1.81,
+lever,aifoundation,not_found,0,0,1,1.82,GET 404
+lever,aifund,not_found,0,0,1,1.86,GET 404
+lever,aigen,ok,1,0,1,2.14,
+lever,ailens,not_found,0,0,1,1.73,GET 404
+lever,aipconnect,ok,11,0,1,3.27,
+lever,air-tek,ok,13,0,1,2.74,
+lever,aira,not_found,0,0,1,1.79,GET 404
+lever,airalo,ok,12,0,1,2.02,
+lever,aircall,not_found,0,0,1,1.89,GET 404
+lever,airdna,ok,3,0,1,2.03,
+lever,airhouse,not_found,0,0,1,1.96,GET 404
+lever,airprotein,not_found,0,0,1,2.58,GET 404
+lever,airship,not_found,0,0,1,1.91,GET 404
+lever,airshipsyndicate,not_found,0,0,1,1.85,GET 404
+lever,airslate,ok,17,0,1,2.16,
+lever,airtasker,empty,0,0,1,1.93,
+lever,airtm,ok,6,0,1,2.15,
+lever,airwallex,not_found,0,0,1,1.92,GET 404
+lever,aisafety,empty,0,0,1,1.97,
+lever,aisle_and_abroad,ok,403,0,1,2.38,
+lever,aiwyn,empty,0,0,1,1.98,
+lever,aizon,ok,3,0,1,2.37,
+lever,ajax,ok,189,3,1,2.45,
+lever,ajccanada,ok,20,0,1,2.51,
+lever,akabrands,ok,7,5,1,4.64,
+lever,akashnetwork,not_found,0,0,1,1.93,GET 404
+lever,akicita-cyber,ok,54,0,1,2.09,
+lever,akitasoftware,not_found,0,0,1,1.97,GET 404
+lever,alan,not_found,0,0,1,1.88,GET 404
+lever,alation,not_found,0,0,1,1.89,GET 404
+lever,albedo,not_found,0,0,1,1.98,GET 404
+lever,alchemy,not_found,0,0,1,1.84,GET 404
+lever,alcion,not_found,0,0,1,2.18,GET 404
+lever,aldar,ok,51,0,1,2.21,
+lever,alector,ok,4,0,1,2.31,
+lever,aledade,ok,36,0,1,2.21,
+lever,aleph,ok,129,0,1,4.51,
+lever,alertus,ok,20,0,1,2.29,
+lever,aleysian,not_found,0,0,1,2.06,GET 404
+lever,algolia,not_found,0,0,1,2.12,GET 404
+lever,algorex,ok,1,0,1,2.22,
+lever,algotive,not_found,0,0,1,2.42,GET 404
+lever,alice,not_found,0,0,1,2.27,GET 404
+lever,alice-bob,ok,49,0,1,2.59,
+lever,alictus,not_found,0,0,1,2.02,GET 404
+lever,alida,not_found,0,0,1,1.98,GET 404
+lever,alifsemi,ok,11,0,1,2.75,
+lever,alignable,not_found,0,0,1,2.09,GET 404
+lever,alimentiv-2,ok,39,3,1,3.12,
+lever,alkymi,not_found,0,0,1,2.09,GET 404
+lever,all.health,empty,0,0,1,2.21,
+lever,allata,not_found,0,0,1,2.28,GET 404
+lever,allears-vet,ok,2,0,1,2.31,
+lever,allegiantair,ok,45,0,1,3.07,
+lever,alliance,empty,0,0,1,2.31,
+lever,alliedbeverage,ok,9,0,1,2.19,
+lever,alliedreit,ok,9,0,1,2.23,
+lever,allinbits,not_found,0,0,1,1.92,GET 404
+lever,alloy,ok,4,0,1,2.14,
+lever,allstarservicesnow,empty,0,0,1,2.15,
+lever,allstripes,not_found,0,0,1,2.82,GET 404
+lever,alltrails,ok,1,0,1,2.18,
+lever,alluxio,ok,12,0,1,2.29,
+lever,allworknow,not_found,0,0,1,2.2,GET 404
+lever,alom,ok,5,0,1,3.12,
+lever,alpineimmunesciences,not_found,0,0,1,2.14,GET 404
+lever,alpinestars,ok,9,0,1,2.23,
+lever,altaml,ok,6,0,1,2.3,
+lever,altarum,ok,6,0,1,2.22,
+lever,altoida,not_found,0,0,1,2.01,GET 404
+lever,altrio,not_found,0,0,1,1.97,GET 404
+lever,aluna,not_found,0,0,1,2.05,GET 404
+lever,alveotechnologies,empty,0,0,1,2.01,
+lever,amanotes,ok,14,0,1,2.35,
+lever,amarbank,ok,59,0,1,2.37,
+lever,amaro,not_found,0,0,1,2.1,GET 404
+lever,amaze,not_found,0,0,1,1.98,GET 404
+lever,amberbio,not_found,0,0,1,2.09,GET 404
+lever,ambercycle,not_found,0,0,1,1.98,GET 404
+lever,amberelectric,empty,0,0,1,2.39,
+lever,amberflo,not_found,0,0,1,2.18,GET 404
+lever,ambergroup,ok,3,0,1,2.24,
+lever,ambirobotics,ok,5,0,1,2.23,
+lever,ambrook,not_found,0,0,1,2.17,GET 404
+lever,americantall,ok,7,0,1,2.54,
+lever,amerisave,not_found,0,0,1,2.5,GET 404
+lever,amiri,not_found,0,0,1,2.2,GET 404
+lever,amityfdn,ok,113,0,1,2.56,
+lever,ammobia,ok,2,0,1,2.13,
+lever,amobee,not_found,0,0,1,2.2,GET 404
+lever,ampd-energy,ok,10,0,1,2.29,
+lever,ampeco-global,ok,10,2,1,2.35,
+lever,amplitude,not_found,0,0,1,2.35,GET 404
+lever,ams-corp,not_found,0,0,1,4.28,GET 404
+lever,amsty,ok,3,0,1,2.24,
+lever,amtengineering,ok,106,0,1,2.65,
+lever,amused-group,not_found,0,0,1,2.18,GET 404
+lever,amyris,not_found,0,0,1,2.31,GET 404
+lever,ana-corp,ok,18,0,1,2.45,
+lever,anagram,not_found,0,0,1,2.25,GET 404
+lever,anagramsecurity,ok,1,0,1,2.34,
+lever,analog,not_found,0,0,1,2.32,GET 404
+lever,analogfolk,not_found,0,0,1,2.54,GET 404
+lever,analuisa,not_found,0,0,1,2.18,GET 404
+lever,analyticpartners,ok,21,0,1,2.47,
+lever,anavationllc,ok,72,0,1,2.58,
+lever,ancestry,not_found,0,0,1,2.29,GET 404
+lever,anchorage,ok,23,0,1,2.83,
+lever,andersencorp,ok,107,0,1,2.55,
+lever,andersgroup,ok,1,0,1,2.28,
+lever,anduril,not_found,0,0,1,2.19,GET 404
+lever,angaza,not_found,0,0,1,2.25,GET 404
+lever,angel,not_found,0,0,1,2.45,GET 404
+lever,angellist,ok,35,2,1,2.47,
+lever,anglehealth,not_found,0,0,1,2.23,GET 404
+lever,animaapp,not_found,0,0,1,2.23,GET 404
+lever,animaker,not_found,0,0,1,2.56,GET 404
+lever,animocabrands,ok,13,0,1,2.46,
+lever,animoto,not_found,0,0,1,2.39,GET 404
+lever,anjuna,not_found,0,0,1,2.09,GET 404
+lever,anlatan,not_found,0,0,1,2.27,GET 404
+lever,annalise,not_found,0,0,1,2.21,GET 404
+lever,anomali,ok,6,0,1,2.41,
+lever,anomalo,not_found,0,0,1,2.27,GET 404
+lever,anomaly,ok,2,0,1,2.36,
+lever,anotherco,ok,18,0,1,2.43,
+lever,anovium,not_found,0,0,1,2.26,GET 404
+lever,ans,ok,24,0,1,5.66,
+lever,ansatzcapital,ok,5,0,1,2.19,
+lever,ansira,empty,0,0,1,3.83,
+lever,anthropic,not_found,0,0,1,2.54,GET 404
+lever,anticapital,not_found,0,0,1,3.58,GET 404
+lever,antisocialsocialcapital,not_found,0,0,1,4.15,GET 404
+lever,anybotics,ok,24,0,1,4.61,
+lever,anyperk,not_found,0,0,1,2.25,GET 404
+lever,anyroad,not_found,0,0,1,2.23,GET 404
+lever,anyscale,not_found,0,0,1,2.21,GET 404
+lever,anysignal,not_found,0,0,1,2.3,GET 404
+lever,anzen,not_found,0,0,1,2.86,GET 404
+lever,aofl,not_found,0,0,1,2.34,GET 404
+lever,aogarciaagency,ok,3821,0,1,3.26,
+lever,aon3d,not_found,0,0,1,2.19,GET 404
+lever,apartmentlife,not_found,0,0,1,2.58,GET 404
+lever,apartmentlist,not_found,0,0,1,2.31,GET 404
+lever,apax,empty,0,0,1,2.33,
+lever,apcoholdings,ok,22,0,1,2.75,
+lever,apdscorporate,not_found,0,0,1,2.3,GET 404
+lever,aperturehealth,empty,0,0,1,2.31,
+lever,apex,not_found,0,0,1,2.34,GET 404
+lever,apex-ai,ok,7,7,1,2.53,
+lever,apexaba,ok,48,0,1,2.59,
+lever,apexpi,ok,2,0,1,2.38,
+lever,api-ux,not_found,0,0,1,1.91,GET 404
+lever,apible,not_found,0,0,1,1.81,GET 404
+lever,apogeetherapeutics,not_found,0,0,1,1.89,GET 404
+lever,apollo,not_found,0,0,1,1.9,GET 404
+lever,apolloagriculture,ok,3,1,1,2.34,
+lever,apollographql,not_found,0,0,1,1.87,GET 404
+lever,apolloresearch,ok,11,0,1,2.23,
+lever,aposto,not_found,0,0,1,1.72,GET 404
+lever,appacademy,not_found,0,0,1,1.72,GET 404
+lever,appboxo,not_found,0,0,1,1.75,GET 404
+lever,appcues-2,empty,0,0,1,2.18,
+lever,appen,ok,16,0,1,2.09,
+lever,appen-2,ok,27,0,1,2.18,
+lever,appfigures,empty,0,0,1,1.85,
+lever,appfollow,empty,0,0,1,2.49,
+lever,apphub,not_found,0,0,1,2.05,GET 404
+lever,appletreedental,ok,54,0,1,2.43,
+lever,appliedminds,not_found,0,0,1,1.96,GET 404
+lever,applike,empty,0,0,1,2.23,
+lever,applovin,not_found,0,0,1,2.2,GET 404
+lever,applyboard,not_found,0,0,1,2.23,GET 404
+lever,applydigital,ok,11,0,1,2.39,
+lever,appnation,ok,13,0,1,2.83,
+lever,appointy,empty,0,0,1,2.32,
+lever,appsamurai,ok,5,1,1,3.0,
+lever,appsilon,not_found,0,0,1,2.47,GET 404
+lever,apptegy,not_found,0,0,1,2.16,GET 404
+lever,apptimize,not_found,0,0,1,2.29,GET 404
+lever,appzen,ok,18,1,1,2.42,
+lever,aprio,not_found,0,0,1,2.1,GET 404
+lever,apryse,ok,17,1,1,2.35,
+lever,apt-deco,not_found,0,0,1,2.12,GET 404
+lever,aptible,not_found,0,0,1,2.19,GET 404
+lever,aqemia.com,empty,0,0,1,2.38,
+lever,aquabyte,ok,2,0,1,2.11,
+lever,aquarium,empty,0,0,1,2.45,
+lever,aquicore,not_found,0,0,1,2.17,GET 404
+lever,arable,ok,3,0,1,2.67,
+lever,aragon,empty,0,0,1,2.18,
+lever,arbitalhealth,ok,4,0,1,2.15,
+lever,arbitrum-opco,empty,0,0,1,1.99,
+lever,arbitrumfoundation,ok,4,2,1,2.08,
+lever,arbol,not_found,0,0,1,2.08,GET 404
+lever,arbor,not_found,0,0,1,2.05,GET 404
+lever,arborenergy,not_found,0,0,1,2.6,GET 404
+lever,arcade,not_found,0,0,1,2.16,GET 404
+lever,arcadia,ok,15,0,1,2.33,
+lever,arcadiascience,empty,0,0,1,2.0,
+lever,arceoanalytics,not_found,0,0,1,2.04,GET 404
+lever,archive,not_found,0,0,1,2.04,GET 404
+lever,archivecom,empty,0,0,1,2.09,
+lever,arcoeducacao,not_found,0,0,1,2.18,GET 404
+lever,arcr,empty,0,0,1,2.1,
+lever,arcteryx.com,ok,233,5,1,2.64,
+lever,area1security,not_found,0,0,1,2.18,GET 404
+lever,argonaut,ok,2,0,1,2.36,
+lever,ariwalsh,not_found,0,0,1,2.32,GET 404
+lever,ark-solutions-inc,not_found,0,0,1,2.24,GET 404
+lever,arkbiotech,not_found,0,0,1,2.36,GET 404
+lever,arootah,ok,45,0,1,3.11,
+lever,arpa,not_found,0,0,1,2.25,GET 404
+lever,arraylabs.io,ok,31,0,1,2.52,
+lever,arrive,not_found,0,0,1,2.21,GET 404
+lever,arrivelogistics,ok,56,0,1,3.79,
+lever,arsenalbio,ok,1,0,1,2.2,
+lever,arsiem,ok,71,0,1,2.59,
+lever,artbio,ok,4,0,1,2.88,
+lever,artblocks,not_found,0,0,1,2.4,GET 404
+lever,artera,ok,7,0,1,2.31,
+lever,artera-2,ok,11,0,1,2.82,
+lever,articulate,ok,1,0,1,2.28,
+lever,artificial,not_found,0,0,1,2.28,GET 404
+lever,arundellodge,ok,21,0,1,2.55,
+lever,arvor-insurance,ok,3,0,1,2.56,
+lever,asap,not_found,0,0,1,2.42,GET 404
+lever,asapp-2,ok,9,0,1,2.54,
+lever,ascoeq,not_found,0,0,1,2.4,GET 404
+lever,asendia,empty,0,0,1,2.33,
+lever,asfar,not_found,0,0,1,2.24,GET 404
+lever,ashoka,ok,7,0,1,2.42,
+lever,asimov,not_found,0,0,1,2.33,GET 404
+lever,askfavor,ok,1,0,1,2.25,
+lever,aspiration-2,not_found,0,0,1,2.37,GET 404
+lever,assist-world,ok,33,0,1,19.76,
+lever,assurance,empty,0,0,1,2.63,
+lever,astera,not_found,0,0,1,2.11,GET 404
+lever,asthomecares,not_found,0,0,1,2.17,GET 404
+lever,astra,not_found,0,0,1,2.12,GET 404
+lever,astranis,not_found,0,0,1,2.05,GET 404
+lever,ataccama,ok,13,0,1,2.3,
+lever,atavistik-bio,ok,1,0,1,2.13,
+lever,atekinc,not_found,0,0,1,2.02,GET 404
+lever,athenapsych,ok,22,0,1,2.57,
+lever,athennian,not_found,0,0,1,2.17,GET 404
+lever,athletetoathlete,ok,3,0,1,2.02,
+lever,athleticgreens,not_found,0,0,1,2.28,GET 404
+lever,atibusinessgroup,ok,12,0,1,2.35,
+lever,atlan,not_found,0,0,1,2.19,GET 404
+lever,atlassian,not_found,0,0,1,22.87,GET 404
+lever,atmosera,ok,14,0,1,2.46,
+lever,atmosphere,not_found,0,0,1,2.66,GET 404
+lever,atob,not_found,0,0,1,2.31,GET 404
+lever,atomcomputing,ok,42,0,1,4.43,
+lever,atomi,ok,3,0,1,2.34,
+lever,atomic,not_found,0,0,1,2.41,GET 404
+lever,atomicmachines,empty,0,0,1,2.41,
+lever,atonarp,not_found,0,0,1,2.36,GET 404
+lever,atrium,not_found,0,0,1,2.18,GET 404
+lever,attabotics,empty,0,0,1,2.2,
+lever,attackiq,not_found,0,0,1,2.09,GET 404
+lever,attentive,not_found,0,0,1,2.19,GET 404
+lever,attentivemobile,not_found,0,0,1,2.25,GET 404
+lever,attn,not_found,0,0,1,2.17,GET 404
+lever,attovia-therapeutics,ok,2,0,1,2.24,
+lever,audinate,ok,8,0,1,2.43,
+lever,audius,not_found,0,0,1,2.19,GET 404
+lever,augmedix,not_found,0,0,1,2.17,GET 404
+lever,augustbioservices,not_found,0,0,1,13.62,GET 404
+lever,aurora-dev,ok,2,0,1,2.14,
+lever,aurorainsight,not_found,0,0,1,2.2,GET 404
+lever,aurorasolar,not_found,0,0,1,2.17,GET 404
+lever,australianethical,empty,0,0,1,15.02,
+lever,auth0,not_found,0,0,1,2.08,GET 404
+lever,authentic8,ok,2,0,1,2.01,
+lever,autify,not_found,0,0,1,2.0,GET 404
+lever,autofi,ok,5,0,1,2.3,
+lever,automatiq,ok,2,0,1,2.98,
+lever,automox,not_found,0,0,1,2.1,GET 404
+lever,autonomous,ok,2,0,1,2.83,
+lever,autonomys,not_found,0,0,1,2.28,GET 404
+lever,auw,ok,21,0,1,2.26,
+lever,av,not_found,0,0,1,2.09,GET 404
+lever,ava,not_found,0,0,1,19.52,GET 404
+lever,avalabs,not_found,0,0,1,2.1,GET 404
+lever,avalanchestudios,ok,4,0,1,2.14,
+lever,avalerehealth,ok,54,0,1,3.21,
+lever,avante,empty,0,0,1,2.04,
+lever,avantstay,not_found,0,0,1,2.07,GET 404
+lever,avela,not_found,0,0,1,15.8,GET 404
+lever,aventon,ok,10,0,1,2.2,
+lever,avenuesrecovery,ok,6,0,1,30.45,
+lever,avero,empty,0,0,1,1.91,
+lever,avertium,ok,8,0,1,2.21,
+lever,aviahealth,ok,2,0,1,2.04,
+lever,avioconsulting,empty,0,0,1,19.61,
+lever,avivesolutions,not_found,0,0,1,13.59,GET 404
+lever,aviyatech,ok,9,0,1,15.2,
+lever,avratalent,not_found,0,0,1,19.43,GET 404
+lever,avtex,empty,0,0,1,1.73,
+lever,avua,empty,0,0,1,1.79,
+lever,awake-security,not_found,0,0,1,1.7,GET 404
+lever,axelera,not_found,0,0,1,9.9,GET 404
+lever,axiomzen,not_found,0,0,1,1.71,GET 404
+lever,axionray,not_found,0,0,1,13.67,GET 404
+lever,axl,empty,0,0,1,1.81,
+lever,axon,not_found,0,0,1,1.8,GET 404
+lever,axoni,not_found,0,0,1,1.49,GET 404
+lever,axonify,not_found,0,0,1,1.58,GET 404
+lever,azavea,not_found,0,0,1,1.39,GET 404
+lever,aztal,not_found,0,0,1,13.75,GET 404
+lever,azul,ok,16,1,1,2.47,
+lever,babylonhealth,not_found,0,0,1,1.36,GET 404
+lever,back,not_found,0,0,1,1.25,GET 404
+lever,backbone,not_found,0,0,1,1.29,GET 404
+lever,backerkit,ok,1,0,1,1.31,
+lever,backflip,not_found,0,0,1,1.43,GET 404
+lever,backmarket,not_found,0,0,1,1.16,GET 404
+lever,backstage,not_found,0,0,1,10.84,GET 404
+lever,badal,not_found,0,0,1,1.1,GET 404
+lever,badge-group,ok,3,0,1,1.48,
+lever,badgermapping,empty,0,0,1,0.82,
+lever,bai-inc,not_found,0,0,1,0.9,GET 404
+lever,balbix,ok,11,0,1,1.12,
+lever,baller,not_found,0,0,1,0.79,GET 404
+lever,bambee,not_found,0,0,1,12.02,GET 404
+lever,bamko,ok,4,0,1,0.85,
+lever,bamtradingservices,not_found,0,0,1,11.6,GET 404
+lever,bananajobs,empty,0,0,1,0.7,
+lever,banglalink,not_found,0,0,1,0.71,GET 404
+lever,bannerbank,ok,63,0,1,1.0,
+lever,baoinc,ok,2,0,1,0.86,
+lever,barbaricum,not_found,0,0,1,0.81,GET 404
+lever,barecremation,not_found,0,0,1,0.81,GET 404
+lever,barefootproximity,not_found,0,0,1,0.65,GET 404
+lever,barkleyus,not_found,0,0,1,0.72,GET 404
+lever,barley,not_found,0,0,1,8.63,GET 404
+lever,barrel,not_found,0,0,1,0.5,GET 404
+lever,base-flowa,ok,14,0,1,0.74,
+lever,baselane,ok,6,0,1,0.76,
+lever,basis,ok,8,0,1,1.03,
+lever,batterymetals,not_found,0,0,1,0.7,GET 404
+lever,battlecreekchurch,not_found,0,0,1,5.19,GET 404
+lever,bayzat,not_found,0,0,1,0.61,GET 404
+lever,bazaarvoice,ok,10,0,1,17.83,
+lever,bb2bank,not_found,0,0,1,17.74,GET 404
+lever,bcg,not_found,0,0,1,0.49,GET 404
+lever,bcipkg,ok,84,0,1,1.18,
+lever,bdg,not_found,0,0,1,0.44,GET 404
+lever,beacon,not_found,0,0,1,0.31,GET 404
+lever,beacondigitalmarketing,not_found,0,0,1,0.23,GET 404
+lever,beam,empty,0,0,1,0.72,
+lever,beam-impact,not_found,0,0,1,0.22,GET 404
+lever,beamy,not_found,0,0,1,0.22,GET 404
+lever,beanstalkagtech,not_found,0,0,1,0.75,GET 404
+lever,beautybarrage,ok,215,0,1,18.32,
+lever,beautyhaul,not_found,0,0,1,0.28,GET 404
+lever,beaverprocess,ok,7,0,1,0.69,
+lever,bebop,not_found,0,0,1,0.22,GET 404
+lever,beckley-clinical,ok,4,0,1,0.29,
+lever,bedrockenergy,ok,6,0,1,0.34,
+lever,bedrockocean,not_found,0,0,1,0.23,GET 404
+lever,bee-talents,ok,17,0,1,0.44,
+lever,beedie,ok,15,0,1,0.45,
+lever,beegreen,ok,10,0,1,0.44,
+lever,beemenergy,not_found,0,0,1,0.27,GET 404
+lever,beetalents,not_found,0,0,1,0.23,GET 404
+lever,beghouconsulting,ok,57,0,1,0.5,
+lever,behaviorcaretherapy,ok,18,0,1,0.48,
+lever,bekk,ok,8,0,1,0.23,
+lever,belkins,ok,8,4,1,1.33,
+lever,bellese,ok,9,0,1,0.49,
+lever,bellhops,not_found,0,0,1,0.36,GET 404
+lever,bellotalabs,ok,10,0,1,0.51,
+lever,bellwetheram-2,ok,9,0,1,18.22,
+lever,belong,not_found,0,0,1,0.3,GET 404
+lever,belonghome,not_found,0,0,1,18.56,GET 404
+lever,belvederetrading,ok,13,0,1,0.5,
+lever,benchling,not_found,0,0,1,0.31,GET 404
+lever,benchsci,empty,0,0,1,12.46,
+lever,benlabs,not_found,0,0,1,0.26,GET 404
+lever,bentoboxent,ok,3,0,1,3.04,
+lever,bespokepost,ok,3,0,1,0.48,
+lever,bestegg,not_found,0,0,1,1.45,GET 404
+lever,beta,not_found,0,0,1,0.25,GET 404
+lever,betr,ok,8,0,1,1.72,
+lever,betstamp,not_found,0,0,1,0.23,GET 404
+lever,better,empty,0,0,1,0.23,
+lever,betterlifepartners,empty,0,0,1,0.23,
+lever,betterplaceforests,not_found,0,0,1,4.15,GET 404
+lever,beyond-creative,not_found,0,0,1,0.27,GET 404
+lever,beyondcloudconsulting,ok,3,0,1,0.45,
+lever,beyondmeat,not_found,0,0,1,0.4,GET 404
+lever,beyondmenu,ok,4,0,1,0.6,
+lever,beyondpricing,not_found,0,0,1,0.4,GET 404
+lever,bfp,not_found,0,0,1,0.42,GET 404
+lever,bfsaul,ok,21,0,1,0.85,
+lever,bfsaulhotels,ok,85,0,1,19.27,
+lever,bhg-inc,ok,10,0,1,0.61,
+lever,bhhc,ok,31,0,1,19.3,
+lever,bhvr,ok,25,0,1,4.24,
+lever,biconomy,not_found,0,0,1,0.6,GET 404
+lever,bigblue,ok,24,1,1,0.81,
+lever,bigfootbiomedical,not_found,0,0,1,2.26,GET 404
+lever,biggergames,not_found,0,0,1,0.44,GET 404
+lever,biggie,ok,11,0,1,13.25,
+lever,bighealth,ok,4,0,1,14.53,
+lever,bigtime,not_found,0,0,1,1.38,GET 404
+lever,bill,not_found,0,0,1,0.62,GET 404
+lever,bimone,not_found,0,0,1,0.56,GET 404
+lever,binance,ok,4,0,1,1.66,
+lever,binti,not_found,0,0,1,0.46,GET 404
+lever,bioagilytix,ok,17,1,1,8.66,
+lever,biobot,not_found,0,0,1,0.33,GET 404
+lever,biobus.org,ok,1,0,1,0.65,
+lever,biocatch,ok,13,0,1,0.61,
+lever,biodigital,ok,3,0,1,0.36,
+lever,bioenergydevco,not_found,0,0,1,0.88,GET 404
+lever,biointellisense,ok,7,0,1,0.52,
+lever,biorender,not_found,0,0,1,0.31,GET 404
+lever,bird,not_found,0,0,1,0.35,GET 404
+lever,birdcanada,not_found,0,0,1,0.24,GET 404
+lever,bis,ok,6,0,1,0.75,
+lever,bisnow,ok,31,0,1,0.61,
+lever,bitdefender,not_found,0,0,1,3.91,GET 404
+lever,bitly,not_found,0,0,1,0.56,GET 404
+lever,bitnami,not_found,0,0,1,0.41,GET 404
+lever,bitpanda,not_found,0,0,1,0.81,GET 404
+lever,bitquilltech,not_found,0,0,1,0.34,GET 404
+lever,bitrise,not_found,0,0,1,10.28,GET 404
+lever,bitwiseinvestments,not_found,0,0,1,0.51,GET 404
+lever,bixal,not_found,0,0,1,0.84,GET 404
+lever,bizaway,not_found,0,0,1,0.68,GET 404
+lever,bizlibrary,ok,1,0,1,11.46,
+lever,bkln,ok,2,0,1,0.87,
+lever,blablacar,ok,6,0,1,0.81,
+lever,black-white-zebra,not_found,0,0,1,10.0,GET 404
+lever,blackbirdinteractive,ok,1,0,1,3.4,
+lever,blackcloak,not_found,0,0,1,2.82,GET 404
+lever,blackcrow,not_found,0,0,1,0.73,GET 404
+lever,blackgirls-code,empty,0,0,1,0.84,
+lever,blackpanda,not_found,0,0,1,10.18,GET 404
+lever,blackriflecoffee,not_found,0,0,1,0.79,GET 404
+lever,blanc-labs,not_found,0,0,1,0.6,GET 404
+lever,blbglaw,ok,5,0,1,1.18,
+lever,blencorp,ok,3,0,1,0.66,
+lever,blendlabs,not_found,0,0,1,0.58,GET 404
+lever,blinkux,ok,4,0,1,0.78,
+lever,blinq,ok,9,0,1,11.66,
+lever,blocknative,not_found,0,0,1,0.29,GET 404
+lever,blockspring,not_found,0,0,1,0.31,GET 404
+lever,blockstack,not_found,0,0,1,0.23,GET 404
+lever,blockswap,not_found,0,0,1,0.28,GET 404
+lever,blocpower,not_found,0,0,1,0.45,GET 404
+lever,bloom,ok,9,0,1,0.92,
+lever,bloomcredit,not_found,0,0,1,0.86,GET 404
+lever,bloomon,ok,17,0,1,0.62,
+lever,bloomthat,not_found,0,0,1,0.32,GET 404
+lever,bloomwellcare,ok,46,0,1,0.58,
+lever,blox-route,empty,0,0,1,0.22,
+lever,blue,ok,10,2,1,14.7,
+lever,blueboard,not_found,0,0,1,1.06,GET 404
+lever,bluebottlecoffee,ok,76,0,1,0.95,
+lever,bluecatnetworks,ok,24,0,1,0.68,
+lever,bluecoding,ok,3,0,1,0.53,
+lever,bluecore,not_found,0,0,1,2.1,GET 404
+lever,bluedot,not_found,0,0,1,0.51,GET 404
+lever,blueengine,ok,4,0,1,0.44,
+lever,bluejlegal,not_found,0,0,1,0.34,GET 404
+lever,bluelabs,not_found,0,0,1,0.32,GET 404
+lever,blueland,ok,6,0,1,0.54,
+lever,bluelightconsulting,ok,754,0,1,20.01,
+lever,blueoceanai,not_found,0,0,1,0.52,GET 404
+lever,blueoceanbarns,not_found,0,0,1,0.49,GET 404
+lever,blueorigin,empty,0,0,1,1.25,
+lever,blueprinttitle,not_found,0,0,1,0.31,GET 404
+lever,bluerocktx,empty,0,0,1,0.56,
+lever,bluesight,ok,13,0,1,8.26,
+lever,bluesinc,not_found,0,0,1,0.44,GET 404
+lever,bluespace,not_found,0,0,1,0.44,GET 404
+lever,bluewheelmedia,not_found,0,0,1,0.3,GET 404
+lever,blum,not_found,0,0,1,0.41,GET 404
+lever,boastai,not_found,0,0,1,0.52,GET 404
+lever,boats,not_found,0,0,1,0.4,GET 404
+lever,bodo,not_found,0,0,1,0.51,GET 404
+lever,bodyport,not_found,0,0,1,1.19,GET 404
+lever,bogaardgroup,ok,7,0,1,0.75,
+lever,bold-orange,ok,9,0,1,0.88,
+lever,boldbusiness,not_found,0,0,1,1.04,GET 404
+lever,bolster,ok,1,0,1,0.66,
+lever,bolt,not_found,0,0,1,1.12,GET 404
+lever,boltbio,not_found,0,0,1,0.7,GET 404
+lever,boltjobs,ok,5,0,1,1.1,
+lever,bombfell,not_found,0,0,1,0.54,GET 404
+lever,bonedry,ok,66,0,1,0.94,
+lever,bonfirestudios,not_found,0,0,1,0.64,GET 404
+lever,bonial-2,not_found,0,0,1,0.56,GET 404
+lever,bonsaileadershipgroup,empty,0,0,1,0.63,
+lever,bonusly,not_found,0,0,1,0.87,GET 404
+lever,bookeeapp,not_found,0,0,1,0.7,GET 404
+lever,booknooklearning,not_found,0,0,1,0.79,GET 404
+lever,boomandbucket,not_found,0,0,1,2.25,GET 404
+lever,boostedboards,not_found,0,0,1,0.64,GET 404
+lever,boringcompany,not_found,0,0,1,0.7,GET 404
+lever,bosonai,ok,10,0,1,0.85,
+lever,bosta,not_found,0,0,1,0.74,GET 404
+lever,boston-materials,ok,9,0,1,0.94,
+lever,bostondynamicsaiinstitute,not_found,0,0,1,0.8,GET 404
+lever,bostonimaging,ok,7,0,1,1.01,
+lever,botify,not_found,0,0,1,0.78,GET 404
+lever,bottlerocketstudios,not_found,0,0,1,0.81,GET 404
+lever,boulderingproject,not_found,0,0,1,0.81,GET 404
+lever,boulevard,not_found,0,0,1,0.71,GET 404
+lever,bound,not_found,0,0,1,0.76,GET 404
+lever,bounteous,ok,32,0,1,0.99,
+lever,boweryfarming,not_found,0,0,1,0.78,GET 404
+lever,box,not_found,0,0,1,0.71,GET 404
+lever,boxbot,ok,5,0,1,0.89,
+lever,boxlunch,ok,4664,4,1,9.46,
+lever,bpmcpa,ok,50,0,1,1.15,
+lever,brafton,ok,16,0,1,7.98,
+lever,brainchildbio,ok,7,0,1,0.9,
+lever,brainnest,not_found,0,0,1,0.75,GET 404
+lever,brainstorminc,empty,0,0,1,0.7,
+lever,branch.gg,ok,1,0,1,0.71,
+lever,brand-knew,not_found,0,0,1,1.25,GET 404
+lever,braveventurelabs,not_found,0,0,1,1.21,GET 404
+lever,braviantholdings,ok,4,0,1,0.88,
+lever,brazoderecho,not_found,0,0,1,10.05,GET 404
+lever,breakwatertech,not_found,0,0,1,0.86,GET 404
+lever,brevo,ok,28,2,1,1.48,
+lever,brewbike,not_found,0,0,1,1.1,GET 404
+lever,brewbird,not_found,0,0,1,1.2,GET 404
+lever,bricknetworks,ok,31,0,1,1.54,
+lever,bridge,not_found,0,0,1,1.12,GET 404
+lever,bridge2rwanda,empty,0,0,1,5.18,
+lever,bridgebio,not_found,0,0,1,0.94,GET 404
+lever,brighte,ok,2,0,1,1.81,
+lever,brightedge,ok,21,0,1,1.32,
+lever,brighthealthplan,not_found,0,0,1,1.13,GET 404
+lever,brighthire,empty,0,0,1,1.11,
+lever,brightmachines,ok,17,0,1,1.26,
+lever,brightonjones,ok,45,0,1,1.4,
+lever,brightseedbio,not_found,0,0,1,1.12,GET 404
+lever,brightspot,not_found,0,0,1,1.32,GET 404
+lever,brightwheel,empty,0,0,1,2.22,
+lever,brilliant,ok,4,0,1,1.51,
+lever,brillio-2,ok,215,0,1,1.68,
+lever,brimstone,not_found,0,0,1,1.22,GET 404
+lever,brimstoneenergy,not_found,0,0,1,1.3,GET 404
+lever,brinc,not_found,0,0,1,1.36,GET 404
+lever,brindleyengineering,ok,36,0,1,5.01,
+lever,britecore,ok,8,0,1,1.43,
+lever,broadwaytechnology,not_found,0,0,1,1.33,GET 404
+lever,brookings,ok,6,0,1,1.27,
+lever,brooksrunning,ok,11,0,1,6.33,
+lever,brotherhoodcrusade,empty,0,0,1,1.12,
+lever,bssp,not_found,0,0,1,1.38,GET 404
+lever,btc,not_found,0,0,1,1.78,GET 404
+lever,btse,not_found,0,0,1,1.12,GET 404
+lever,buckmason,ok,253,0,1,2.12,
+lever,buildatmos,not_found,0,0,1,1.23,GET 404
+lever,buildgc,not_found,0,0,1,1.29,GET 404
+lever,buildingconnected,empty,0,0,1,1.76,
+lever,buildkite,not_found,0,0,1,1.35,GET 404
+lever,buildzoom,not_found,0,0,1,1.39,GET 404
+lever,builtrobotics,not_found,0,0,1,1.36,GET 404
+lever,bukuwarung,not_found,0,0,1,1.42,GET 404
+lever,bumbleinc,empty,0,0,1,1.61,
+lever,bunches,not_found,0,0,1,1.53,GET 404
+lever,bundle,not_found,0,0,1,2.38,GET 404
+lever,bungalow,not_found,0,0,1,1.42,GET 404
+lever,buoyhealth,not_found,0,0,1,1.51,GET 404
+lever,buoysoftware,empty,0,0,1,1.46,
+lever,burga,empty,0,0,1,1.62,
+lever,burnt,not_found,0,0,1,1.39,GET 404
+lever,burro,not_found,0,0,1,1.37,GET 404
+lever,busaracenter,not_found,0,0,1,1.4,GET 404
+lever,businesswire,ok,2,0,1,1.34,
+lever,bustle,not_found,0,0,1,1.34,GET 404
+lever,butcherbox,not_found,0,0,1,1.35,GET 404
+lever,butterpayments,not_found,0,0,1,1.39,GET 404
+lever,button,not_found,0,0,1,1.37,GET 404
+lever,buyboxexperts,empty,0,0,1,1.5,
+lever,bv,ok,10,0,1,1.52,
+lever,bvaccel,not_found,0,0,1,1.39,GET 404
+lever,c12qe,ok,8,0,1,1.8,
+lever,c16bio,not_found,0,0,1,1.51,GET 404
+lever,cabonorte,ok,35,2,1,1.65,
+lever,cagents,ok,96,3,1,1.84,
+lever,caliza-financial-technologies,ok,17,1,1,1.85,
+lever,call9,not_found,0,0,1,1.6,GET 404
+lever,callan,ok,5,0,1,1.79,
+lever,callistomedia,not_found,0,0,1,1.6,GET 404
+lever,calm,not_found,0,0,1,1.6,GET 404
+lever,calstart,not_found,0,0,1,1.66,GET 404
+lever,calven,not_found,0,0,1,1.7,GET 404
+lever,camber,not_found,0,0,1,1.7,GET 404
+lever,cambiumnetworks,ok,2,0,1,1.85,
+lever,cambly,not_found,0,0,1,1.8,GET 404
+lever,campspot,not_found,0,0,1,1.73,GET 404
+lever,campusworksinc,ok,18,0,1,1.86,
+lever,canarytechnologies,ok,13,1,1,1.87,
+lever,candidate,ok,1,0,1,1.69,
+lever,candlinspection,ok,37,0,1,1.96,
+lever,canimmunize,empty,0,0,1,1.79,
+lever,canopyservicing,not_found,0,0,1,1.7,GET 404
+lever,canva,not_found,0,0,1,1.68,GET 404
+lever,canvasforum,not_found,0,0,1,1.6,GET 404
+lever,canvasmedical,ok,6,0,1,1.79,
+lever,canvasww,ok,17,0,1,1.9,
+lever,capchase,not_found,0,0,1,1.75,GET 404
+lever,capital,ok,49,1,1,2.14,
+lever,capitalsolutionsgroup,ok,29,0,1,2.15,
+lever,capricor,ok,13,0,1,2.23,
+lever,captiv8,not_found,0,0,1,1.98,GET 404
+lever,captivateiq,ok,21,0,1,2.33,
+lever,carbon,not_found,0,0,1,2.01,GET 404
+lever,carbon6technologies,not_found,0,0,1,1.84,GET 404
+lever,carboncapture,empty,0,0,1,2.06,
+lever,carbondirect,not_found,0,0,1,2.05,GET 404
+lever,carbonhealth,empty,0,0,1,1.97,
+lever,cardanofoundation,not_found,0,0,1,2.41,GET 404
+lever,cardata,not_found,0,0,1,1.98,GET 404
+lever,cardiologs,ok,1,0,1,2.15,
+lever,cardiosense,ok,1,0,1,2.07,
+lever,cardless,not_found,0,0,1,2.36,GET 404
+lever,careaccessresearch,not_found,0,0,1,2.09,GET 404
+lever,careernowbrands,ok,3,0,1,2.18,
+lever,careerstaffing,not_found,0,0,1,2.2,GET 404
+lever,carelinks-aba,ok,56,0,1,3.73,
+lever,caremessage,empty,0,0,1,2.19,
+lever,careology,empty,0,0,1,2.11,
+lever,carestino,empty,0,0,1,3.32,
+lever,carewest,ok,66,0,1,4.04,
+lever,cargo-2,not_found,0,0,1,2.49,GET 404
+lever,cargo-partner,ok,87,0,1,3.24,
+lever,carismatherapeutics,not_found,0,0,1,2.07,GET 404
+lever,carlyriangroup,empty,0,0,1,2.69,
+lever,carma,not_found,0,0,1,2.21,GET 404
+lever,carolinacenterforaba,ok,51,0,1,2.53,
+lever,cart,not_found,0,0,1,2.16,GET 404
+lever,carta,not_found,0,0,1,2.17,GET 404
+lever,cartodb,not_found,0,0,1,2.21,GET 404
+lever,cartography,not_found,0,0,1,2.31,GET 404
+lever,cartrawler,ok,8,0,1,2.66,
+lever,carusoaffiliated,ok,8,0,1,2.22,
+lever,casa,not_found,0,0,1,2.17,GET 404
+lever,cascade-climate,ok,2,0,1,2.18,
+lever,casdincapital,not_found,0,0,1,2.13,GET 404
+lever,casetext,not_found,0,0,1,2.15,GET 404
+lever,caseware,ok,35,1,1,3.62,
+lever,cashrewards,not_found,0,0,1,2.39,GET 404
+lever,caslservice,ok,4,0,1,2.36,
+lever,catalate,ok,1,0,1,2.33,
+lever,catalist,ok,1,0,1,1.97,
+lever,catalyze,empty,0,0,1,1.78,
+lever,catbird,not_found,0,0,1,1.8,GET 404
+lever,catenamedia,not_found,0,0,1,1.83,GET 404
+lever,catlabs,empty,0,0,1,1.86,
+lever,causal-app,not_found,0,0,1,1.78,GET 404
+lever,cbtnuggets,ok,3,0,1,2.01,
+lever,ccmr3,not_found,0,0,1,1.94,GET 404
+lever,cdcfoundation,empty,0,0,1,2.0,
+lever,cef,empty,0,0,1,1.97,
+lever,celaralabs,ok,2,0,1,2.08,
+lever,celerion,ok,31,0,1,3.6,
+lever,celestia,empty,0,0,1,2.08,
+lever,cellares,ok,1,0,1,2.17,
+lever,celo,not_found,0,0,1,2.95,GET 404
+lever,centerfield,not_found,0,0,1,2.21,GET 404
+lever,centml,not_found,0,0,1,2.19,GET 404
+lever,centrifuge,ok,1,1,1,2.3,
+lever,centro,not_found,0,0,1,2.13,GET 404
+lever,cents,ok,7,0,1,2.1,
+lever,centuria,ok,19,0,1,2.64,
+lever,cere-network,not_found,0,0,1,2.09,GET 404
+lever,cerevel-2,not_found,0,0,1,2.3,GET 404
+lever,certifid,not_found,0,0,1,2.22,GET 404
+lever,certifyos,empty,0,0,1,2.92,
+lever,certik,ok,31,6,1,3.46,
+lever,cesiumastro,not_found,0,0,1,2.27,GET 404
+lever,ceso,ok,42,0,1,2.52,
+lever,cfgi,ok,79,0,1,2.72,
+lever,cfsenergy,ok,138,0,1,3.05,
+lever,cgsfederal,ok,1430,0,1,3.75,
+lever,chain,not_found,0,0,1,2.29,GET 404
+lever,chainlink,not_found,0,0,1,2.33,GET 404
+lever,challengecharterschools,ok,17,0,1,5.41,
+lever,chamberofprogress,not_found,0,0,1,2.51,GET 404
+lever,change,not_found,0,0,1,2.3,GET 404
+lever,channelape,ok,1,0,1,2.38,
+lever,charcuterie,ok,14,0,1,3.07,
+lever,chargelab-inc,ok,1,0,1,2.43,
+lever,chargezoom,ok,1,0,1,2.26,
+lever,chariot,not_found,0,0,1,2.19,GET 404
+lever,charitywater,ok,5,0,1,2.43,
+lever,charmindustrial,ok,8,0,1,2.4,
+lever,charter-impact,ok,3,0,1,2.22,
+lever,chartio,not_found,0,0,1,2.2,GET 404
+lever,chatmeter,not_found,0,0,1,2.26,GET 404
+lever,checkmate,not_found,0,0,1,2.1,GET 404
+lever,checkout,not_found,0,0,1,2.1,GET 404
+lever,cheerz,ok,1,0,1,2.1,
+lever,chefrobotics,not_found,0,0,1,1.93,GET 404
+lever,cherre,ok,1,0,1,2.44,
+lever,cherrytechnologies,not_found,0,0,1,1.99,GET 404
+lever,chestnutcarbon,ok,1,0,1,2.14,
+lever,chicago2024,not_found,0,0,1,1.98,GET 404
+lever,chironhealth,empty,0,0,1,1.92,
+lever,chooose,not_found,0,0,1,1.96,GET 404
+lever,chooosejobs,not_found,0,0,1,1.96,GET 404
+lever,choose,not_found,0,0,1,5.73,GET 404
+lever,chopra,empty,0,0,1,2.36,
+lever,chownow,ok,7,0,1,2.08,
+lever,chronicled-2,not_found,0,0,1,2.0,GET 404
+lever,churchatthepark,empty,0,0,1,2.09,
+lever,chyronhego,not_found,0,0,1,1.87,GET 404
+lever,ciandt,ok,125,0,1,2.55,
+lever,cic,ok,14,0,1,2.2,
+lever,ciceksepeti,ok,1,0,1,2.07,
+lever,cimgroup,ok,51,0,1,2.42,
+lever,cin7,ok,13,0,1,2.37,
+lever,cinchy,not_found,0,0,1,2.18,GET 404
+lever,ciphertrace,not_found,0,0,1,2.21,GET 404
+lever,circadiahealth,ok,67,0,1,2.63,
+lever,circlecareservices,ok,50,0,1,2.74,
+lever,circleco,not_found,0,0,1,2.29,GET 404
+lever,circlemedical,not_found,0,0,1,2.19,GET 404
+lever,circlepharma,empty,0,0,1,2.21,
+lever,circonus,not_found,0,0,1,2.14,GET 404
+lever,circulo,not_found,0,0,1,2.17,GET 404
+lever,cirquedusoleil,ok,53,1,1,8.83,
+lever,cision,not_found,0,0,1,2.29,GET 404
+lever,citadelsecurityusa,not_found,0,0,1,2.2,GET 404
+lever,citcon,ok,2,0,1,2.07,
+lever,citrineinformatics,not_found,0,0,1,2.04,GET 404
+lever,civitech,ok,10,0,1,7.97,
+lever,civitta,not_found,0,0,1,2.17,GET 404
+lever,ciwebgroup,not_found,0,0,1,2.15,GET 404
+lever,clabs,not_found,0,0,1,2.26,GET 404
+lever,clari,not_found,0,0,1,2.02,GET 404
+lever,clarifyhealth,ok,3,0,1,2.2,
+lever,clasp,not_found,0,0,1,1.99,GET 404
+lever,class,not_found,0,0,1,2.01,GET 404
+lever,class101,not_found,0,0,1,2.1,GET 404
+lever,cleanspark,ok,17,0,1,2.38,
+lever,clearbit,not_found,0,0,1,2.3,GET 404
+lever,clearcapital,ok,7,0,1,3.77,
+lever,clearedge,ok,30,0,1,2.31,
+lever,clearer,not_found,0,0,1,2.17,GET 404
+lever,clearpoint,ok,4,0,1,2.33,
+lever,clerky,empty,0,0,1,2.31,
+lever,clevertap,not_found,0,0,1,2.26,GET 404
+lever,clicktime,empty,0,0,1,2.32,
+lever,climate-collaborative,empty,0,0,1,2.17,
+lever,climateai,not_found,0,0,1,2.2,GET 404
+lever,climatepower,not_found,0,0,1,2.57,GET 404
+lever,climbcredit,not_found,0,0,1,2.2,GET 404
+lever,clinicalhealthnetworkfortransformation,not_found,0,0,1,2.11,GET 404
+lever,clipbook,not_found,0,0,1,2.05,GET 404
+lever,cloaked-app,empty,0,0,1,2.03,
+lever,cloud-academy,not_found,0,0,1,2.28,GET 404
+lever,cloudinary,ok,8,0,1,2.17,
+lever,cloudnc,not_found,0,0,1,6.15,GET 404
+lever,cloudwalk,not_found,0,0,1,2.44,GET 404
+lever,clovirtualfashion,ok,45,5,1,3.79,
+lever,clozd,not_found,0,0,1,3.72,GET 404
+lever,clubassist,not_found,0,0,1,2.06,GET 404
+lever,clubhouse,not_found,0,0,1,1.93,GET 404
+lever,cmgx,ok,12,0,1,2.31,
+lever,cnmllp,empty,0,0,1,1.98,
+lever,coalfire,ok,18,0,1,2.19,
+lever,coatesgroup,ok,15,0,1,4.69,
+lever,cobaltrobotics,ok,10,0,1,4.59,
+lever,cocodelivery,not_found,0,0,1,5.76,GET 404
+lever,cocollective,ok,2,0,1,4.34,
+lever,coda,not_found,0,0,1,3.29,GET 404
+lever,codapayments,not_found,0,0,1,2.01,GET 404
+lever,code2040,not_found,0,0,1,2.01,GET 404
+lever,codecombat,not_found,0,0,1,2.97,GET 404
+lever,codecov,not_found,0,0,1,2.02,GET 404
+lever,codelitt,not_found,0,0,1,2.07,GET 404
+lever,coderio,ok,38,0,1,2.25,
+lever,coderpad,ok,8,0,1,2.15,
+lever,codesee,not_found,0,0,1,2.54,GET 404
+lever,codeway,empty,0,0,1,2.55,
+lever,codewaystudios,not_found,0,0,1,1.84,GET 404
+lever,cofactr,not_found,0,0,1,2.83,GET 404
+lever,coffeemeetsbagel,not_found,0,0,1,1.8,GET 404
+lever,coforma,not_found,0,0,1,1.69,GET 404
+lever,cogentanalytics,ok,134,0,1,2.73,
+lever,cogentbiosciences,not_found,0,0,1,1.66,GET 404
+lever,cogility,empty,0,0,1,5.05,
+lever,cogitocorp,not_found,0,0,1,1.27,GET 404
+lever,cognite,not_found,0,0,1,1.3,GET 404
+lever,cognitiv,not_found,0,0,1,1.56,GET 404
+lever,cohere,not_found,0,0,1,1.18,GET 404
+lever,coil,not_found,0,0,1,1.18,GET 404
+lever,coiled,not_found,0,0,1,2.24,GET 404
+lever,coinflip,not_found,0,0,1,2.63,GET 404
+lever,coingecko,ok,2,0,1,1.32,
+lever,coinmarketcap,ok,8,8,1,1.49,
+lever,coins,ok,87,0,1,1.74,
+lever,coinshift,not_found,0,0,1,7.91,GET 404
+lever,coinsquare,not_found,0,0,1,1.49,GET 404
+lever,cointracker,not_found,0,0,1,1.32,GET 404
+lever,colibrigroup,empty,0,0,1,1.29,
+lever,collabora,ok,2,0,1,1.39,
+lever,collate,ok,17,0,1,2.71,
+lever,collectivei,not_found,0,0,1,1.41,GET 404
+lever,collectlyinc,not_found,0,0,1,1.99,GET 404
+lever,collegevine,not_found,0,0,1,1.47,GET 404
+lever,cologix,ok,21,0,1,1.84,
+lever,color,not_found,0,0,1,1.57,GET 404
+lever,coloradocoalition,ok,5,0,1,1.86,
+lever,colorofchange,not_found,0,0,1,1.71,GET 404
+lever,combo,not_found,0,0,1,1.87,GET 404
+lever,commencis,ok,6,0,1,5.87,
+lever,commentsold,not_found,0,0,1,1.77,GET 404
+lever,commerce-undergraduate,ok,13,0,1,1.96,
+lever,commercearchitects,ok,2,0,1,2.21,
+lever,common,not_found,0,0,1,1.7,GET 404
+lever,common-networks,not_found,0,0,1,1.76,GET 404
+lever,commoncause,ok,6,0,1,2.24,
+lever,commoncode,not_found,0,0,1,2.21,GET 404
+lever,commonfuture,ok,2,0,1,1.89,
+lever,commonlit,empty,0,0,1,1.86,
+lever,communityactionhouse,ok,4,0,1,6.07,
+lever,communityboost,not_found,0,0,1,1.9,GET 404
+lever,companial,ok,13,2,1,1.97,
+lever,companyon,empty,0,0,1,1.9,
+lever,compasslexecon,not_found,0,0,1,1.87,GET 404
+lever,compassx,ok,10,0,1,2.16,
+lever,complex,not_found,0,0,1,1.82,GET 404
+lever,comply,empty,0,0,1,1.92,
+lever,componentrepairtechnologies,ok,61,0,1,2.39,
+lever,composer,not_found,0,0,1,2.01,GET 404
+lever,compound-2,not_found,0,0,1,2.05,GET 404
+lever,compstak,ok,3,0,1,2.1,
+lever,computercare,ok,1,0,1,2.18,
+lever,comtravo,not_found,0,0,1,1.93,GET 404
+lever,concordnow,not_found,0,0,1,2.07,GET 404
+lever,concurrency,ok,3,0,1,2.18,
+lever,conduit,not_found,0,0,1,1.8,GET 404
+lever,conduktor,not_found,0,0,1,1.92,GET 404
+lever,confluent,not_found,0,0,1,1.9,GET 404
+lever,confluera,ok,11,0,1,3.98,
+lever,conjecture,not_found,0,0,1,1.89,GET 404
+lever,connectassistance,not_found,0,0,1,2.14,GET 404
+lever,connectly,not_found,0,0,1,4.58,GET 404
+lever,connectrn,not_found,0,0,1,2.23,GET 404
+lever,connexiatelerad,empty,0,0,1,2.1,
+lever,connext-network,ok,1,0,1,2.08,
+lever,connorgp,not_found,0,0,1,2.51,GET 404
+lever,constellation,not_found,0,0,1,1.94,GET 404
+lever,contabilizei,not_found,0,0,1,2.29,GET 404
+lever,contactout,not_found,0,0,1,1.99,GET 404
+lever,container-solutions,not_found,0,0,1,1.99,GET 404
+lever,contentsquare,ok,28,0,1,2.32,
+lever,continuumglobal,empty,0,0,1,1.91,
+lever,continuumindustries,not_found,0,0,1,2.36,GET 404
+lever,contra,not_found,0,0,1,1.92,GET 404
+lever,contrastsecurity,not_found,0,0,1,1.98,GET 404
+lever,controlup,ok,12,2,1,2.3,
+lever,convai-technologies-inc,not_found,0,0,1,2.02,GET 404
+lever,convelio,ok,11,4,1,2.49,
+lever,convergentresearch,ok,29,0,1,2.58,
+lever,conversantgroup,not_found,0,0,1,2.06,GET 404
+lever,conversenow,not_found,0,0,1,2.03,GET 404
+lever,conversica,ok,2,0,1,1.83,
+lever,coolbet,ok,7,0,1,1.95,
+lever,copia,ok,4,0,1,1.97,
+lever,copiapower,not_found,0,0,1,4.2,GET 404
+lever,copilotkit,empty,0,0,1,1.7,
+lever,copilotmoney,not_found,0,0,1,2.46,GET 404
+lever,copper,not_found,0,0,1,1.74,GET 404
+lever,copyai,not_found,0,0,1,1.84,GET 404
+lever,corbalt,empty,0,0,1,1.91,
+lever,cordtechnologies,not_found,0,0,1,1.9,GET 404
+lever,corebts,ok,10,0,1,1.98,
+lever,coredigitalmedia,not_found,0,0,1,4.02,GET 404
+lever,coreresponse,not_found,0,0,1,1.87,GET 404
+lever,cority,empty,0,0,1,1.82,
+lever,cornershopapp,not_found,0,0,1,1.92,GET 404
+lever,cos,not_found,0,0,1,1.81,GET 404
+lever,cottage,not_found,0,0,1,1.72,GET 404
+lever,couchbase,not_found,0,0,1,1.9,GET 404
+lever,coupa,ok,48,1,1,3.16,
+lever,coursera,not_found,0,0,1,1.96,GET 404
+lever,court-avenue,ok,18,0,1,2.8,
+lever,covariant,not_found,0,0,1,2.02,GET 404
+lever,cover-2,not_found,0,0,1,2.09,GET 404
+lever,covergenius,not_found,0,0,1,2.12,GET 404
+lever,cprime,ok,5,0,1,2.31,
+lever,cps,empty,0,0,1,4.01,
+lever,craft,not_found,0,0,1,2.21,GET 404
+lever,craftwater,ok,6,0,1,2.33,
+lever,craftwaterinc,not_found,0,0,1,2.2,GET 404
+lever,cratejoy,not_found,0,0,1,2.26,GET 404
+lever,creadits,not_found,0,0,1,2.16,GET 404
+lever,creativemarket,not_found,0,0,1,2.2,GET 404
+lever,creatordeck,ok,2,0,1,2.23,
+lever,creatoriq,not_found,0,0,1,2.38,GET 404
+lever,cred,ok,15,0,1,2.41,
+lever,credavenue,not_found,0,0,1,2.2,GET 404
+lever,creditkarma,not_found,0,0,1,2.2,GET 404
+lever,credo,not_found,0,0,1,2.19,GET 404
+lever,credplatform,not_found,0,0,1,2.2,GET 404
+lever,crescent-biopharma,ok,11,0,1,2.35,
+lever,cresta,not_found,0,0,1,4.61,GET 404
+lever,crestoperations,ok,106,0,1,3.44,
+lever,crewapp,not_found,0,0,1,2.0,GET 404
+lever,crewbloom,not_found,0,0,1,2.0,GET 404
+lever,crgo,ok,4,0,1,3.55,
+lever,crickethealth,not_found,0,0,1,1.89,GET 404
+lever,criticaltilt,not_found,0,0,1,1.89,GET 404
+lever,crosscountry-consulting,ok,103,0,1,2.24,
+lever,crossfit,ok,4,0,1,4.91,
+lever,crossing-minds,ok,4,0,1,2.08,
+lever,crosslaketech,ok,11,7,1,2.43,
+lever,crossvale,empty,0,0,1,2.15,
+lever,crowdriff,ok,2,0,1,4.57,
+lever,cruise,not_found,0,0,1,2.19,GET 404
+lever,crumbl,ok,1,0,1,2.06,
+lever,crunchbase,not_found,0,0,1,2.09,GET 404
+lever,crusoeenergy,not_found,0,0,1,3.04,GET 404
+lever,cruxinformatics,not_found,0,0,1,2.36,GET 404
+lever,cruxocm,ok,3,0,1,2.74,
+lever,crypticstudios,empty,0,0,1,3.22,
+lever,crypto,ok,81,0,1,2.65,
+lever,crypto-innovation,not_found,0,0,1,3.08,GET 404
+lever,crytek,ok,7,7,1,2.28,
+lever,csaassociates,not_found,0,0,1,2.1,GET 404
+lever,cscgeneration-2,ok,464,5,1,3.09,
+lever,csit,ok,105,0,1,3.23,
+lever,cti-md,ok,35,0,1,2.52,
+lever,cubegroup,ok,1,0,1,2.12,
+lever,culdesac,empty,0,0,1,1.84,
+lever,cullinanoncology,empty,0,0,1,1.89,
+lever,culturekings,ok,2,0,1,2.04,
+lever,culturetrip,not_found,0,0,1,1.81,GET 404
+lever,cuningham,ok,5,0,1,2.01,
+lever,cura,ok,4,0,1,2.05,
+lever,curai,ok,3,0,1,2.97,
+lever,curbio,not_found,0,0,1,2.0,GET 404
+lever,curefit,not_found,0,0,1,1.67,GET 404
+lever,curieco,not_found,0,0,1,2.2,GET 404
+lever,curimeta,not_found,0,0,1,2.12,GET 404
+lever,curio.gg,ok,2,0,1,1.6,
+lever,curiositymedia,not_found,0,0,1,1.65,GET 404
+lever,curology,not_found,0,0,1,1.68,GET 404
+lever,currencycloud,not_found,0,0,1,1.7,GET 404
+lever,curri,empty,0,0,1,2.94,
+lever,custodiabank,not_found,0,0,1,1.69,GET 404
+lever,cwsc,ok,83,1,1,2.34,
+lever,cx2,ok,5,0,1,2.23,
+lever,cxnpl,ok,11,0,1,4.62,
+lever,cxtsoftware,ok,3,0,1,2.0,
+lever,cyara,ok,14,1,1,2.38,
+lever,cybcube,not_found,0,0,1,1.91,GET 404
+lever,cybercare,not_found,0,0,1,1.82,GET 404
+lever,cyberfame,not_found,0,0,1,1.96,GET 404
+lever,cyberonesecurity,ok,2,0,1,2.06,
+lever,cybourn,ok,3,0,1,2.05,
+lever,cyderes,ok,10,0,1,2.42,
+lever,cye,not_found,0,0,1,2.08,GET 404
+lever,cygn,ok,1,0,1,4.72,
+lever,cyngn,empty,0,0,1,2.41,
+lever,cyvl-ai,not_found,0,0,1,2.1,GET 404
+lever,d-edge,not_found,0,0,1,2.09,GET 404
+lever,d-fendsolutions,ok,27,0,1,2.33,
+lever,dabsinc,ok,48,0,1,2.4,
+lever,dadavidson,ok,44,0,1,3.0,
+lever,daedalean,not_found,0,0,1,2.1,GET 404
+lever,dailywire,ok,13,0,1,2.29,
+lever,daniels-sharpsmart,ok,177,0,1,2.67,
+lever,danti.ai,ok,1,0,1,2.19,
+lever,daos-hub,ok,10,0,1,2.12,
+lever,darkslope,not_found,0,0,1,1.9,GET 404
+lever,darwinhomes,not_found,0,0,1,2.05,GET 404
+lever,dasservicesllc,not_found,0,0,1,2.09,GET 404
+lever,databricks,not_found,0,0,1,1.97,GET 404
+lever,datahawk,not_found,0,0,1,2.03,GET 404
+lever,dataiku,not_found,0,0,1,2.01,GET 404
+lever,datalabusa,ok,16,0,1,2.36,
+lever,dataplor,not_found,0,0,1,2.19,GET 404
+lever,dataroid,ok,4,0,1,2.34,
+lever,dave,not_found,0,0,1,2.33,GET 404
+lever,dawnlight,not_found,0,0,1,2.03,GET 404
+lever,dayblinkconsulting,empty,0,0,1,2.07,
+lever,dayonebio,not_found,0,0,1,2.1,GET 404
+lever,dazn,not_found,0,0,1,2.17,GET 404
+lever,dbtlabs,not_found,0,0,1,1.97,GET 404
+lever,dds,not_found,0,0,1,2.16,GET 404
+lever,dealerware,empty,0,0,1,2.02,
+lever,dealmaker,not_found,0,0,1,1.99,GET 404
+lever,dealpath,not_found,0,0,1,2.0,GET 404
+lever,debtsy,not_found,0,0,1,1.91,GET 404
+lever,decathlon,not_found,0,0,1,1.86,GET 404
+lever,decentraland,not_found,0,0,1,1.95,GET 404
+lever,decilegroup,ok,18,0,1,2.25,
+lever,deep6,not_found,0,0,1,2.16,GET 404
+lever,deepcell,not_found,0,0,1,2.09,GET 404
+lever,deepgenomics,empty,0,0,1,2.35,
+lever,deepgram,not_found,0,0,1,2.21,GET 404
+lever,deepjudge,not_found,0,0,1,2.2,GET 404
+lever,deepsky,ok,6,0,1,2.43,
+lever,defialliance,not_found,0,0,1,2.21,GET 404
+lever,deft,not_found,0,0,1,2.15,GET 404
+lever,degreed,not_found,0,0,1,2.17,GET 404
+lever,deleteme,ok,4,0,1,2.36,
+lever,delfidiagnostics,ok,9,0,1,2.5,
+lever,deliverect,ok,18,1,1,2.51,
+lever,deliveryrelay,not_found,0,0,1,2.42,GET 404
+lever,deloitte,not_found,0,0,1,2.3,GET 404
+lever,delphix,empty,0,0,1,2.36,
+lever,deltaairportconsultants,ok,4,0,1,2.51,
+lever,deltadental,not_found,0,0,1,2.46,GET 404
+lever,deltasands,ok,40,1,1,3.32,
+lever,delv,not_found,0,0,1,2.41,GET 404
+lever,demiurgestudios,empty,0,0,1,2.4,
+lever,demo,empty,0,0,1,2.39,
+lever,dempseyuniform-2,ok,18,0,1,2.67,
+lever,density,not_found,0,0,1,2.4,GET 404
+lever,deputy,ok,2,0,1,2.51,
+lever,dermalogica,empty,0,0,1,2.32,
+lever,desafiolatam,not_found,0,0,1,2.38,GET 404
+lever,desbytech,empty,0,0,1,2.31,
+lever,descript-2,not_found,0,0,1,2.34,GET 404
+lever,designetics,ok,1,0,1,2.4,
+lever,designpickle,not_found,0,0,1,2.29,GET 404
+lever,desmos,not_found,0,0,1,2.33,GET 404
+lever,despegar,ok,117,0,1,2.79,
+lever,destinationknot,ok,505,0,1,2.98,
+lever,deuna,ok,16,0,1,2.46,
+lever,devcycle,empty,0,0,1,2.21,
+lever,developers,empty,0,0,1,2.21,
+lever,developintelligence,ok,3,0,1,2.34,
+lever,device42,not_found,0,0,1,2.37,GET 404
+lever,devoted,not_found,0,0,1,2.39,GET 404
+lever,devsoftam,not_found,0,0,1,2.42,GET 404
+lever,dexcarehealth,ok,5,0,1,2.39,
+lever,dexterity,ok,13,0,1,2.52,
+lever,dga,ok,6,0,1,2.82,
+lever,dgraph,not_found,0,0,1,2.3,GET 404
+lever,dialogdesign,ok,14,0,1,2.51,
+lever,diamondage3d,not_found,0,0,1,2.13,GET 404
+lever,diamondfoundry,ok,41,1,1,2.4,
+lever,didi-global,not_found,0,0,1,2.2,GET 404
+lever,didomi,ok,5,1,1,2.35,
+lever,digimarc,not_found,0,0,1,2.29,GET 404
+lever,digital-matter,ok,4,0,1,2.43,
+lever,digitalfish,ok,3,0,1,2.92,
+lever,digitalmass,not_found,0,0,1,2.4,GET 404
+lever,digitalmediamanagement,ok,10,0,1,2.57,
+lever,digitalremedy,not_found,0,0,1,2.39,GET 404
+lever,digitalturbine,not_found,0,0,1,2.11,GET 404
+lever,dijital-team-pty-ltd,ok,28,0,1,3.38,
+lever,dilitrust,ok,36,6,1,2.86,
+lever,dimo,not_found,0,0,1,2.33,GET 404
+lever,diool,not_found,0,0,1,2.24,GET 404
+lever,dioxycle,not_found,0,0,1,2.3,GET 404
+lever,directi,not_found,0,0,1,2.31,GET 404
+lever,disher,ok,95,0,1,3.54,
+lever,dispo,not_found,0,0,1,2.28,GET 404
+lever,disqo,ok,4,0,1,2.44,
+lever,disruptivegames,not_found,0,0,1,2.21,GET 404
+lever,distro,ok,240,0,1,3.88,
+lever,distru,ok,5,3,1,2.31,
+lever,div,empty,0,0,1,2.18,
+lever,divergent3d,not_found,0,0,1,2.21,GET 404
+lever,diversified-automation,ok,12,0,1,2.48,
+lever,diversifiedradiology,not_found,0,0,1,2.68,GET 404
+lever,diversio,not_found,0,0,1,2.3,GET 404
+lever,dixa,not_found,0,0,1,2.38,GET 404
+lever,djeholdings,not_found,0,0,1,2.29,GET 404
+lever,dlocal,empty,0,0,1,2.29,
+lever,dmautoleasing,ok,21,0,1,2.42,
+lever,dnagenotek,ok,5,0,1,2.41,
+lever,dnb,ok,98,2,1,2.6,
+lever,dnc,not_found,0,0,1,2.44,GET 404
+lever,dng,ok,8,0,1,2.42,
+lever,dnllc,ok,98,0,1,2.53,
+lever,dntanks,not_found,0,0,1,2.21,GET 404
+lever,dnwest,ok,28,0,1,2.7,
+lever,docebo,empty,0,0,1,2.13,
+lever,dockwa,not_found,0,0,1,2.14,GET 404
+lever,docsumo,not_found,0,0,1,2.09,GET 404
+lever,doctrine,ok,35,3,1,2.36,
+lever,dodmg,ok,32,0,1,2.29,
+lever,dogdrop,not_found,0,0,1,2.08,GET 404
+lever,dollskill,ok,9,0,1,2.23,
+lever,domio,not_found,0,0,1,2.18,GET 404
+lever,done,not_found,0,0,1,2.34,GET 404
+lever,doola,ok,7,0,1,2.25,
+lever,doonails,ok,13,12,1,3.31,
+lever,doppler,not_found,0,0,1,2.17,GET 404
+lever,dorahacks,not_found,0,0,1,2.2,GET 404
+lever,doranjones,ok,1,0,1,2.22,
+lever,dott,not_found,0,0,1,2.3,GET 404
+lever,doubledown,empty,0,0,1,2.09,
+lever,doxel,ok,16,0,1,2.33,
+lever,dozee,ok,19,0,1,2.26,
+lever,dragonarmy,not_found,0,0,1,2.2,GET 404
+lever,draslovka,empty,0,0,1,2.2,
+lever,drchrono,not_found,0,0,1,2.13,GET 404
+lever,dreamgames,ok,17,0,1,2.34,
+lever,dreamgolf,ok,42,0,1,2.73,
+lever,dreamsports,not_found,0,0,1,19.52,GET 404
+lever,drip,not_found,0,0,1,2.31,GET 404
+lever,drivekyte,not_found,0,0,1,2.3,GET 404
+lever,drivemode,ok,14,0,1,2.37,
+lever,drivetrain,ok,36,3,1,2.45,
+lever,drivy,not_found,0,0,1,2.23,GET 404
+lever,drizly,not_found,0,0,1,2.56,GET 404
+lever,dronedeploy,empty,0,0,1,2.3,
+lever,dronesense,not_found,0,0,1,2.39,GET 404
+lever,dru-app,not_found,0,0,1,2.13,GET 404
+lever,dscout,not_found,0,0,1,2.38,GET 404
+lever,dsi,ok,9,0,1,2.37,
+lever,dten,not_found,0,0,1,2.33,GET 404
+lever,duetti,ok,1,0,1,2.3,
+lever,duffel,empty,0,0,1,19.61,
+lever,dulcedo,ok,13,0,1,2.52,
+lever,duolingo,not_found,0,0,1,2.09,GET 404
+lever,durin,not_found,0,0,1,2.89,GET 404
+lever,dutch,ok,19,0,1,2.56,
+lever,dwavesys,not_found,0,0,1,2.16,GET 404
+lever,dwolla,empty,0,0,1,2.32,
+lever,dydx-ops,not_found,0,0,1,19.45,GET 404
+lever,dynamiccatholic,ok,22,0,1,3.39,
+lever,dynamoai,not_found,0,0,1,2.2,GET 404
+lever,dynastystudios,not_found,0,0,1,2.21,GET 404
+lever,dynatrace,not_found,0,0,1,2.05,GET 404
+lever,dynavax,empty,0,0,1,2.15,
+lever,dyte-io,not_found,0,0,1,2.2,GET 404
+lever,dzen,empty,0,0,1,2.1,
+lever,e-core,not_found,0,0,1,19.48,GET 404
+lever,e2optics,not_found,0,0,1,2.2,GET 404
+lever,eargo,not_found,0,0,1,2.2,GET 404
+lever,earlybird,not_found,0,0,1,2.24,GET 404
+lever,earthspecies,empty,0,0,1,19.38,
+lever,eastern-communications,ok,10,0,1,2.37,
+lever,eastwall,not_found,0,0,1,2.27,GET 404
+lever,easyagile,empty,0,0,1,2.3,
+lever,easybrain,ok,12,0,1,2.26,
+lever,easypost-2,ok,2,0,1,16.61,
+lever,easystreetcap,ok,8,0,1,2.25,
+lever,eaze,not_found,0,0,1,1.98,GET 404
+lever,ebury,not_found,0,0,1,1.9,GET 404
+lever,ecldc,ok,6,0,1,2.05,
+lever,ecocart,not_found,0,0,1,19.23,GET 404
+lever,economicmodeling,ok,22,0,1,2.07,
+lever,econstruct,ok,19,0,1,2.15,
+lever,ecosia,not_found,0,0,1,1.98,GET 404
+lever,ecosystem,ok,16,0,1,2.18,
+lever,edacious,empty,0,0,1,2.0,
+lever,edenhealth,not_found,0,0,1,1.9,GET 404
+lever,edera,empty,0,0,1,1.91,
+lever,edge-impulse,not_found,0,0,1,1.9,GET 404
+lever,edgeofs,ok,27,0,1,2.07,
+lever,edgrp,not_found,0,0,1,1.82,GET 404
+lever,edisonenergy,not_found,0,0,1,1.82,GET 404
+lever,editorialist,ok,8,1,1,19.24,
+lever,edpuzzle,ok,3,0,1,1.85,
+lever,edr,empty,0,0,1,15.7,
+lever,education-services,empty,0,0,1,1.77,
+lever,educationatwork,not_found,0,0,1,11.58,GET 404
+lever,educative,ok,12,0,1,1.81,
+lever,efinti,empty,0,0,1,1.54,
+lever,efront,not_found,0,0,1,1.6,GET 404
+lever,egen,ok,21,0,1,1.95,
+lever,egenesisbio,ok,11,0,1,1.76,
+lever,egensolutions,not_found,0,0,1,1.61,GET 404
+lever,eh2,not_found,0,0,1,11.94,GET 404
+lever,einride,not_found,0,0,1,1.68,GET 404
+lever,ekimetrics,ok,26,0,1,19.26,
+lever,ekohealth,ok,8,0,1,1.73,
+lever,elearningmind,not_found,0,0,1,1.63,GET 404
+lever,electricmind,ok,15,0,1,1.99,
+lever,electrifiedthermalsolutions,not_found,0,0,1,1.49,GET 404
+lever,electrum,not_found,0,0,1,1.49,GET 404
+lever,eleks,ok,19,2,1,1.46,
+lever,elementsolutions,ok,2,0,1,1.39,
+lever,elementus,not_found,0,0,1,13.58,GET 404
+lever,elevatelabs,not_found,0,0,1,18.45,GET 404
+lever,elfbeauty,ok,62,0,1,18.95,
+lever,eliyan,ok,21,0,1,1.45,
+lever,ellevationeducation,ok,5,0,1,1.41,
+lever,elliemae,not_found,0,0,1,1.1,GET 404
+lever,elliveproductions,not_found,0,0,1,1.15,GET 404
+lever,elodiegames,not_found,0,0,1,1.1,GET 404
+lever,elroyair,ok,7,0,1,1.26,
+lever,elty,ok,2,0,1,2.19,
+lever,elvah,not_found,0,0,1,1.05,GET 404
+lever,emburse,ok,32,0,1,1.42,
+lever,emeraldtherapeutics,not_found,0,0,1,0.73,GET 404
+lever,emersoncollective,empty,0,0,1,18.56,
+lever,emersonhc,empty,0,0,1,0.9,
+lever,emesent,not_found,0,0,1,0.89,GET 404
+lever,emilabs,ok,9,1,1,1.07,
+lever,emilyslist,ok,3,0,1,0.82,
+lever,emitwise,empty,0,0,1,18.8,
+lever,emma-sleep,ok,63,20,1,27.25,
+lever,empassion.com,ok,1,0,1,0.62,
+lever,empiricotx,empty,0,0,1,1.06,
+lever,employ,ok,2,0,1,0.81,
+lever,empowerly,empty,0,0,1,0.53,
+lever,empowerpartnerships,not_found,0,0,1,19.36,GET 404
+lever,enable,ok,6,0,1,0.74,
+lever,enablecomp,ok,18,0,1,0.82,
+lever,enarahealth,not_found,0,0,1,0.4,GET 404
+lever,encore-renewable-energy,ok,2,0,1,0.58,
+lever,encorevet,not_found,0,0,1,0.43,GET 404
+lever,end,empty,0,0,1,0.4,
+lever,endless,not_found,0,0,1,0.38,GET 404
+lever,endlesswest,not_found,0,0,1,0.36,GET 404
+lever,endpointclinical,ok,26,0,1,0.62,
+lever,endpointclosing,empty,0,0,1,0.51,
+lever,endycanada,not_found,0,0,1,6.22,GET 404
+lever,energeticcapital,empty,0,0,1,13.15,
+lever,energy-by-5,empty,0,0,1,0.76,
+lever,energy-impact,not_found,0,0,1,0.4,GET 404
+lever,energyrecovery,ok,3,0,1,0.44,
+lever,energyvault,not_found,0,0,1,0.22,GET 404
+lever,enertechsearch,not_found,0,0,1,0.22,GET 404
+lever,enforceconsulting,ok,3,0,1,0.38,
+lever,engine,ok,2,0,1,0.46,
+lever,engine-ventures,ok,1,0,1,0.36,
+lever,enhanced-us,ok,1,0,1,18.88,
+lever,enjoybloom,not_found,0,0,1,0.23,GET 404
+lever,enlitic,not_found,0,0,1,0.29,GET 404
+lever,enso,not_found,0,0,1,0.23,GET 404
+lever,entangledtalent,not_found,0,0,1,0.23,GET 404
+lever,entanglelabs,not_found,0,0,1,0.22,GET 404
+lever,entefy,ok,14,0,1,0.34,
+lever,enter-rcm-llc,ok,3,0,1,4.8,
+lever,entrata,ok,23,0,1,0.44,
+lever,envato-2,ok,8,0,1,0.4,
+lever,enveda,ok,14,0,1,0.39,
+lever,envedabio,not_found,0,0,1,0.22,GET 404
+lever,envelio,ok,1,0,1,0.28,
+lever,envisionemploymentsolutions,not_found,0,0,1,0.24,GET 404
+lever,enya,not_found,0,0,1,0.22,GET 404
+lever,epicio,not_found,0,0,1,7.44,GET 404
+lever,epifi,empty,0,0,1,0.23,
+lever,episci,not_found,0,0,1,5.53,GET 404
+lever,epm,ok,2,0,1,0.28,
+lever,epoch-ai,ok,9,0,1,0.4,
+lever,epsilon3,ok,4,0,1,0.29,
+lever,eqbank,ok,81,0,1,8.74,
+lever,equativ,ok,22,0,1,0.47,
+lever,equiphealth,not_found,0,0,1,1.38,GET 404
+lever,er-meds,ok,30,0,1,0.45,
+lever,erg,ok,48,0,1,10.89,
+lever,erpsuccesspartners,ok,1,0,1,0.24,
+lever,esalen,ok,12,0,1,0.46,
+lever,espace,ok,100,1,1,1.61,
+lever,esper,ok,7,0,1,11.24,
+lever,esper-3,not_found,0,0,1,0.3,GET 404
+lever,espresso,not_found,0,0,1,6.23,GET 404
+lever,esrtreit,ok,9,0,1,5.23,
+lever,estenda,empty,0,0,1,0.3,
+lever,eternal,ok,4,0,1,1.51,
+lever,ethena,ok,5,0,1,1.07,
+lever,ethenalabs,empty,0,0,1,1.4,
+lever,ether-fi,not_found,0,0,1,0.34,GET 404
+lever,ethereumfoundation,not_found,0,0,1,0.36,GET 404
+lever,ethos,not_found,0,0,1,0.33,GET 404
+lever,ethree,ok,3,0,1,5.8,
+lever,etsy,not_found,0,0,1,0.31,GET 404
+lever,eudia,not_found,0,0,1,10.12,GET 404
+lever,eve,not_found,0,0,1,0.3,GET 404
+lever,evenfinancial,not_found,0,0,1,0.56,GET 404
+lever,eventbrite,not_found,0,0,1,4.86,GET 404
+lever,everbridge,ok,22,1,1,19.22,
+lever,everc,not_found,0,0,1,0.31,GET 404
+lever,evergreenstrategygroup,ok,1,0,1,0.27,
+lever,evergrow,not_found,0,0,1,0.36,GET 404
+lever,everlane,not_found,0,0,1,0.71,GET 404
+lever,everlaw,not_found,0,0,1,0.36,GET 404
+lever,everli,not_found,0,0,1,0.39,GET 404
+lever,everlywell,ok,16,0,1,0.59,
+lever,evidentid,ok,2,0,1,0.37,
+lever,evisort-2,not_found,0,0,1,1.23,GET 404
+lever,evocalize,not_found,0,0,1,0.36,GET 404
+lever,evr,ok,45,0,1,2.96,
+lever,evrealty-us,empty,0,0,1,0.31,
+lever,exa-labs,not_found,0,0,1,2.64,GET 404
+lever,exabeam,not_found,0,0,1,0.38,GET 404
+lever,exowatt,ok,15,0,1,1.63,
+lever,exp,not_found,0,0,1,13.59,GET 404
+lever,explodingkittens,ok,3,0,1,0.39,
+lever,explorejobssearch,not_found,0,0,1,6.55,GET 404
+lever,expopulus,not_found,0,0,1,1.67,GET 404
+lever,extremenetworks,ok,76,0,1,0.64,
+lever,extropic,empty,0,0,1,0.85,
+lever,exygy,empty,0,0,1,1.11,
+lever,ey-ps,not_found,0,0,1,0.71,GET 404
+lever,ezcater,empty,0,0,1,0.61,
+lever,f16y,not_found,0,0,1,0.37,GET 404
+lever,f8-federal,empty,0,0,1,0.54,
+lever,fabertechnologies,ok,10,0,1,0.75,
+lever,fabric,not_found,0,0,1,0.52,GET 404
+lever,fabrica,not_found,0,0,1,0.88,GET 404
+lever,factor,ok,9,0,1,0.98,
+lever,factored,not_found,0,0,1,1.04,GET 404
+lever,fairmat,not_found,0,0,1,0.52,GET 404
+lever,fairmatic,not_found,0,0,1,1.05,GET 404
+lever,falcon,empty,0,0,1,1.33,
+lever,fama,not_found,0,0,1,0.74,GET 404
+lever,fampay,ok,18,0,1,0.87,
+lever,fanatee,ok,10,0,1,0.95,
+lever,fanatics,not_found,0,0,1,0.96,GET 404
+lever,fantasy,empty,0,0,1,0.96,
+lever,farcast,not_found,0,0,1,1.0,GET 404
+lever,farfetch,ok,46,0,1,1.3,
+lever,farmgirlflowers,not_found,0,0,1,19.77,GET 404
+lever,farmwise,not_found,0,0,1,1.11,GET 404
+lever,fast,not_found,0,0,1,1.1,GET 404
+lever,fatetherapeutics,ok,6,0,1,1.3,
+lever,fathom5,not_found,0,0,1,1.39,GET 404
+lever,fathomhealth,not_found,0,0,1,1.29,GET 404
+lever,fathomradiant,not_found,0,0,1,1.58,GET 404
+lever,fazzfinancial,not_found,0,0,1,4.31,GET 404
+lever,federato,not_found,0,0,1,1.63,GET 404
+lever,feedmedia,not_found,0,0,1,2.03,GET 404
+lever,fehrandpeers,ok,39,0,1,1.93,
+lever,feldinc,ok,58,0,1,1.98,
+lever,felix-construction,ok,26,0,1,2.0,
+lever,fellowshiplifeinc,not_found,0,0,1,1.37,GET 404
+lever,femalefounders-fund,empty,0,0,1,1.49,
+lever,fenwaysports,ok,1,0,1,1.66,
+lever,fetchpackage,ok,46,0,1,2.01,
+lever,fevo,ok,1,0,1,1.45,
+lever,ffws,not_found,0,0,1,1.41,GET 404
+lever,fi,ok,7,0,1,1.42,
+lever,fiddlerlabs,not_found,0,0,1,1.44,GET 404
+lever,field-ai,ok,103,0,1,1.41,
+lever,fieldfastener,ok,13,0,1,1.74,
+lever,fieldnation,ok,16,0,1,1.26,
+lever,figfinancial,ok,4,0,1,1.21,
+lever,fightcamp,not_found,0,0,1,1.12,GET 404
+lever,figma,not_found,0,0,1,1.19,GET 404
+lever,filevine,ok,117,0,1,1.64,
+lever,financeinabox,not_found,0,0,1,1.42,GET 404
+lever,finch,ok,7,0,1,1.86,
+lever,finchloom,empty,0,0,1,2.28,
+lever,find,empty,0,0,1,1.49,
+lever,findem,ok,7,0,1,1.54,
+lever,findhelp,empty,0,0,1,1.5,
+lever,findigs,ok,3,0,1,1.9,
+lever,findmine,not_found,0,0,1,1.65,GET 404
+lever,findora,not_found,0,0,1,1.29,GET 404
+lever,finfit,empty,0,0,1,1.35,
+lever,finix,ok,27,0,1,4.44,
+lever,finleytechnologies,not_found,0,0,1,1.5,GET 404
+lever,finn,ok,30,30,1,1.82,
+lever,finquery,ok,5,0,1,1.84,
+lever,finstek,not_found,0,0,1,1.69,GET 404
+lever,fintual,ok,4,0,1,1.62,
+lever,finwavesemiconductor,not_found,0,0,1,1.54,GET 404
+lever,fireflyon,ok,1,0,1,1.63,
+lever,firemon,ok,15,1,1,1.73,
+lever,firewoodmarketing,not_found,0,0,1,1.53,GET 404
+lever,fireworkhq,ok,24,0,1,1.75,
+lever,firmex,not_found,0,0,1,1.61,GET 404
+lever,firstam,empty,0,0,1,1.7,
+lever,firsthand,not_found,0,0,1,1.76,GET 404
+lever,firstround,not_found,0,0,1,1.68,GET 404
+lever,firstup,ok,12,0,1,1.86,
+lever,fiscalnote,ok,1,0,1,1.77,
+lever,fishtownanalytics,not_found,0,0,1,1.87,GET 404
+lever,fitbod,empty,0,0,1,4.62,
+lever,fitifyworkouts,not_found,0,0,1,5.08,GET 404
+lever,fitzmark,ok,23,0,1,2.21,
+lever,fixinssoulkitchen,ok,36,0,1,5.66,
+lever,fizz,not_found,0,0,1,13.07,GET 404
+lever,flare,empty,0,0,1,1.79,
+lever,flaretherapeutics,not_found,0,0,1,1.89,GET 404
+lever,flash,not_found,0,0,1,1.88,GET 404
+lever,flashapp,ok,23,0,1,2.03,
+lever,flatfile,empty,0,0,1,1.81,
+lever,flatironsdevelopment,not_found,0,0,1,1.79,GET 404
+lever,flawlessai,not_found,0,0,1,2.03,GET 404
+lever,fleetsmith,not_found,0,0,1,1.98,GET 404
+lever,flex,not_found,0,0,1,1.9,GET 404
+lever,flexcollegeprep,not_found,0,0,1,1.74,GET 404
+lever,flexiti,not_found,0,0,1,2.7,GET 404
+lever,fliff,not_found,0,0,1,3.29,GET 404
+lever,flightcx,not_found,0,0,1,1.43,GET 404
+lever,flipfit,not_found,0,0,1,1.4,GET 404
+lever,flipster,empty,0,0,1,2.85,
+lever,flockjay,not_found,0,0,1,2.46,GET 404
+lever,floqast,ok,35,1,1,1.66,
+lever,florence,ok,18,0,1,2.15,
+lever,floridadems,empty,0,0,1,1.41,
+lever,flowerave,not_found,0,0,1,1.47,GET 404
+lever,flowfoundation,not_found,0,0,1,1.78,GET 404
+lever,flowlife,ok,24,0,1,1.8,
+lever,flowspace,not_found,0,0,1,1.46,GET 404
+lever,flpstudio,not_found,0,0,1,1.53,GET 404
+lever,fluence,not_found,0,0,1,1.6,GET 404
+lever,flux-mobility,ok,8,0,1,1.77,
+lever,fluxergy-2,ok,5,0,1,1.46,
+lever,flynncompanies,ok,162,0,1,4.3,
+lever,flyrhospitality,not_found,0,0,1,1.46,GET 404
+lever,flyrlabs,not_found,0,0,1,1.02,GET 404
+lever,flytographer,not_found,0,0,1,1.87,GET 404
+lever,flywheel-2,not_found,0,0,1,1.21,GET 404
+lever,flywheeldigital,not_found,0,0,1,1.07,GET 404
+lever,flyzipline,not_found,0,0,1,1.12,GET 404
+lever,fnatic,not_found,0,0,1,1.2,GET 404
+lever,focuspartners,not_found,0,0,1,1.21,GET 404
+lever,fond,empty,0,0,1,1.37,
+lever,food52,not_found,0,0,1,1.85,GET 404
+lever,foodsmart,ok,18,0,1,2.54,
+lever,foodstuffs,ok,23,0,1,2.04,
+lever,forbrightbank,ok,13,0,1,1.73,
+lever,forestcarbonworks,not_found,0,0,1,1.52,GET 404
+lever,form,empty,0,0,1,1.75,
+lever,formant,not_found,0,0,1,1.69,GET 404
+lever,format,not_found,0,0,1,1.73,GET 404
+lever,formelife,not_found,0,0,1,1.79,GET 404
+lever,formenergy,not_found,0,0,1,12.42,GET 404
+lever,formidable,not_found,0,0,1,1.81,GET 404
+lever,formlogic,not_found,0,0,1,1.7,GET 404
+lever,formstack,not_found,0,0,1,1.69,GET 404
+lever,formulamonks,not_found,0,0,1,1.72,GET 404
+lever,forourfuturefund,empty,0,0,1,4.74,
+lever,fortahealth,not_found,0,0,1,2.08,GET 404
+lever,forterra,empty,0,0,1,1.82,
+lever,forto,not_found,0,0,1,1.81,GET 404
+lever,fortress,empty,0,0,1,1.84,
+lever,fortreum,not_found,0,0,1,1.85,GET 404
+lever,fortuneschool,not_found,0,0,1,1.61,GET 404
+lever,forusall,not_found,0,0,1,1.64,GET 404
+lever,foth,ok,63,0,1,3.33,
+lever,foundation-llm-technologies,ok,4,0,1,1.8,
+lever,founderscard,ok,7,0,1,1.89,
+lever,foundersfactory,not_found,0,0,1,1.83,GET 404
+lever,foundersfactoryafrica,not_found,0,0,1,1.91,GET 404
+lever,foundry-ai,not_found,0,0,1,2.06,GET 404
+lever,fourth,not_found,0,0,1,1.89,GET 404
+lever,foxen,not_found,0,0,1,1.89,GET 404
+lever,foxitsoftware,ok,7,0,1,2.23,
+lever,foxtrotco,not_found,0,0,1,1.98,GET 404
+lever,fp,ok,11,0,1,2.18,
+lever,fractional,not_found,0,0,1,1.8,GET 404
+lever,framework,not_found,0,0,1,1.83,GET 404
+lever,franklinai,not_found,0,0,1,1.9,GET 404
+lever,freebalance.com,ok,21,0,1,2.67,
+lever,freedompay,ok,27,0,1,2.16,
+lever,freedomprep,ok,6,0,1,3.6,
+lever,freedomsolarpower,ok,14,0,1,3.17,
+lever,freeletics,not_found,0,0,1,2.0,GET 404
+lever,freiheit-2,ok,9,8,1,2.02,
+lever,fresha,not_found,0,0,1,1.76,GET 404
+lever,freshhealth,not_found,0,0,1,1.84,GET 404
+lever,freshly,not_found,0,0,1,1.91,GET 404
+lever,freshworks,empty,0,0,1,1.78,
+lever,frontapp,not_found,0,0,1,3.0,GET 404
+lever,frontify,empty,0,0,1,2.02,
+lever,frontsteps,empty,0,0,1,2.16,
+lever,frubana,not_found,0,0,1,1.77,GET 404
+lever,ftc,not_found,0,0,1,1.68,GET 404
+lever,ftxus,not_found,0,0,1,1.78,GET 404
+lever,fuellabs,ok,1,0,1,1.86,
+lever,fulcrumpro,ok,6,0,1,2.34,
+lever,fulcrumservices,not_found,0,0,1,1.82,GET 404
+lever,fullscreen,not_found,0,0,1,1.7,GET 404
+lever,fullscript,ok,15,0,1,1.95,
+lever,fullspectrumsoftware,ok,6,0,1,2.89,
+lever,fullstacklabs,not_found,0,0,1,1.67,GET 404
+lever,fullyvested,ok,5,0,1,1.93,
+lever,fundapps,not_found,0,0,1,1.7,GET 404
+lever,fundera,not_found,0,0,1,1.75,GET 404
+lever,fundrise,ok,2,0,1,1.88,
+lever,funxyz,ok,13,0,1,2.1,
+lever,fuse,not_found,0,0,1,1.9,GET 404
+lever,futurelaboratori,not_found,0,0,1,2.96,GET 404
+lever,futurenow,ok,6,0,1,1.88,
+lever,futureof-life,ok,11,8,1,2.22,
+lever,fwgsolutions,ok,32,0,1,2.17,
+lever,fynd,not_found,0,0,1,1.84,GET 404
+lever,fyusion,not_found,0,0,1,1.89,GET 404
+lever,g2i,not_found,0,0,1,1.94,GET 404
+lever,gagezero,ok,1,0,1,1.83,
+lever,galatea,ok,2,0,1,1.97,
+lever,galatea-associates,ok,6,0,1,21.11,
+lever,galepartners,ok,11,0,1,3.67,
+lever,galvanick,ok,5,0,1,1.99,
+lever,gametime,not_found,0,0,1,2.51,GET 404
+lever,gamma,empty,0,0,1,1.89,
+lever,gantri,not_found,0,0,1,1.9,GET 404
+lever,gantry,not_found,0,0,1,1.9,GET 404
+lever,gate,ok,24,2,1,2.08,
+lever,gather-health,not_found,0,0,1,1.96,GET 404
+lever,gatherai,not_found,0,0,1,1.9,GET 404
+lever,gatheround,not_found,0,0,1,1.9,GET 404
+lever,gatorbio,ok,5,0,1,3.11,
+lever,gauntlet,ok,6,0,1,1.92,
+lever,gausslabs,ok,12,0,1,2.39,
+lever,gbatteries,not_found,0,0,1,1.97,GET 404
+lever,gdi,not_found,0,0,1,2.27,GET 404
+lever,gearset,not_found,0,0,1,1.89,GET 404
+lever,geckoboard,not_found,0,0,1,1.98,GET 404
+lever,genbio,ok,6,0,1,2.2,
+lever,genedit,not_found,0,0,1,2.31,GET 404
+lever,genefab,empty,0,0,1,3.2,
+lever,generallyintelligent,not_found,0,0,1,1.83,GET 404
+lever,generation,not_found,0,0,1,1.91,GET 404
+lever,genesis,empty,0,0,1,1.99,
+lever,genesis-ai,empty,0,0,1,2.24,
+lever,genesistherapeutics,not_found,0,0,1,1.99,GET 404
+lever,genome-medical,not_found,0,0,1,2.07,GET 404
+lever,genomicsplc,not_found,0,0,1,2.02,GET 404
+lever,gentibio,not_found,0,0,1,1.99,GET 404
+lever,geocomply-2,ok,6,0,1,2.19,
+lever,geophy,not_found,0,0,1,2.11,GET 404
+lever,geotab,not_found,0,0,1,2.11,GET 404
+lever,gess,ok,19,0,1,2.23,
+lever,get-vocal-pbc,ok,7,0,1,4.91,
+lever,getansa,not_found,0,0,1,2.42,GET 404
+lever,getaround,not_found,0,0,1,1.8,GET 404
+lever,getbuilt,not_found,0,0,1,1.96,GET 404
+lever,getcenter,not_found,0,0,1,1.77,GET 404
+lever,getcircuit,ok,4,0,1,1.99,
+lever,getcollaborative,ok,3,0,1,2.08,
+lever,getdeardoc,ok,1,0,1,1.97,
+lever,getdimension,ok,1,0,1,2.01,
+lever,getduranta,ok,5,0,1,2.06,
+lever,getfable,not_found,0,0,1,1.99,GET 404
+lever,getfivestar,ok,97,0,1,2.36,
+lever,getjerry,not_found,0,0,1,2.01,GET 404
+lever,getjones,not_found,0,0,1,2.22,GET 404
+lever,getlabs,ok,115,0,1,3.22,
+lever,getlago,not_found,0,0,1,2.14,GET 404
+lever,getmaple,ok,12,0,1,2.28,
+lever,getmetronome,not_found,0,0,1,2.02,GET 404
+lever,getmidas,ok,16,0,1,2.15,
+lever,getmulberry,not_found,0,0,1,2.41,GET 404
+lever,getmysa,not_found,0,0,1,2.2,GET 404
+lever,getpatch,not_found,0,0,1,1.91,GET 404
+lever,getsquire,empty,0,0,1,2.29,
+lever,gettyimages,ok,5,0,1,2.24,
+lever,getwingapp,ok,389,0,1,2.5,
+lever,getzuma,ok,6,0,1,2.27,
+lever,ghcorps,empty,0,0,1,2.06,
+lever,ghj,ok,121,0,1,2.43,
+lever,ghjadvisors,not_found,0,0,1,2.08,GET 404
+lever,ghsmartjobs,ok,6,1,1,2.82,
+lever,gigster,not_found,0,0,1,2.5,GET 404
+lever,ginkgobioworks,not_found,0,0,1,2.95,GET 404
+lever,girlswhocode,ok,1,0,1,2.21,
+lever,gitbook,not_found,0,0,1,2.11,GET 404
+lever,gitlab,not_found,0,0,1,1.96,GET 404
+lever,givax,not_found,0,0,1,1.94,GET 404
+lever,givebutter,not_found,0,0,1,2.09,GET 404
+lever,givewell,empty,0,0,1,2.04,
+lever,givinghhc,ok,138,0,1,3.02,
+lever,givingli,not_found,0,0,1,2.03,GET 404
+lever,glacierfish,ok,36,0,1,2.52,
+lever,glass-health-inc,ok,4,0,1,3.03,
+lever,glassnode,not_found,0,0,1,2.12,GET 404
+lever,glide,ok,19,0,1,2.14,
+lever,glidian,not_found,0,0,1,1.81,GET 404
+lever,glints,not_found,0,0,1,1.93,GET 404
+lever,glitch,not_found,0,0,1,2.05,GET 404
+lever,global-cxm,ok,21,1,1,2.17,
+lever,global-elite,not_found,0,0,1,2.09,GET 404
+lever,globalelitecareers,not_found,0,0,1,1.95,GET 404
+lever,globalstrategygroup,ok,4,0,1,2.03,
+lever,gloo,not_found,0,0,1,1.96,GET 404
+lever,glow.co,ok,2,0,1,2.08,
+lever,glowforge,not_found,0,0,1,2.3,GET 404
+lever,glsllc,ok,43,0,1,2.69,
+lever,glu,not_found,0,0,1,2.42,GET 404
+lever,gluegroups,ok,4,0,1,2.15,
+lever,gmo,ok,9,1,1,2.31,
+lever,go-cloudforce,ok,2,0,1,2.24,
+lever,go2-markets,not_found,0,0,1,2.15,GET 404
+lever,goabstract,not_found,0,0,1,2.1,GET 404
+lever,goalbookapp-2,ok,6,0,1,2.26,
+lever,goat,not_found,0,0,1,3.81,GET 404
+lever,gobrightside,not_found,0,0,1,1.85,GET 404
+lever,gocatalant,ok,8,0,1,2.15,
+lever,goconsensus,not_found,0,0,1,2.05,GET 404
+lever,goeverbright,not_found,0,0,1,1.92,GET 404
+lever,gofluent,ok,2,0,1,1.99,
+lever,goforward,not_found,0,0,1,2.0,GET 404
+lever,gogolook,not_found,0,0,1,2.03,GET 404
+lever,gohighlevel,ok,100,0,1,2.45,
+lever,gojek,not_found,0,0,1,2.11,GET 404
+lever,gojob,ok,76,1,1,2.55,
+lever,gokenamerica1,not_found,0,0,1,2.19,GET 404
+lever,goldcast,not_found,0,0,1,2.28,GET 404
+lever,goldfinch,not_found,0,0,1,2.22,GET 404
+lever,golfscopeinc,empty,0,0,1,1.99,
+lever,golucid,not_found,0,0,1,2.04,GET 404
+lever,gomaterials,ok,5,0,1,2.22,
+lever,gonetspeed,ok,26,0,1,2.62,
+lever,gong,not_found,0,0,1,2.09,GET 404
+lever,good-party,empty,0,0,1,2.15,
+lever,goodamerican,ok,10,0,1,2.36,
+lever,goodeggs,empty,0,0,1,2.3,
+lever,goodgamestudios,not_found,0,0,1,2.19,GET 404
+lever,goodleap,ok,22,0,1,2.52,
+lever,goodrx,not_found,0,0,1,2.04,GET 404
+lever,gopuff,ok,777,0,1,2.88,
+lever,gordian-bio,empty,0,0,1,2.12,
+lever,gorgias,not_found,0,0,1,2.2,GET 404
+lever,gorh,ok,312,10,1,2.79,
+lever,gorillalogic,not_found,0,0,1,2.18,GET 404
+lever,goshippo,not_found,0,0,1,5.33,GET 404
+lever,gostudion,ok,1,0,1,2.25,
+lever,goswift,ok,1,0,1,2.18,
+lever,gotit,not_found,0,0,1,1.98,GET 404
+lever,gotogroup,not_found,0,0,1,2.11,GET 404
+lever,gouconnect,ok,1,0,1,2.1,
+lever,gouspack,ok,8,0,1,2.35,
+lever,govini,not_found,0,0,1,2.2,GET 404
+lever,gowanco,not_found,0,0,1,1.98,GET 404
+lever,gpdq,ok,3,0,1,2.16,
+lever,gpsfx,not_found,0,0,1,2.1,GET 404
+lever,gr0,ok,4,0,1,2.76,
+lever,grab,not_found,0,0,1,2.09,GET 404
+lever,gradion,ok,5,0,1,2.27,
+lever,grafana,not_found,0,0,1,2.2,GET 404
+lever,grailbio,ok,14,0,1,2.44,
+lever,grand,ok,9,0,1,2.22,
+lever,grandrounds,not_found,0,0,1,4.06,GET 404
+lever,granicus,not_found,0,0,1,2.2,GET 404
+lever,grantstreet,ok,2,0,1,2.23,
+lever,granular,not_found,0,0,1,2.12,GET 404
+lever,grapesworldwide,empty,0,0,1,1.91,
+lever,grav,not_found,0,0,1,1.85,GET 404
+lever,gravie,empty,0,0,1,1.97,
+lever,gravisrobotics,ok,7,0,1,3.86,
+lever,graviticsspace,not_found,0,0,1,2.28,GET 404
+lever,graylog,empty,0,0,1,2.21,
+lever,grayscale,not_found,0,0,1,2.19,GET 404
+lever,great-gray-group,ok,16,0,1,2.38,
+lever,greenlight,ok,15,0,1,2.28,
+lever,greenroompr,not_found,0,0,1,2.2,GET 404
+lever,greenshieldholdings,not_found,0,0,1,3.92,GET 404
+lever,greybrook,not_found,0,0,1,2.13,GET 404
+lever,grid,not_found,0,0,1,2.12,GET 404
+lever,gridline,ok,3,0,1,2.1,
+lever,gridmatic,not_found,0,0,1,3.59,GET 404
+lever,gridware,ok,18,0,1,2.1,
+lever,grimm-co,not_found,0,0,1,2.59,GET 404
+lever,grizzly.co,empty,0,0,1,2.24,
+lever,groupbyinc,not_found,0,0,1,2.09,GET 404
+lever,groupthink,empty,0,0,1,2.2,
+lever,grove,not_found,0,0,1,2.06,GET 404
+lever,grow,not_found,0,0,1,2.09,GET 404
+lever,growthlending,not_found,0,0,1,2.1,GET 404
+lever,growthtribe,not_found,0,0,1,2.81,GET 404
+lever,gscloudsolutions,not_found,0,0,1,1.88,GET 404
+lever,gsr,not_found,0,0,1,1.92,GET 404
+lever,gts,not_found,0,0,1,3.09,GET 404
+lever,guardsquare,ok,1,0,1,1.92,
+lever,guidestareldercare,ok,47,0,1,9.44,
+lever,guidewire,not_found,0,0,1,1.93,GET 404
+lever,guild,not_found,0,0,1,1.97,GET 404
+lever,gurobioptimization,not_found,0,0,1,1.97,GET 404
+lever,gursey,ok,14,0,1,2.14,
+lever,gushwork,ok,12,0,1,2.32,
+lever,guusto,not_found,0,0,1,1.83,GET 404
+lever,gynger,empty,0,0,1,1.84,
+lever,h1,ok,18,0,1,2.26,
+lever,h2eventgroup,ok,10,0,1,1.95,
+lever,habito,not_found,0,0,1,2.1,GET 404
+lever,hackerone,not_found,0,0,1,3.22,GET 404
+lever,hadrian,not_found,0,0,1,1.9,GET 404
+lever,hakkoda,not_found,0,0,1,2.17,GET 404
+lever,hallow,not_found,0,0,1,2.17,GET 404
+lever,haloeurope,not_found,0,0,1,2.14,GET 404
+lever,halosbodycams,empty,0,0,1,2.12,
+lever,halter,not_found,0,0,1,2.1,GET 404
+lever,hamiltonps,not_found,0,0,1,1.88,GET 404
+lever,handoff,ok,9,0,1,2.09,
+lever,hannaandersson,ok,3,0,1,2.77,
+lever,hap-capital,not_found,0,0,1,2.08,GET 404
+lever,happn,not_found,0,0,1,2.1,GET 404
+lever,happy-sleep,ok,5,0,1,2.31,
+lever,happyco,ok,7,0,1,2.39,
+lever,happyfresh,not_found,0,0,1,2.54,GET 404
+lever,happyhiller,ok,77,0,1,2.5,
+lever,happymoney,not_found,0,0,1,2.09,GET 404
+lever,harlem-childrens-zone,empty,0,0,1,2.02,
+lever,harmonicdesign,empty,0,0,1,2.09,
+lever,harmony,ok,9,0,1,2.2,
+lever,harness,not_found,0,0,1,2.04,GET 404
+lever,harrisinsights,not_found,0,0,1,2.05,GET 404
+lever,harrison,not_found,0,0,1,2.1,GET 404
+lever,harrisonst,ok,7,0,1,3.31,
+lever,hartizenhomes,empty,0,0,1,2.05,
+lever,harvest-2,not_found,0,0,1,2.2,GET 404
+lever,hash,not_found,0,0,1,2.09,GET 404
+lever,hashtagpaid,ok,6,0,1,4.57,
+lever,hasi,ok,5,0,1,2.37,
+lever,hatch,not_found,0,0,1,2.2,GET 404
+lever,hatchcard,not_found,0,0,1,2.16,GET 404
+lever,hatchit,ok,28,0,1,2.39,
+lever,haus,not_found,0,0,1,2.81,GET 404
+lever,havenparkcommunities,ok,30,0,1,2.25,
+lever,havenpoint-health,ok,6,2,1,2.34,
+lever,hawaiianhost,ok,9,0,1,2.18,
+lever,hawkemedia,empty,0,0,1,2.04,
+lever,hawthorne-health,ok,40,0,1,2.24,
+lever,hayeslocums,ok,29,0,1,2.55,
+lever,hazelanalytics,not_found,0,0,1,2.23,GET 404
+lever,hcvt,ok,50,0,1,2.53,
+lever,hdvi,not_found,0,0,1,2.12,GET 404
+lever,hdworks,not_found,0,0,1,4.49,GET 404
+lever,headhunters,not_found,0,0,1,2.27,GET 404
+lever,headlight.health,ok,30,0,1,2.58,
+lever,headout,not_found,0,0,1,5.03,GET 404
+lever,headroyce,ok,2,0,1,2.32,
+lever,headspace,not_found,0,0,1,2.17,GET 404
+lever,health-atscale,not_found,0,0,1,2.35,GET 404
+lever,health-match,not_found,0,0,1,4.34,GET 404
+lever,healthatom,not_found,0,0,1,2.03,GET 404
+lever,healthcare,ok,6,0,1,2.19,
+lever,healthebay,not_found,0,0,1,1.81,GET 404
+lever,healthline,not_found,0,0,1,1.81,GET 404
+lever,healthmark-group,not_found,0,0,1,1.76,GET 404
+lever,healthtensor,not_found,0,0,1,2.4,GET 404
+lever,healthverity,not_found,0,0,1,1.98,GET 404
+lever,healx,ok,1,0,1,10.2,
+lever,heard,ok,1,0,1,4.36,
+lever,hearsaysystems,not_found,0,0,1,1.98,GET 404
+lever,heartbeathealth,ok,45,0,1,2.2,
+lever,heartflow,not_found,0,0,1,2.1,GET 404
+lever,heartworksvt,ok,14,0,1,3.1,
+lever,heaten-germany-gmbh,ok,5,5,1,2.8,
+lever,heetch,ok,25,0,1,2.24,
+lever,heirloomtechnologies,not_found,0,0,1,1.84,GET 404
+lever,helbiz,not_found,0,0,1,3.82,GET 404
+lever,hellobestow,not_found,0,0,1,1.99,GET 404
+lever,hellojagger,not_found,0,0,1,2.25,GET 404
+lever,hellomongoose,ok,4,0,1,2.03,
+lever,hellonanny,ok,6,0,1,2.94,
+lever,hellopicnic,not_found,0,0,1,1.9,GET 404
+lever,hellosign,not_found,0,0,1,1.94,GET 404
+lever,hellotickets,ok,1,0,1,1.98,
+lever,helm,not_found,0,0,1,2.0,GET 404
+lever,helpscout,not_found,0,0,1,6.32,GET 404
+lever,helpshift,not_found,0,0,1,1.7,GET 404
+lever,helsing,not_found,0,0,1,1.73,GET 404
+lever,herbl,not_found,0,0,1,1.66,GET 404
+lever,heretic-fund,not_found,0,0,1,1.69,GET 404
+lever,heritagevt,ok,6,0,1,2.44,
+lever,hermeus,ok,80,0,1,1.93,
+lever,herocosmetics,empty,0,0,1,2.06,
+lever,hevo,ok,1,0,1,1.69,
+lever,hevodata,ok,39,0,1,1.97,
+lever,hexa,empty,0,0,1,1.48,
+lever,hexagonusfederal,not_found,0,0,1,1.52,GET 404
+lever,heyjane,ok,2,0,1,7.26,
+lever,heyrowan,ok,83,0,1,1.94,
+lever,hgen,ok,6,0,1,1.79,
+lever,hhaexchange,ok,27,0,1,1.98,
+lever,hicleo,not_found,0,0,1,2.41,GET 404
+lever,highbarhealth,ok,87,0,1,2.27,
+lever,highfidelity,not_found,0,0,1,4.02,GET 404
+lever,highlandfleets-2,ok,10,0,1,2.16,
+lever,highlight,not_found,0,0,1,1.92,GET 404
+lever,highspot,empty,0,0,1,4.45,
+lever,highstreetit,ok,37,0,1,2.24,
+lever,hightechhigh,ok,47,0,1,8.34,
+lever,highwirepr,not_found,0,0,1,1.99,GET 404
+lever,hihello,empty,0,0,1,1.78,
+lever,hike,not_found,0,0,1,1.75,GET 404
+lever,hil,empty,0,0,1,1.9,
+lever,himama,not_found,0,0,1,1.79,GET 404
+lever,hingehealth,not_found,0,0,1,1.9,GET 404
+lever,hint,ok,1,0,1,1.96,
+lever,hipcamp,not_found,0,0,1,2.0,GET 404
+lever,hireincloud,not_found,0,0,1,2.02,GET 404
+lever,hirezstudios,not_found,0,0,1,7.24,GET 404
+lever,hiring,not_found,0,0,1,1.94,GET 404
+lever,hiringourheroes,ok,3,0,1,1.98,
+lever,hiro,not_found,0,0,1,3.01,GET 404
+lever,hive,ok,72,0,1,2.05,
+lever,hivebrite,not_found,0,0,1,1.74,GET 404
+lever,hively,not_found,0,0,1,1.83,GET 404
+lever,hivemapper,not_found,0,0,1,1.85,GET 404
+lever,hivemind-capital,ok,6,0,1,1.73,
+lever,hiver,not_found,0,0,1,1.7,GET 404
+lever,hlkagency,not_found,0,0,1,1.75,GET 404
+lever,hmbl-tech,ok,3,0,1,1.86,
+lever,holloway,empty,0,0,1,1.7,
+lever,holmusk,not_found,0,0,1,4.87,GET 404
+lever,hologram,not_found,0,0,1,1.79,GET 404
+lever,holygrail,not_found,0,0,1,3.84,GET 404
+lever,homechef,not_found,0,0,1,1.79,GET 404
+lever,homelister,not_found,0,0,1,1.8,GET 404
+lever,homesnap,not_found,0,0,1,1.67,GET 404
+lever,homestars,not_found,0,0,1,2.35,GET 404
+lever,homex,not_found,0,0,1,4.34,GET 404
+lever,hone,not_found,0,0,1,1.55,GET 404
+lever,honeybeerobotics,empty,0,0,1,1.6,
+lever,honeycomb,not_found,0,0,1,1.64,GET 404
+lever,honeypot,not_found,0,0,1,1.68,GET 404
+lever,honkforhelp,ok,6,0,1,1.67,
+lever,hopelab,empty,0,0,1,1.75,
+lever,hopeservices,ok,34,0,1,2.35,
+lever,hophr,ok,29,3,1,1.95,
+lever,hopper,not_found,0,0,1,1.73,GET 404
+lever,hopthru,not_found,0,0,1,1.8,GET 404
+lever,horizon,ok,1,0,1,1.73,
+lever,horizon-blue-aba,ok,41,0,1,2.01,
+lever,hosco,ok,3,0,1,1.87,
+lever,hostinger,not_found,0,0,1,1.8,GET 404
+lever,hoteltonight,not_found,0,0,1,2.78,GET 404
+lever,hotstar,empty,0,0,1,1.82,
+lever,hottopic,ok,18,0,1,2.98,
+lever,houzz,ok,6,0,1,1.71,
+lever,howgood,not_found,0,0,1,1.56,GET 404
+lever,hqxyz,not_found,0,0,1,1.56,GET 404
+lever,hr-hints,not_found,0,0,1,1.59,GET 404
+lever,hsag,ok,8,0,1,1.75,
+lever,hso,ok,5,0,1,1.97,
+lever,hubla,not_found,0,0,1,1.57,GET 404
+lever,huckleberrylabs,not_found,0,0,1,1.5,GET 404
+lever,huma,not_found,0,0,1,1.53,GET 404
+lever,humaans,empty,0,0,1,3.7,
+lever,human-protocol-foundation,not_found,0,0,1,1.73,GET 404
+lever,humanapi,not_found,0,0,1,1.65,GET 404
+lever,humanetech,empty,0,0,1,1.65,
+lever,humanfirst,not_found,0,0,1,1.7,GET 404
+lever,humanityprotocol,ok,2,0,1,3.15,
+lever,humansecurity,not_found,0,0,1,2.27,GET 404
+lever,humata,ok,1,0,1,6.4,
+lever,humble-robotics,ok,23,0,1,2.08,
+lever,humi-2,not_found,0,0,1,1.72,GET 404
+lever,hungerfreeamerica,not_found,0,0,1,1.8,GET 404
+lever,hungryharvest,not_found,0,0,1,1.8,GET 404
+lever,hush,ok,11,0,1,1.87,
+lever,hvmn,not_found,0,0,1,1.61,GET 404
+lever,hydrow,not_found,0,0,1,1.68,GET 404
+lever,hypebeast,ok,23,0,1,2.02,
+lever,hypercomply,not_found,0,0,1,1.93,GET 404
+lever,hyperlane,not_found,0,0,1,2.99,GET 404
+lever,hyperscience,not_found,0,0,1,1.89,GET 404
+lever,hypersonica-prod,ok,77,54,1,3.02,
+lever,hyperspectral,empty,0,0,1,2.21,
+lever,hyundai-aptivad,not_found,0,0,1,2.03,GET 404
+lever,ianulytalentaccelerators,not_found,0,0,1,1.95,GET 404
+lever,icemortgagetechnology,not_found,0,0,1,2.0,GET 404
+lever,icertis,not_found,0,0,1,3.08,GET 404
+lever,icodde,not_found,0,0,1,1.99,GET 404
+lever,iconicair,not_found,0,0,1,2.02,GET 404
+lever,icosavax,not_found,0,0,1,1.97,GET 404
+lever,ideagen,not_found,0,0,1,1.92,GET 404
+lever,idealistconsulting,ok,6,0,1,3.73,
+lever,idealscorp,not_found,0,0,1,2.05,GET 404
+lever,ideasunited,empty,0,0,1,2.62,
+lever,ideayabio,not_found,0,0,1,2.21,GET 404
+lever,idmworks,ok,6,0,1,2.61,
+lever,idt,ok,110,0,1,6.41,
+lever,if7,not_found,0,0,1,2.1,GET 404
+lever,ifm-us,ok,43,0,1,2.17,
+lever,igmbio,not_found,0,0,1,1.94,GET 404
+lever,ignite,not_found,0,0,1,5.25,GET 404
+lever,iheartjane,ok,2,0,1,2.12,
+lever,ilek.fr,empty,0,0,1,1.89,
+lever,illumination,empty,0,0,1,1.94,
+lever,illumix,empty,0,0,1,1.98,
+lever,imagexmedia,ok,1,0,1,2.19,
+lever,imbue,empty,0,0,1,2.07,
+lever,imentor,ok,5,0,1,2.25,
+lever,immiland-canada-inc,ok,76,0,1,2.52,
+lever,immuta,ok,11,0,1,2.22,
+lever,immutable,ok,3,0,1,2.12,
+lever,imo-online,ok,5,0,1,2.73,
+lever,imperfectfoods,not_found,0,0,1,2.01,GET 404
+lever,imperfectproduce,not_found,0,0,1,2.06,GET 404
+lever,impossiblecloud,ok,10,9,1,2.01,
+lever,impossiblefoods,not_found,0,0,1,1.82,GET 404
+lever,improbable,not_found,0,0,1,1.9,GET 404
+lever,improvadoio,not_found,0,0,1,1.78,GET 404
+lever,inato,not_found,0,0,1,2.27,GET 404
+lever,inboxlab,not_found,0,0,1,1.86,GET 404
+lever,incandescent,not_found,0,0,1,1.9,GET 404
+lever,includedhealth,ok,46,0,1,3.22,
+lever,incompasshealth,ok,35,0,1,2.32,
+lever,incorta,ok,4,0,1,2.29,
+lever,indebted,not_found,0,0,1,2.11,GET 404
+lever,indexventures,empty,0,0,1,1.88,
+lever,indico,not_found,0,0,1,1.91,GET 404
+lever,indigoag,not_found,0,0,1,1.86,GET 404
+lever,indivisible,not_found,0,0,1,1.87,GET 404
+lever,inductiveautomation,not_found,0,0,1,3.42,GET 404
+lever,inductivehealth,ok,4,0,1,2.26,
+lever,industrydive,not_found,0,0,1,1.9,GET 404
+lever,infieldstrategies,not_found,0,0,1,1.89,GET 404
+lever,infinigods,not_found,0,0,1,2.11,GET 404
+lever,infinit,ok,14,4,1,2.56,
+lever,infinitepl,ok,6,0,1,2.06,
+lever,infinitus,not_found,0,0,1,2.03,GET 404
+lever,inflection,not_found,0,0,1,2.47,GET 404
+lever,inflexion,not_found,0,0,1,2.09,GET 404
+lever,inflow,not_found,0,0,1,2.17,GET 404
+lever,inflowfed,ok,21,0,1,4.67,
+lever,influ2,ok,2,0,1,2.18,
+lever,influur,empty,0,0,1,2.12,
+lever,infobase,ok,6,0,1,1.99,
+lever,infogrid,not_found,0,0,1,2.4,GET 404
+lever,infogridlinks,not_found,0,0,1,2.03,GET 404
+lever,infraservices,ok,51,0,1,2.42,
+lever,infrastructureandcapitalprojects,not_found,0,0,1,2.06,GET 404
+lever,infrastructureontario,not_found,0,0,1,2.21,GET 404
+lever,infstones,not_found,0,0,1,2.66,GET 404
+lever,initialized,not_found,0,0,1,1.93,GET 404
+lever,injectivelabs,not_found,0,0,1,2.71,GET 404
+lever,inkitt,ok,12,0,1,2.26,
+lever,inlight,not_found,0,0,1,1.91,GET 404
+lever,innablr,empty,0,0,1,1.98,
+lever,innocraft,ok,2,2,1,2.57,
+lever,innodata,ok,3,0,1,2.12,
+lever,innophos,ok,28,0,1,5.68,
+lever,innovafeed,not_found,0,0,1,2.0,GET 404
+lever,innovationdept,not_found,0,0,1,1.96,GET 404
+lever,innovativesol-2,ok,7,0,1,2.19,
+lever,inpay-2,ok,4,0,1,2.16,
+lever,insiderone,ok,117,8,1,2.76,
+lever,insify,ok,15,0,1,5.35,
+lever,insightm,not_found,0,0,1,2.08,GET 404
+lever,insomniacdesign,ok,8,0,1,2.21,
+lever,insomniacookies,ok,1123,3,1,11.57,
+lever,inspiration-mobility,not_found,0,0,1,2.21,GET 404
+lever,instawork,not_found,0,0,1,2.35,GET 404
+lever,instituteforproteininnovation,not_found,0,0,1,2.18,GET 404
+lever,instructure,not_found,0,0,1,2.1,GET 404
+lever,instrument,ok,3,0,1,2.18,
+lever,instrumental,not_found,0,0,1,2.18,GET 404
+lever,instrumentl,not_found,0,0,1,2.0,GET 404
+lever,integrabeauty,ok,13,0,1,2.22,
+lever,integrate,empty,0,0,1,2.19,
+lever,integrators.cz,ok,1,0,1,4.95,
+lever,intelligent-city,not_found,0,0,1,4.09,GET 404
+lever,intelliware,not_found,0,0,1,2.01,GET 404
+lever,intelycare,not_found,0,0,1,2.06,GET 404
+lever,intenseye,ok,3,0,1,3.49,
+lever,interaxon,not_found,0,0,1,2.09,GET 404
+lever,interfolio,not_found,0,0,1,2.05,GET 404
+lever,interiormarketinggroup,not_found,0,0,1,2.3,GET 404
+lever,interlude,not_found,0,0,1,3.37,GET 404
+lever,internationalbudget,not_found,0,0,1,2.23,GET 404
+lever,intersect,ok,27,0,1,2.28,
+lever,intersectpower,not_found,0,0,1,1.98,GET 404
+lever,intive,not_found,0,0,1,2.0,GET 404
+lever,intouchgroup,not_found,0,0,1,1.95,GET 404
+lever,intrafi,ok,7,0,1,2.12,
+lever,intrepid,not_found,0,0,1,2.01,GET 404
+lever,intrepidcollegeprep,ok,4,0,1,2.3,
+lever,intricately,not_found,0,0,1,2.58,GET 404
+lever,intro,not_found,0,0,1,2.1,GET 404
+lever,intropic,ok,13,0,1,19.24,
+lever,inventa,not_found,0,0,1,1.96,GET 404
+lever,investorflow,ok,7,0,1,2.01,
+lever,invinity,ok,4,0,1,2.08,
+lever,invisible,not_found,0,0,1,1.8,GET 404
+lever,invisible-ai,not_found,0,0,1,1.82,GET 404
+lever,invohealthcare,ok,1,0,1,1.95,
+lever,invokestaffing,not_found,0,0,1,26.63,GET 404
+lever,inworld,not_found,0,0,1,18.64,GET 404
+lever,iobeya,not_found,0,0,1,1.56,GET 404
+lever,ioconnectservices.com,ok,14,0,1,1.84,
+lever,ion,ok,98,0,1,2.95,
+lever,ionic,not_found,0,0,1,18.78,GET 404
+lever,ionicpartners,not_found,0,0,1,1.63,GET 404
+lever,iovlabs,not_found,0,0,1,1.63,GET 404
+lever,iphi,not_found,0,0,1,1.6,GET 404
+lever,ippon,ok,66,0,1,3.99,
+lever,ircagroup,ok,64,14,1,2.05,
+lever,iron_hack,not_found,0,0,1,2.12,GET 404
+lever,ironcladapp,not_found,0,0,1,1.8,GET 404
+lever,ironflow,ok,5,0,1,2.11,
+lever,ironnetcybersecurity,not_found,0,0,1,16.06,GET 404
+lever,ironox,not_found,0,0,1,19.16,GET 404
+lever,iru,ok,24,0,1,19.75,
+lever,isee,ok,31,0,1,2.4,
+lever,isometrictechnologies,not_found,0,0,1,1.97,GET 404
+lever,ispace-inc,ok,55,0,1,4.1,
+lever,issuu,empty,0,0,1,1.91,
+lever,istaridigital.ai,ok,7,4,1,2.09,
+lever,italic,not_found,0,0,1,1.94,GET 404
+lever,iterative,not_found,0,0,1,1.7,GET 404
+lever,itutor,not_found,0,0,1,2.23,GET 404
+lever,ivo,empty,0,0,1,1.81,
+lever,iyzico,ok,1,0,1,1.8,
+lever,izotope,not_found,0,0,1,1.64,GET 404
+lever,jacquard,not_found,0,0,1,1.53,GET 404
+lever,jagex,empty,0,0,1,1.47,
+lever,jam-loop,ok,5,0,1,1.63,
+lever,jamcity,ok,15,0,1,1.62,
+lever,jane,not_found,0,0,1,1.39,GET 404
+lever,janeapp,not_found,0,0,1,15.88,GET 404
+lever,januaryinc,ok,1,0,1,1.37,
+lever,januxrx,ok,11,0,1,1.54,
+lever,jar-app,not_found,0,0,1,15.69,GET 404
+lever,jarofleets,not_found,0,0,1,1.44,GET 404
+lever,jarvis,not_found,0,0,1,1.28,GET 404
+lever,jaspertx,ok,2,0,1,1.36,
+lever,jaumo,empty,0,0,1,15.63,
+lever,jeff-app,not_found,0,0,1,1.27,GET 404
+lever,jellysmack,not_found,0,0,1,1.36,GET 404
+lever,jetbrains,empty,0,0,1,1.61,
+lever,jetsetpilates,ok,444,0,1,1.84,
+lever,jetsupport,ok,21,1,1,1.52,
+lever,jina-ai,not_found,0,0,1,1.35,GET 404
+lever,jiostar,not_found,0,0,1,1.33,GET 404
+lever,jito,ok,2,1,1,1.23,
+lever,jito.wtf,ok,3,0,1,1.27,
+lever,jitxinc,ok,2,0,1,1.36,
+lever,jmawireless,ok,3,0,1,1.32,
+lever,jmi,ok,1,0,1,1.34,
+lever,jobandtalent,ok,35,0,1,1.89,
+lever,jobcase,not_found,0,0,1,1.49,GET 404
+lever,jobgether,ok,4511,189,1,32.34,
+lever,jobin,ok,3,0,1,1.16,
+lever,jobscan-2,ok,3,0,1,1.37,
+lever,jobvite,ok,4,0,1,1.15,
+lever,jockmkt,not_found,0,0,1,16.13,GET 404
+lever,joebiden,not_found,0,0,1,1.17,GET 404
+lever,joelefrank,ok,3,0,1,1.27,
+lever,johnson-hana,empty,0,0,1,1.25,
+lever,joinclubhouse,not_found,0,0,1,1.24,GET 404
+lever,joindrop,not_found,0,0,1,1.24,GET 404
+lever,joinefnow,not_found,0,0,1,1.3,GET 404
+lever,joinformal,empty,0,0,1,1.01,
+lever,joingraphite,not_found,0,0,1,13.92,GET 404
+lever,joinlincoln,not_found,0,0,1,10.21,GET 404
+lever,joinmonument-2,not_found,0,0,1,1.05,GET 404
+lever,joinpapa,not_found,0,0,1,1.09,GET 404
+lever,joinroot,not_found,0,0,1,1.12,GET 404
+lever,joinswoop,not_found,0,0,1,13.53,GET 404
+lever,jointopo,empty,0,0,1,1.46,
+lever,joinzoe,not_found,0,0,1,11.68,GET 404
+lever,joltcharge,ok,2,0,1,1.35,
+lever,joshstoysandgames,ok,4,0,1,1.71,
+lever,journeyclinical,not_found,0,0,1,1.21,GET 404
+lever,joycharter,ok,2,0,1,20.49,
+lever,joyrideautos,ok,9,0,1,1.17,
+lever,jumpcloud,ok,37,0,1,1.29,
+lever,juneshine,ok,3,0,1,1.06,
+lever,juniperplatform,not_found,0,0,1,0.54,GET 404
+lever,juno,not_found,0,0,1,17.91,GET 404
+lever,junoniapartners,ok,4,0,1,0.91,
+lever,jupe,ok,2,0,1,0.5,
+lever,jupiter,not_found,0,0,1,0.49,GET 404
+lever,jupiterintel,ok,1,0,1,0.6,
+lever,jupiterone,not_found,0,0,1,17.87,GET 404
+lever,juro,not_found,0,0,1,0.62,GET 404
+lever,jushico,ok,84,0,1,0.82,
+lever,justwatch,ok,11,3,1,0.66,
+lever,justworkslabs,not_found,0,0,1,0.6,GET 404
+lever,jvs-boston,ok,2,0,1,0.6,
+lever,k4-trading,ok,2,0,1,0.59,
+lever,kabam,ok,23,0,1,0.51,
+lever,kafene,not_found,0,0,1,0.84,GET 404
+lever,kaiahealth,not_found,0,0,1,11.51,GET 404
+lever,kaiber,not_found,0,0,1,17.88,GET 404
+lever,kaironlabs,not_found,0,0,1,0.41,GET 404
+lever,kairosaerospace,not_found,0,0,1,9.07,GET 404
+lever,kaizenplatform,not_found,0,0,1,0.34,GET 404
+lever,kamcord,not_found,0,0,1,9.47,GET 404
+lever,kandji,not_found,0,0,1,11.23,GET 404
+lever,kaporcapital,not_found,0,0,1,4.26,GET 404
+lever,kapta-space,ok,10,0,1,19.19,
+lever,kapwing,empty,0,0,1,11.73,
+lever,karat,not_found,0,0,1,0.23,GET 404
+lever,kariusdx,ok,16,0,1,0.76,
+lever,karmacheck,ok,1,0,1,0.24,
+lever,kasada,empty,0,0,1,11.13,
+lever,kasheesh,empty,0,0,1,0.28,
+lever,katten,empty,0,0,1,0.51,
+lever,kava,not_found,0,0,1,0.45,GET 404
+lever,kavak,ok,5,0,1,18.95,
+lever,kavalabs,not_found,0,0,1,0.38,GET 404
+lever,kcasbio,ok,17,0,1,0.73,
+lever,kddia,not_found,0,0,1,0.48,GET 404
+lever,kdinfotech,not_found,0,0,1,8.86,GET 404
+lever,keboola,ok,3,0,1,0.89,
+lever,keepit,not_found,0,0,1,5.89,GET 404
+lever,keepsafe,empty,0,0,1,0.61,
+lever,keeptruckin,not_found,0,0,1,0.6,GET 404
+lever,kellytelecom,not_found,0,0,1,0.46,GET 404
+lever,keloniatx,not_found,0,0,1,0.39,GET 404
+lever,kenko,ok,5,0,1,0.5,
+lever,kensho,not_found,0,0,1,14.06,GET 404
+lever,kepler,ok,18,0,1,1.17,
+lever,kerishullteam,not_found,0,0,1,7.9,GET 404
+lever,kestrel-intelligence,ok,11,0,1,0.93,
+lever,ketch,not_found,0,0,1,13.66,GET 404
+lever,kevala,not_found,0,0,1,0.77,GET 404
+lever,keyloop,ok,70,1,1,1.15,
+lever,kg,not_found,0,0,1,0.74,GET 404
+lever,kgroupcompanies,ok,15,0,1,1.07,
+lever,kibeam,not_found,0,0,1,0.44,GET 404
+lever,kickback,not_found,0,0,1,14.87,GET 404
+lever,kickmaker,ok,36,0,1,0.68,
+lever,kickoff,not_found,0,0,1,0.43,GET 404
+lever,kickstart-ent,not_found,0,0,1,0.37,GET 404
+lever,kickstarter,not_found,0,0,1,5.63,GET 404
+lever,kiddom,not_found,0,0,1,0.5,GET 404
+lever,kimiatherapeutics,empty,0,0,1,11.59,
+lever,kingfish-company,ok,9,0,1,2.67,
+lever,kingfishgroup,not_found,0,0,1,1.19,GET 404
+lever,kinnek,not_found,0,0,1,0.61,GET 404
+lever,kinsa,not_found,0,0,1,1.35,GET 404
+lever,kinsta,ok,2,0,1,0.65,
+lever,kippsocal,ok,30,0,1,5.95,
+lever,kitcheck,not_found,0,0,1,0.4,GET 404
+lever,kitmanlabs,ok,1,0,1,0.31,
+lever,kitopi,not_found,0,0,1,0.42,GET 404
+lever,kitware,ok,20,0,1,0.74,
+lever,kivaai,not_found,0,0,1,2.46,GET 404
+lever,kivaconfections,ok,11,0,1,0.6,
+lever,kiwico,not_found,0,0,1,0.32,GET 404
+lever,kixie,ok,3,0,1,6.33,
+lever,kkbox,not_found,0,0,1,0.23,GET 404
+lever,klarna,not_found,0,0,1,0.97,GET 404
+lever,klaviyo,not_found,0,0,1,0.27,GET 404
+lever,klearnow,ok,5,0,1,0.34,
+lever,klick,not_found,0,0,1,0.36,GET 404
+lever,klivvr,ok,7,0,1,0.28,
+lever,klubworks,not_found,0,0,1,0.22,GET 404
+lever,klue,not_found,0,0,1,0.24,GET 404
+lever,kmaconsultingllc,not_found,0,0,1,0.31,GET 404
+lever,knix,ok,35,0,1,1.16,
+lever,knock,not_found,0,0,1,0.42,GET 404
+lever,knockcrm,not_found,0,0,1,0.3,GET 404
+lever,knotch,not_found,0,0,1,0.3,GET 404
+lever,knownwell,not_found,0,0,1,8.94,GET 404
+lever,knrtherapy,empty,0,0,1,2.36,
+lever,koalahealth,ok,6,0,1,0.6,
+lever,kobie,ok,32,0,1,5.87,
+lever,kochava,empty,0,0,1,12.64,
+lever,koddi,not_found,0,0,1,0.29,GET 404
+lever,kodex,not_found,0,0,1,0.37,GET 404
+lever,kodiak,not_found,0,0,1,0.31,GET 404
+lever,kogan,ok,19,0,1,0.53,
+lever,kogniz,ok,5,0,1,0.52,
+lever,koho,not_found,0,0,1,0.42,GET 404
+lever,kokonetworks,empty,0,0,1,0.31,
+lever,koldpartners,not_found,0,0,1,0.27,GET 404
+lever,kolibrigames,ok,3,3,1,0.34,
+lever,kolsquare,not_found,0,0,1,0.37,GET 404
+lever,kong,not_found,0,0,1,7.73,GET 404
+lever,kontakt,empty,0,0,1,0.44,
+lever,konviere,not_found,0,0,1,0.73,GET 404
+lever,koombea,not_found,0,0,1,0.48,GET 404
+lever,kooptechnologies,not_found,0,0,1,0.52,GET 404
+lever,koreaboo,not_found,0,0,1,9.51,GET 404
+lever,korrobio,ok,7,0,1,0.9,
+lever,kotm,ok,5,0,1,0.84,
+lever,kouperhealth,empty,0,0,1,0.55,
+lever,kpaonline,ok,8,0,1,0.8,
+lever,kpler,ok,110,2,1,4.75,
+lever,kpmg,empty,0,0,1,0.71,
+lever,kpmg-2,not_found,0,0,1,1.22,GET 404
+lever,kpmgnz,ok,32,0,1,1.75,
+lever,kraken,empty,0,0,1,7.64,
+lever,kraken123,empty,0,0,1,0.72,
+lever,kruzeconsulting,ok,1,0,1,0.58,
+lever,kubecost,not_found,0,0,1,0.59,GET 404
+lever,kubra,empty,0,0,1,0.69,
+lever,kueski,not_found,0,0,1,0.76,GET 404
+lever,kumo,not_found,0,0,1,0.58,GET 404
+lever,kumospace,not_found,0,0,1,0.58,GET 404
+lever,kungfu,not_found,0,0,1,8.35,GET 404
+lever,kwanso,ok,11,0,1,0.74,
+lever,kwh-analytics,not_found,0,0,1,0.93,GET 404
+lever,kwx,not_found,0,0,1,4.1,GET 404
+lever,kyivstar,ok,114,0,1,3.33,
+lever,kyruus,not_found,0,0,1,1.91,GET 404
+lever,kyruushealth,not_found,0,0,1,0.71,GET 404
+lever,kyte,not_found,0,0,1,1.11,GET 404
+lever,kyverna,not_found,0,0,1,1.18,GET 404
+lever,laagencia,not_found,0,0,1,0.74,GET 404
+lever,labelbox,empty,0,0,1,0.88,
+lever,lacunatechnologies,ok,1,0,1,0.71,
+lever,ladders,ok,2,0,1,1.25,
+lever,lahaus,ok,2,0,1,0.43,
+lever,lalamove,ok,140,0,1,1.42,
+lever,lambdal,not_found,0,0,1,0.41,GET 404
+lever,lambdaschool,not_found,0,0,1,0.58,GET 404
+lever,laminarprojects,ok,28,2,1,1.89,
+lever,laminiai,not_found,0,0,1,0.47,GET 404
+lever,lamudi,ok,10,0,1,0.73,
+lever,landing,not_found,0,0,1,0.36,GET 404
+lever,landmarkbio,ok,6,0,1,9.77,
+lever,lansingschools,ok,114,0,1,0.98,
+lever,larian,ok,75,0,1,0.83,
+lever,lasenza,ok,2,0,1,0.92,
+lever,laserhub-2,not_found,0,0,1,0.5,GET 404
+lever,last-energy,ok,25,0,1,0.6,
+lever,last9,not_found,0,0,1,0.26,GET 404
+lever,latch,ok,2,0,1,0.82,
+lever,latitudeinc,ok,314,1,1,1.49,
+lever,latticehq,not_found,0,0,1,0.31,GET 404
+lever,launchdarkly,not_found,0,0,1,0.4,GET 404
+lever,launcherspace,not_found,0,0,1,0.43,GET 404
+lever,launchhouse,not_found,0,0,1,0.47,GET 404
+lever,launchhousing,ok,4,0,1,0.81,
+lever,launchsquad,ok,6,0,1,0.66,
+lever,lavictoria,ok,1,0,1,0.61,
+lever,layup,ok,31,0,1,0.82,
+lever,lb-capital,ok,120,0,1,1.66,
+lever,lcbcchurch,ok,27,0,1,6.87,
+lever,leadbank,not_found,0,0,1,0.7,GET 404
+lever,leadershipconnect,ok,5,0,1,0.97,
+lever,leadgenius,not_found,0,0,1,0.82,GET 404
+lever,leadr,not_found,0,0,1,0.72,GET 404
+lever,leadsonline,not_found,0,0,1,0.73,GET 404
+lever,leadspace,empty,0,0,1,1.15,
+lever,leaf-trade,not_found,0,0,1,0.89,GET 404
+lever,leaflogistics,not_found,0,0,1,0.78,GET 404
+lever,leantaas,ok,2,0,1,0.88,
+lever,leap-2,not_found,0,0,1,1.18,GET 404
+lever,learnlux,not_found,0,0,1,1.11,GET 404
+lever,learnwithjuni,not_found,0,0,1,1.11,GET 404
+lever,leasequery,not_found,0,0,1,1.1,GET 404
+lever,ledger,not_found,0,0,1,2.99,GET 404
+lever,ledn,not_found,0,0,1,1.15,GET 404
+lever,lefonds-du-bien-commun,not_found,0,0,1,1.2,GET 404
+lever,legacy,not_found,0,0,1,1.11,GET 404
+lever,legacyrestorationllc,empty,0,0,1,1.19,
+lever,legacyservicepartners,not_found,0,0,1,1.23,GET 404
+lever,legalfundingcentral,not_found,0,0,1,1.17,GET 404
+lever,legend,not_found,0,0,1,1.26,GET 404
+lever,legitimatetech,not_found,0,0,1,1.93,GET 404
+lever,lempire,not_found,0,0,1,1.26,GET 404
+lever,lemurian-labs,not_found,0,0,1,1.13,GET 404
+lever,lendbuzz,ok,53,0,1,1.51,
+lever,lendinghome,not_found,0,0,1,1.29,GET 404
+lever,lendio,not_found,0,0,1,1.31,GET 404
+lever,leolabs-2,not_found,0,0,1,1.26,GET 404
+lever,leotechnologies,not_found,0,0,1,1.28,GET 404
+lever,lessen,ok,116,0,1,1.69,
+lever,letote,not_found,0,0,1,1.3,GET 404
+lever,leucine,not_found,0,0,1,1.26,GET 404
+lever,level99,ok,29,0,1,1.75,
+lever,levelai,ok,19,0,1,2.08,
+lever,levelup,ok,10,0,1,1.77,
+lever,lever,empty,0,0,1,1.65,
+lever,leverdemo,ok,10,0,1,1.7,
+lever,leverdemo-8,ok,430,32,1,3.31,
+lever,leverdemo193,ok,16,0,1,2.31,
+lever,leverdemo50000,ok,7,0,1,1.62,
+lever,levvel,not_found,0,0,1,1.49,GET 404
+lever,lexeotx,ok,8,0,1,1.85,
+lever,lexingtonmedical,not_found,0,0,1,1.6,GET 404
+lever,liatrio,ok,5,0,1,6.57,
+lever,liberatii,not_found,0,0,1,1.7,GET 404
+lever,life,ok,47,0,1,3.03,
+lever,lifeforce,ok,9,0,1,1.76,
+lever,lifen,not_found,0,0,1,2.02,GET 404
+lever,lifestance,ok,1401,14,1,7.02,
+lever,lightci,empty,0,0,1,2.58,
+lever,lightedge,ok,11,0,1,2.33,
+lever,lightship,ok,13,0,1,2.88,
+lever,lillio,not_found,0,0,1,1.64,GET 404
+lever,limberhealth,not_found,0,0,1,1.72,GET 404
+lever,lime,not_found,0,0,1,3.55,GET 404
+lever,limebike,not_found,0,0,1,1.78,GET 404
+lever,liminal,not_found,0,0,1,1.89,GET 404
+lever,limitbreak,empty,0,0,1,1.81,
+lever,limitless,not_found,0,0,1,1.91,GET 404
+lever,lincolninst,empty,0,0,1,1.88,
+lever,lindblad-expeditions,ok,25,0,1,9.25,
+lever,linea,not_found,0,0,1,1.75,GET 404
+lever,lingarogroup,ok,72,8,1,2.04,
+lever,lingoda,not_found,0,0,1,3.83,GET 404
+lever,linkedin,ok,23,0,1,1.98,
+lever,linkrehabwellness,ok,100,0,1,2.07,
+lever,linksys,not_found,0,0,1,1.49,GET 404
+lever,linktree,not_found,0,0,1,1.5,GET 404
+lever,linq,not_found,0,0,1,1.54,GET 404
+lever,linuxacademy,not_found,0,0,1,1.49,GET 404
+lever,lionheartkid,empty,0,0,1,1.44,
+lever,lirvanalabs,ok,10,0,1,1.51,
+lever,littleotter,not_found,0,0,1,1.46,GET 404
+lever,littlesprouts,ok,63,0,1,2.21,
+lever,livechatinc,not_found,0,0,1,1.57,GET 404
+lever,livefront,not_found,0,0,1,1.63,GET 404
+lever,livekindred,not_found,0,0,1,2.32,GET 404
+lever,livelike,not_found,0,0,1,1.78,GET 404
+lever,liveoakfiber,empty,0,0,1,1.87,
+lever,livingcarbon,empty,0,0,1,1.75,
+lever,livinghr,not_found,0,0,1,1.57,GET 404
+lever,loadsmart,ok,11,0,1,1.78,
+lever,loancrate,not_found,0,0,1,1.88,GET 404
+lever,loblawagency,empty,0,0,1,1.69,
+lever,loblawdigital,not_found,0,0,1,1.68,GET 404
+lever,localfoodgroup,not_found,0,0,1,1.67,GET 404
+lever,lochgroup,ok,35,0,1,2.15,
+lever,lodgify,ok,10,1,1,2.04,
+lever,loft,not_found,0,0,1,1.78,GET 404
+lever,loftorbital,ok,90,0,1,6.15,
+lever,loganpm,ok,8,0,1,2.03,
+lever,logically,empty,0,0,1,1.91,
+lever,logicmanager,not_found,0,0,1,1.92,GET 404
+lever,logikcull,not_found,0,0,1,4.57,GET 404
+lever,login,not_found,0,0,1,1.91,GET 404
+lever,logistimo,not_found,0,0,1,1.81,GET 404
+lever,logixboard,not_found,0,0,1,1.81,GET 404
+lever,logrocket,ok,8,0,1,1.91,
+lever,logz,ok,3,0,1,1.89,
+lever,longtail-ai,empty,0,0,1,1.91,
+lever,longview,not_found,0,0,1,1.95,GET 404
+lever,longwall,ok,32,0,1,6.6,
+lever,looker,not_found,0,0,1,4.7,GET 404
+lever,loop-health,not_found,0,0,1,2.07,GET 404
+lever,loopinternet,not_found,0,0,1,2.04,GET 404
+lever,loopio,not_found,0,0,1,7.9,GET 404
+lever,loopreturns,ok,4,0,1,2.21,
+lever,loupetheapp,not_found,0,0,1,1.95,GET 404
+lever,lovepop,ok,9,0,1,7.8,
+lever,lovepopcards,not_found,0,0,1,1.91,GET 404
+lever,loyalfordogs,empty,0,0,1,1.88,
+lever,loyalhealth,empty,0,0,1,1.93,
+lever,loyaltylion,not_found,0,0,1,2.01,GET 404
+lever,lpainc,not_found,0,0,1,3.22,GET 404
+lever,lqdigital,empty,0,0,1,2.01,
+lever,lrdgonline,ok,15,0,1,2.18,
+lever,lrymediagroup,not_found,0,0,1,1.98,GET 404
+lever,lsa-hr,ok,2,0,1,1.94,
+lever,lsaweb,ok,156,0,1,2.72,
+lever,ltaresearch,ok,11,0,1,2.71,
+lever,ltjgroup,ok,77,0,1,3.49,
+lever,ltse,not_found,0,0,1,1.83,GET 404
+lever,lucasmuseum,ok,10,0,1,2.04,
+lever,lucca,not_found,0,0,1,1.97,GET 404
+lever,lucid,not_found,0,0,1,1.78,GET 404
+lever,lucidmotors,not_found,0,0,1,1.96,GET 404
+lever,lucidworks,ok,2,0,1,1.81,
+lever,lulafit,not_found,0,0,1,1.72,GET 404
+lever,lumaai,not_found,0,0,1,1.75,GET 404
+lever,lumafield,ok,26,0,1,1.91,
+lever,lumapictures,not_found,0,0,1,1.74,GET 404
+lever,lumary,not_found,0,0,1,1.52,GET 404
+lever,lumin,not_found,0,0,1,1.57,GET 404
+lever,luminai,not_found,0,0,1,1.65,GET 404
+lever,luminary-labs,ok,5,0,1,1.54,
+lever,luminarycloud,not_found,0,0,1,1.5,GET 404
+lever,lumindigital,not_found,0,0,1,1.22,GET 404
+lever,luminostics,not_found,0,0,1,1.28,GET 404
+lever,lumiq-learn,ok,5,0,1,1.44,
+lever,lumivero,not_found,0,0,1,1.41,GET 404
+lever,lumosity,not_found,0,0,1,1.39,GET 404
+lever,lumotive,ok,8,0,1,1.71,
+lever,lunaphysicaltherapy,ok,88,0,1,1.78,
+lever,lunchboxtechnologies,empty,0,0,1,1.6,
+lever,luni,not_found,0,0,1,1.67,GET 404
+lever,luumlash,ok,3,0,1,2.42,
+lever,luxe,not_found,0,0,1,1.61,GET 404
+lever,luxortechnology,not_found,0,0,1,1.71,GET 404
+lever,luxurypresence,ok,21,0,1,3.5,
+lever,luzia,not_found,0,0,1,1.74,GET 404
+lever,lvs1,ok,42,0,1,2.03,
+lever,lwolf,ok,12,0,1,1.93,
+lever,lyciatherapeutics,not_found,0,0,1,1.83,GET 404
+lever,lykospbc,not_found,0,0,1,1.85,GET 404
+lever,lyra,not_found,0,0,1,1.91,GET 404
+lever,lyraclinical,empty,0,0,1,2.0,
+lever,lyracollective,not_found,0,0,1,2.01,GET 404
+lever,lyrahealth,ok,486,0,1,2.7,
+lever,lyrebirdhealth,empty,0,0,1,2.13,
+lever,lyrebirdstudio,empty,0,0,1,2.32,
+lever,lyterian,empty,0,0,1,2.1,
+lever,m-kopa,not_found,0,0,1,2.1,GET 404
+lever,m13,not_found,0,0,1,2.22,GET 404
+lever,m33,not_found,0,0,1,2.05,GET 404
+lever,mabl,not_found,0,0,1,2.02,GET 404
+lever,mable,ok,13,0,1,2.26,
+lever,macandmia,not_found,0,0,1,2.15,GET 404
+lever,machinalabs,not_found,0,0,1,1.87,GET 404
+lever,machinefilab,not_found,0,0,1,1.98,GET 404
+lever,machinerypartner,not_found,0,0,1,2.31,GET 404
+lever,macquarietechnologygroup,ok,12,0,1,1.94,
+lever,mactores,ok,29,0,1,2.09,
+lever,madbox,not_found,0,0,1,1.92,GET 404
+lever,madhappy,ok,22,0,1,2.32,
+lever,madhive,not_found,0,0,1,2.12,GET 404
+lever,madisonei,not_found,0,0,1,2.1,GET 404
+lever,madisonlogic,not_found,0,0,1,2.4,GET 404
+lever,madrigalpharma,not_found,0,0,1,2.09,GET 404
+lever,magic,not_found,0,0,1,1.96,GET 404
+lever,magicalbeginningslc,ok,77,0,1,9.15,
+lever,magicgames,not_found,0,0,1,1.92,GET 404
+lever,magnals,ok,32,0,1,2.24,
+lever,magnetforensics,ok,34,0,1,2.24,
+lever,magnify,ok,3,0,1,2.11,
+lever,magnitudesoftware,not_found,0,0,1,1.94,GET 404
+lever,magnopus,ok,3,0,1,2.23,
+lever,mahanatherapeutics,not_found,0,0,1,2.06,GET 404
+lever,mahmee,ok,2,0,1,2.56,
+lever,mainspringenergy,ok,90,0,1,2.46,
+lever,mainstreet,not_found,0,0,1,2.16,GET 404
+lever,mainstreetwork,not_found,0,0,1,2.27,GET 404
+lever,make-rain,ok,20,0,1,2.85,
+lever,makersplace,not_found,0,0,1,2.36,GET 404
+lever,makeschool,not_found,0,0,1,2.12,GET 404
+lever,makpar,ok,4,0,1,2.52,
+lever,malarianomore,empty,0,0,1,2.54,
+lever,malbongolf,ok,5,0,1,2.37,
+lever,malt,ok,28,6,1,2.59,
+lever,mamamoney,ok,7,0,1,2.75,
+lever,mammothbiosci,ok,1,0,1,2.35,
+lever,mamo,not_found,0,0,1,2.31,GET 404
+lever,manaycpa.com,ok,22,0,1,2.54,
+lever,mangolanguage,ok,2,1,1,2.34,
+lever,manifest,not_found,0,0,1,2.28,GET 404
+lever,manifestfinancial,not_found,0,0,1,2.1,GET 404
+lever,manifestmedex,empty,0,0,1,4.08,
+lever,mantanetwork,not_found,0,0,1,2.86,GET 404
+lever,mantisinnovation,ok,52,0,1,3.92,
+lever,manty,not_found,0,0,1,2.2,GET 404
+lever,maple-finance,empty,0,0,1,2.24,
+lever,maplemedia,not_found,0,0,1,2.1,GET 404
+lever,mapsbcorp,not_found,0,0,1,2.09,GET 404
+lever,maquettevirtuelle,ok,5,0,1,2.7,
+lever,marcopolo,empty,0,0,1,3.32,
+lever,marcusgrahamproject,ok,2,0,1,2.25,
+lever,marcusmillichap,empty,0,0,1,2.21,
+lever,margo-group,ok,64,0,1,2.34,
+lever,margueritecaseyfoundation,empty,0,0,1,1.98,
+lever,maribelhealth,not_found,0,0,1,2.32,GET 404
+lever,marigoldhealth,ok,5,3,1,2.39,
+lever,markato,not_found,0,0,1,2.05,GET 404
+lever,marketcircle,empty,0,0,1,2.53,
+lever,marketer-hire,ok,1,0,1,2.18,
+lever,marketingevolution,not_found,0,0,1,2.06,GET 404
+lever,marketopia,not_found,0,0,1,2.21,GET 404
+lever,markham,ok,4,0,1,2.31,
+lever,marlettefunding,not_found,0,0,1,2.31,GET 404
+lever,marq,not_found,0,0,1,2.53,GET 404
+lever,marquetteassociates,ok,5,0,1,2.8,
+lever,marqvision,ok,1,0,1,2.49,
+lever,marshallreddick,ok,11,0,1,2.23,
+lever,martinagency,not_found,0,0,1,2.0,GET 404
+lever,mashgin,ok,10,0,1,2.04,
+lever,massive-rocket,ok,23,23,1,2.11,
+lever,massschoolbuildings,ok,9,0,1,2.06,
+lever,masterborn-2,ok,12,0,1,5.06,
+lever,masterycharter,ok,55,0,1,2.12,
+lever,mastreforestation,not_found,0,0,1,1.94,GET 404
+lever,mastrics,not_found,0,0,1,1.82,GET 404
+lever,masygroup,not_found,0,0,1,4.46,GET 404
+lever,matchgroup,ok,66,1,1,2.23,
+lever,mathpresso,not_found,0,0,1,1.9,GET 404
+lever,matillion,ok,19,0,1,2.87,
+lever,matrixpartners,not_found,0,0,1,1.84,GET 404
+lever,mattermark,not_found,0,0,1,1.98,GET 404
+lever,mattermost,not_found,0,0,1,1.99,GET 404
+lever,matterport,not_found,0,0,1,2.17,GET 404
+lever,matters,not_found,0,0,1,2.16,GET 404
+lever,matterworks,empty,0,0,1,2.2,
+lever,maverickx,ok,8,0,1,2.38,
+lever,max-retail,ok,1,0,1,2.12,
+lever,max-ssm,ok,10,0,1,2.15,
+lever,maxmind,empty,0,0,1,1.97,
+lever,maya,ok,5,0,1,2.03,
+lever,mayer-llp,ok,22,0,1,2.66,
+lever,mazars,empty,0,0,1,1.93,
+lever,mbcapital,not_found,0,0,1,2.03,GET 404
+lever,mbrdna,not_found,0,0,1,3.73,GET 404
+lever,mbta,not_found,0,0,1,2.86,GET 404
+lever,mcaconnect,ok,13,0,1,2.28,
+lever,mcchrystalgroup,ok,4,0,1,3.36,
+lever,mcgovern,ok,1,0,1,2.05,
+lever,mcgrathnicol,not_found,0,0,1,1.9,GET 404
+lever,mcra,not_found,0,0,1,1.92,GET 404
+lever,mechanicalorchard,ok,3,0,1,2.08,
+lever,mechanism-2,not_found,0,0,1,2.0,GET 404
+lever,medal,not_found,0,0,1,2.14,GET 404
+lever,medallia,not_found,0,0,1,2.06,GET 404
+lever,medcarepediatric,ok,68,0,1,2.28,
+lever,medchart,not_found,0,0,1,3.99,GET 404
+lever,medely,not_found,0,0,1,1.95,GET 404
+lever,medi.ci,ok,7,0,1,2.13,
+lever,mediafly,not_found,0,0,1,2.08,GET 404
+lever,mediagenix,empty,0,0,1,2.13,
+lever,medialab,not_found,0,0,1,2.14,GET 404
+lever,mediaocean,not_found,0,0,1,4.51,GET 404
+lever,medical-outsourcing-solutions,ok,5,0,1,2.16,
+lever,medium,not_found,0,0,1,5.09,GET 404
+lever,mednow,ok,3,0,1,1.82,
+lever,medrhythms,empty,0,0,1,1.77,
+lever,meds,ok,24,0,1,7.58,
+lever,meesho,ok,49,0,1,4.57,
+lever,meetalbert,empty,0,0,1,1.94,
+lever,meetgroup,not_found,0,0,1,1.8,GET 404
+lever,meetingstreetschools,not_found,0,0,1,2.84,GET 404
+lever,meetingtomorrow,ok,3,0,1,2.19,
+lever,mega,ok,12,0,1,2.49,
+lever,megaport,ok,59,1,1,2.26,
+lever,meili,ok,1,0,1,3.12,
+lever,meliuz,not_found,0,0,1,2.25,GET 404
+lever,membersy,not_found,0,0,1,3.62,GET 404
+lever,memebox,not_found,0,0,1,1.94,GET 404
+lever,memfault,not_found,0,0,1,2.37,GET 404
+lever,memphismeats,not_found,0,0,1,2.07,GET 404
+lever,mendix,ok,39,3,1,2.5,
+lever,menlovc,not_found,0,0,1,2.27,GET 404
+lever,menta,ok,212,0,1,2.83,
+lever,mentormate,not_found,0,0,1,2.14,GET 404
+lever,meridianlink,not_found,0,0,1,2.43,GET 404
+lever,merit,not_found,0,0,1,2.13,GET 404
+lever,merkle,not_found,0,0,1,1.87,GET 404
+lever,merklescience,ok,24,0,1,2.13,
+lever,merlinlabs,ok,24,0,1,1.81,
+lever,meroxa,empty,0,0,1,1.52,
+lever,meshcapade,not_found,0,0,1,1.5,GET 404
+lever,messari,not_found,0,0,1,1.66,GET 404
+lever,metabase,ok,19,13,1,1.74,
+lever,metagood,not_found,0,0,1,1.61,GET 404
+lever,metalpay,not_found,0,0,1,2.55,GET 404
+lever,metaprise.ai,ok,2,0,1,3.89,
+lever,metaprisebanking,not_found,0,0,1,1.89,GET 404
+lever,metasite,ok,4,0,1,2.38,
+lever,metatheory,not_found,0,0,1,1.65,GET 404
+lever,metaview,empty,0,0,1,1.6,
+lever,metawealth,ok,2,0,1,2.42,
+lever,metecs,empty,0,0,1,1.84,
+lever,meteor,not_found,0,0,1,1.78,GET 404
+lever,metergysolutions,ok,11,0,1,1.97,
+lever,metlife,ok,39,0,1,2.0,
+lever,metopera,ok,9,0,1,2.52,
+lever,metr,ok,4,0,1,1.91,
+lever,mgac,not_found,0,0,1,1.77,GET 404
+lever,mheducation,not_found,0,0,1,1.77,GET 404
+lever,mhnchicago,ok,3,0,1,1.98,
+lever,micromerchantsystems,not_found,0,0,1,2.26,GET 404
+lever,microventures,ok,9,0,1,2.05,
+lever,microvision,ok,5,0,1,2.16,
+lever,midigator,not_found,0,0,1,2.04,GET 404
+lever,mighty,not_found,0,0,1,2.39,GET 404
+lever,migo-2,not_found,0,0,1,2.19,GET 404
+lever,miinto,not_found,0,0,1,2.2,GET 404
+lever,milhouseinc,ok,24,0,1,2.17,
+lever,milk-moovement,not_found,0,0,1,2.0,GET 404
+lever,milliondollarbabyco,not_found,0,0,1,1.99,GET 404
+lever,milltownpartners,ok,13,0,1,2.19,
+lever,milocredit,ok,2,0,1,1.94,
+lever,mindbloom,empty,0,0,1,1.9,
+lever,minders,ok,22,0,1,2.67,
+lever,mindful,ok,11,0,1,2.04,
+lever,mindsdb,not_found,0,0,1,4.9,GET 404
+lever,mindtickle,ok,21,0,1,2.65,
+lever,mindy,ok,8,3,1,2.28,
+lever,mineral,not_found,0,0,1,2.28,GET 404
+lever,minesense,ok,6,0,1,2.29,
+lever,minimumltd,not_found,0,0,1,2.09,GET 404
+lever,minted,empty,0,0,1,1.87,
+lever,minthouse,not_found,0,0,1,2.8,GET 404
+lever,mirai-foods,ok,1,0,1,2.01,
+lever,mirastarfcu,ok,1,0,1,2.16,
+lever,mirego,ok,9,0,1,2.24,
+lever,mirror,empty,0,0,1,2.18,
+lever,missionbarns,not_found,0,0,1,2.09,GET 404
+lever,missioncap,empty,0,0,1,2.14,
+lever,missioncloud,not_found,0,0,1,2.16,GET 404
+lever,missioncontinues,not_found,0,0,1,2.2,GET 404
+lever,missiongraduates,ok,14,0,1,2.37,
+lever,missionhh,not_found,0,0,1,2.25,GET 404
+lever,missionwired,not_found,0,0,1,7.42,GET 404
+lever,mistplay,ok,7,0,1,2.36,
+lever,mistral,not_found,0,0,1,2.25,GET 404
+lever,mit,empty,0,0,1,2.22,
+lever,miteksystems-2,ok,9,0,1,2.37,
+lever,mitratech,empty,0,0,1,1.9,
+lever,mittilabs,not_found,0,0,1,2.41,GET 404
+lever,mixlab,ok,1,0,1,1.92,
+lever,mixtiles,not_found,0,0,1,2.01,GET 404
+lever,ml4t,ok,3,0,1,2.75,
+lever,mobile-action,ok,2,0,1,2.19,
+lever,mobileintegration-group,not_found,0,0,1,2.09,GET 404
+lever,mobisystems,not_found,0,0,1,2.22,GET 404
+lever,modeln,ok,6,0,1,2.35,
+lever,modern,not_found,0,0,1,2.1,GET 404
+lever,modern-age,not_found,0,0,1,2.13,GET 404
+lever,modernanimal,empty,0,0,1,2.42,
+lever,modernintelligence,not_found,0,0,1,2.27,GET 404
+lever,modernlife,ok,5,0,1,2.25,
+lever,modjo,not_found,0,0,1,2.21,GET 404
+lever,modsquad,not_found,0,0,1,2.26,GET 404
+lever,modsy,not_found,0,0,1,2.22,GET 404
+lever,modularps,not_found,0,0,1,2.26,GET 404
+lever,modulate,ok,1,0,1,2.12,
+lever,moego,not_found,0,0,1,2.3,GET 404
+lever,mojo-video,empty,0,0,1,3.44,
+lever,molcure,not_found,0,0,1,2.01,GET 404
+lever,molekule,not_found,0,0,1,2.07,GET 404
+lever,moltenindustries,ok,1,0,1,2.11,
+lever,moment-ranks,not_found,0,0,1,2.15,GET 404
+lever,momentfactory,not_found,0,0,1,1.95,GET 404
+lever,momenti-inc,ok,14,0,1,2.17,
+lever,momentshospice-2,ok,158,0,1,3.01,
+lever,momentum-inc,not_found,0,0,1,2.21,GET 404
+lever,momsmeals,ok,37,0,1,2.36,
+lever,moneyboxapp,empty,0,0,1,2.1,
+lever,moneytree,not_found,0,0,1,2.1,GET 404
+lever,monumental,not_found,0,0,1,2.19,GET 404
+lever,moo,ok,5,0,1,2.35,
+lever,moogsoft,not_found,0,0,1,2.12,GET 404
+lever,moonhub,not_found,0,0,1,2.2,GET 404
+lever,moonpay,ok,20,0,1,2.52,
+lever,moonpig,ok,19,0,1,4.26,
+lever,moonsong-labs,empty,0,0,1,2.5,
+lever,morningbrew,ok,5,0,1,2.44,
+lever,morningconsult,not_found,0,0,1,5.64,GET 404
+lever,mosaic-2,empty,0,0,1,2.31,
+lever,mosaicbuilders,not_found,0,0,1,2.14,GET 404
+lever,mostly-ai,not_found,0,0,1,2.2,GET 404
+lever,mostudio,not_found,0,0,1,5.18,GET 404
+lever,mothernewyork,ok,1,0,1,2.26,
+lever,mothership,empty,0,0,1,2.14,
+lever,motifsystems,ok,1,0,1,2.35,
+lever,motional,not_found,0,0,1,2.03,GET 404
+lever,motionapp,not_found,0,0,1,1.98,GET 404
+lever,motivateco,not_found,0,0,1,2.33,GET 404
+lever,motive,not_found,0,0,1,2.0,GET 404
+lever,mountaintop,not_found,0,0,1,2.08,GET 404
+lever,mous,not_found,0,0,1,2.09,GET 404
+lever,moveloot,not_found,0,0,1,2.16,GET 404
+lever,moxionpower,not_found,0,0,1,2.63,GET 404
+lever,mrss,empty,0,0,1,2.19,
+lever,mryum,not_found,0,0,1,2.18,GET 404
+lever,msconsultants,ok,19,0,1,3.32,
+lever,mti-inc,ok,1,0,1,2.05,
+lever,mtspartners,ok,1,0,1,2.06,
+lever,mujininc,ok,95,0,1,3.58,
+lever,mulberry,ok,51,0,1,3.09,
+lever,mulliganfunding,ok,4,0,1,4.02,
+lever,multiplylabs,ok,14,0,1,2.75,
+lever,multiversx,not_found,0,0,1,1.94,GET 404
+lever,munichelectrification,not_found,0,0,1,1.99,GET 404
+lever,murgadoautomotive,ok,146,0,1,2.41,
+lever,musixmatch,ok,3,0,1,2.11,
+lever,muttdata,ok,38,0,1,2.82,
+lever,myassurehealth,not_found,0,0,1,2.15,GET 404
+lever,mycelium,not_found,0,0,1,2.01,GET 404
+lever,mylaurelhealth,ok,5,0,1,2.33,
+lever,myob-2,ok,17,0,1,2.24,
+lever,myodetox,empty,0,0,1,2.07,
+lever,myollie,ok,2,0,1,2.17,
+lever,mypassglobal,ok,1,0,1,2.0,
+lever,myplacehealth,not_found,0,0,1,2.04,GET 404
+lever,mythic-ai.com,ok,28,1,1,2.82,
+lever,mytos,ok,13,0,1,2.21,
+lever,mytraffic,not_found,0,0,1,2.05,GET 404
+lever,myubiquity,ok,6,0,1,2.26,
+lever,myvessel,ok,5,0,1,1.88,
+lever,myvest,empty,0,0,1,1.7,
+lever,nabis,not_found,0,0,1,1.49,GET 404
+lever,nacsworld,ok,12,0,1,1.68,
+lever,nahc,ok,38,0,1,1.82,
+lever,nainnorcal,ok,17,0,1,1.88,
+lever,nango,empty,0,0,1,1.73,
+lever,narmi,empty,0,0,1,1.7,
+lever,nasafcu,ok,7,0,1,2.06,
+lever,nationaljournal,ok,6,0,1,1.84,
+lever,natronenergy,not_found,0,0,1,1.82,GET 404
+lever,naturesfynd,not_found,0,0,1,1.9,GET 404
+lever,nautical-commerce,not_found,0,0,1,1.86,GET 404
+lever,nava,empty,0,0,1,1.97,
+lever,navisite,empty,0,0,1,2.03,
+lever,nce,empty,0,0,1,2.13,
+lever,nclusioninc,empty,0,0,1,2.16,
+lever,nebra-labs,not_found,0,0,1,2.24,GET 404
+lever,nectarpr,not_found,0,0,1,2.29,GET 404
+lever,neednova,not_found,0,0,1,2.04,GET 404
+lever,neighbor,ok,13,0,1,2.43,
+lever,nekohealth,not_found,0,0,1,2.14,GET 404
+lever,nelly,not_found,0,0,1,2.39,GET 404
+lever,nemesiscorporation,empty,0,0,1,2.19,
+lever,neo4j,not_found,0,0,1,2.21,GET 404
+lever,neon,ok,9,0,1,2.48,
+lever,neonexchange,not_found,0,0,1,2.28,GET 404
+lever,neowiz,ok,29,0,1,2.47,
+lever,nesthealth,not_found,0,0,1,2.42,GET 404
+lever,nestig,not_found,0,0,1,2.23,GET 404
+lever,nesto,not_found,0,0,1,2.29,GET 404
+lever,nestwealth,not_found,0,0,1,2.38,GET 404
+lever,netflix,not_found,0,0,1,2.21,GET 404
+lever,netlight,ok,39,16,1,2.56,
+lever,netomi,ok,20,0,1,2.64,
+lever,netvirta,empty,0,0,1,3.8,
+lever,neuralink,not_found,0,0,1,2.6,GET 404
+lever,neurolabs-ai,not_found,0,0,1,2.38,GET 404
+lever,neurologica,not_found,0,0,1,2.4,GET 404
+lever,neuron7,ok,16,0,1,2.66,
+lever,nevados,empty,0,0,1,2.44,
+lever,newculturefood,not_found,0,0,1,2.39,GET 404
+lever,newfrontinsurance,not_found,0,0,1,2.39,GET 404
+lever,newton,ok,5,0,1,3.6,
+lever,newton-school,not_found,0,0,1,2.8,GET 404
+lever,newwestern,ok,29,0,1,2.36,
+lever,newwesterncorporate,ok,3,0,1,2.39,
+lever,newzealandtradeandenterprise,ok,2,0,1,3.1,
+lever,nex,not_found,0,0,1,2.33,GET 404
+lever,nexient,not_found,0,0,1,2.3,GET 404
+lever,nexigendigital,not_found,0,0,1,2.42,GET 404
+lever,nexos,not_found,0,0,1,2.2,GET 404
+lever,next-decade,empty,0,0,1,2.28,
+lever,next-health,ok,18,0,1,2.52,
+lever,nextbigsound,not_found,0,0,1,2.45,GET 404
+lever,nextcaller,not_found,0,0,1,2.4,GET 404
+lever,nextdata,not_found,0,0,1,2.39,GET 404
+lever,nextech,ok,7,0,1,2.24,
+lever,nextgames,not_found,0,0,1,2.16,GET 404
+lever,nextgenfed,ok,36,0,1,2.4,
+lever,nextmillennium,not_found,0,0,1,2.22,GET 404
+lever,nexuse-group,ok,30,0,1,2.58,
+lever,neye-systems-inc.,ok,16,0,1,2.32,
+lever,nfamilyclub-2,not_found,0,0,1,2.42,GET 404
+lever,nfq,ok,10,0,1,2.37,
+lever,nftnow,not_found,0,0,1,2.3,GET 404
+lever,nftpay,not_found,0,0,1,2.01,GET 404
+lever,nfx,empty,0,0,1,1.97,
+lever,niagenbioscience,empty,0,0,1,1.99,
+lever,nibiru,ok,9,8,1,2.11,
+lever,nielsen,empty,0,0,1,2.09,
+lever,nightfall,not_found,0,0,1,2.17,GET 404
+lever,nilc,not_found,0,0,1,2.1,GET 404
+lever,nimbleai,not_found,0,0,1,2.21,GET 404
+lever,nimblerx,empty,0,0,1,2.19,
+lever,nimbletalent,ok,2,0,1,2.02,
+lever,nimbus,ok,1,0,1,2.16,
+lever,ninjavan,ok,144,0,1,3.99,
+lever,nio,not_found,0,0,1,2.19,GET 404
+lever,nisum,not_found,0,0,1,2.39,GET 404
+lever,nithio,not_found,0,0,1,2.42,GET 404
+lever,nitra,ok,68,0,1,2.6,
+lever,nium,ok,30,0,1,2.79,
+lever,njstateofficeofinnovation,not_found,0,0,1,2.28,GET 404
+lever,noblereach,ok,2,0,1,2.35,
+lever,nobody,ok,2,0,1,2.25,
+lever,nobullproject,ok,4,0,1,2.32,
+lever,nodereal,empty,0,0,1,2.21,
+lever,noibutechnologies,not_found,0,0,1,2.28,GET 404
+lever,nolapublicschools,ok,16,0,1,2.5,
+lever,nomadmktg,empty,0,0,1,2.54,
+lever,nomagic,not_found,0,0,1,2.37,GET 404
+lever,nomihealth,ok,3,0,1,2.48,
+lever,nominal,empty,0,0,1,2.3,
+lever,noodle,ok,4,0,1,2.51,
+lever,norcalcann,not_found,0,0,1,2.37,GET 404
+lever,nordsec,empty,0,0,1,2.45,
+lever,normai,not_found,0,0,1,2.41,GET 404
+lever,normalyze,empty,0,0,1,2.41,
+lever,northatlanticcorp,not_found,0,0,1,2.39,GET 404
+lever,northernlabs,not_found,0,0,1,2.4,GET 404
+lever,notabene,not_found,0,0,1,4.16,GET 404
+lever,notablelabs,not_found,0,0,1,2.29,GET 404
+lever,notarize,not_found,0,0,1,5.27,GET 404
+lever,notch,not_found,0,0,1,2.1,GET 404
+lever,noteworth,not_found,0,0,1,2.2,GET 404
+lever,notonthehighstreet,not_found,0,0,1,2.13,GET 404
+lever,novara,ok,7,0,1,2.25,
+lever,novaspace,ok,20,2,1,7.2,
+lever,novatalent,not_found,0,0,1,2.19,GET 404
+lever,novi,not_found,0,0,1,2.3,GET 404
+lever,novir,ok,13,0,1,2.53,
+lever,novosfiber,ok,5,0,1,3.52,
+lever,noyo,not_found,0,0,1,2.22,GET 404
+lever,nphub,ok,3,0,1,2.34,
+lever,npowermedicine,ok,6,0,1,3.94,
+lever,nrccua,not_found,0,0,1,2.41,GET 404
+lever,nrwl,not_found,0,0,1,2.21,GET 404
+lever,nsin,not_found,0,0,1,2.38,GET 404
+lever,ntdsoftware,not_found,0,0,1,2.35,GET 404
+lever,ntropy-network,not_found,0,0,1,2.47,GET 404
+lever,nubrakes,not_found,0,0,1,2.39,GET 404
+lever,numeral,not_found,0,0,1,2.4,GET 404
+lever,numeris,ok,5,0,1,2.51,
+lever,nuorder,not_found,0,0,1,2.3,GET 404
+lever,nurx,not_found,0,0,1,2.2,GET 404
+lever,nutcrackertherapeutics,not_found,0,0,1,2.1,GET 404
+lever,nuuds,ok,3,0,1,19.4,
+lever,nuvoair,not_found,0,0,1,2.05,GET 404
+lever,nuwaves,ok,3,0,1,2.16,
+lever,nveloptherapeutics,not_found,0,0,1,2.62,GET 404
+lever,nxcr,not_found,0,0,1,2.2,GET 404
+lever,nxscale,not_found,0,0,1,2.6,GET 404
+lever,nxtthingrpo,empty,0,0,1,1.96,
+lever,nylas,not_found,0,0,1,1.8,GET 404
+lever,nymedia,not_found,0,0,1,1.89,GET 404
+lever,nyscf-2,not_found,0,0,1,1.84,GET 404
+lever,o-p-e-n,ok,11,0,1,2.31,
+lever,oaknorth.ai,not_found,0,0,1,2.37,GET 404
+lever,oatly,not_found,0,0,1,2.03,GET 404
+lever,obie,not_found,0,0,1,2.09,GET 404
+lever,objective,ok,13,0,1,2.49,
+lever,obol-tech,empty,0,0,1,2.27,
+lever,observablehq,empty,0,0,1,1.94,
+lever,observeai,not_found,0,0,1,2.0,GET 404
+lever,observeinc,not_found,0,0,1,2.03,GET 404
+lever,obsglobal,empty,0,0,1,2.13,
+lever,ochre-bio,not_found,0,0,1,2.1,GET 404
+lever,oci,ok,1,0,1,2.03,
+lever,ockam,empty,0,0,1,2.5,
+lever,ocrolus,not_found,0,0,1,1.88,GET 404
+lever,octane,not_found,0,0,1,1.95,GET 404
+lever,octaneai,empty,0,0,1,28.31,
+lever,octoenergy,ok,161,33,1,2.4,
+lever,octoml,not_found,0,0,1,1.98,GET 404
+lever,octopus,not_found,0,0,1,2.0,GET 404
+lever,oda,not_found,0,0,1,2.09,GET 404
+lever,odaseva,ok,15,0,1,2.32,
+lever,oddin,ok,35,7,1,2.24,
+lever,odonnellsnider,ok,2,0,1,1.98,
+lever,odysaviation,not_found,0,0,1,1.92,GET 404
+lever,offchainlabs,ok,14,1,1,2.15,
+lever,offerpop,not_found,0,0,1,2.18,GET 404
+lever,ogury,ok,2,0,1,2.08,
+lever,okendo,ok,6,0,1,2.1,
+lever,oktopost,ok,13,0,1,20.2,
+lever,oleria-security,empty,0,0,1,3.67,
+lever,oliverwyman,ok,2,0,1,2.11,
+lever,olo,ok,13,0,1,2.33,
+lever,omni-network,not_found,0,0,1,2.2,GET 404
+lever,omnidesigntech,ok,56,0,1,3.3,
+lever,omnidian,ok,10,0,1,2.26,
+lever,omnisend,ok,15,0,1,2.59,
+lever,onaroll,not_found,0,0,1,1.89,GET 404
+lever,onceuponafarm,ok,1,0,1,2.0,
+lever,ondeck,not_found,0,0,1,2.0,GET 404
+lever,ondofinance,not_found,0,0,1,2.03,GET 404
+lever,oneconcern,not_found,0,0,1,1.94,GET 404
+lever,onefinance,not_found,0,0,1,2.0,GET 404
+lever,onefootball,not_found,0,0,1,2.44,GET 404
+lever,onehouse,not_found,0,0,1,2.29,GET 404
+lever,oneimpression,ok,5,0,1,2.2,
+lever,onesignal,not_found,0,0,1,14.58,GET 404
+lever,oneteam,not_found,0,0,1,1.98,GET 404
+lever,onfido,not_found,0,0,1,2.05,GET 404
+lever,onit,ok,24,0,1,19.61,
+lever,ontic,not_found,0,0,1,2.39,GET 404
+lever,onuniverse,not_found,0,0,1,1.99,GET 404
+lever,onupkeep,not_found,0,0,1,1.9,GET 404
+lever,oomnitza,empty,0,0,1,1.94,
+lever,oowlish,ok,9,0,1,1.91,
+lever,opala,not_found,0,0,1,2.19,GET 404
+lever,opaque-systems,not_found,0,0,1,1.75,GET 404
+lever,opcity,not_found,0,0,1,1.79,GET 404
+lever,openai,not_found,0,0,1,1.77,GET 404
+lever,opencare,not_found,0,0,1,1.8,GET 404
+lever,opendoor,not_found,0,0,1,2.84,GET 404
+lever,openfarminc,not_found,0,0,1,1.92,GET 404
+lever,opengov,not_found,0,0,1,1.66,GET 404
+lever,openinvest,not_found,0,0,1,1.71,GET 404
+lever,openlogix,not_found,0,0,1,12.67,GET 404
+lever,openpayd,not_found,0,0,1,19.29,GET 404
+lever,openphone,not_found,0,0,1,1.9,GET 404
+lever,opensauced,not_found,0,0,1,2.22,GET 404
+lever,opensea,not_found,0,0,1,15.57,GET 404
+lever,openstore,not_found,0,0,1,19.16,GET 404
+lever,openteam,not_found,0,0,1,1.8,GET 404
+lever,openx,ok,9,0,1,2.0,
+lever,operator,not_found,0,0,1,11.44,GET 404
+lever,ophelia,not_found,0,0,1,1.73,GET 404
+lever,opinov8,not_found,0,0,1,1.79,GET 404
+lever,optimism,not_found,0,0,1,1.84,GET 404
+lever,optimusride,not_found,0,0,1,1.8,GET 404
+lever,optimussbr,ok,4,0,1,1.97,
+lever,optionmetrics,ok,6,0,1,2.05,
+lever,optiv-2,not_found,0,0,1,1.83,GET 404
+lever,opus1,not_found,0,0,1,16.72,GET 404
+lever,opys,empty,0,0,1,19.5,
+lever,orbaerospace,ok,8,0,1,1.71,
+lever,orbillion,not_found,0,0,1,1.35,GET 404
+lever,orbitalinsight,not_found,0,0,1,1.43,GET 404
+lever,orbitalsidekick,ok,2,0,1,1.56,
+lever,orcabiosystems,ok,38,0,1,1.56,
+lever,orcamobility,not_found,0,0,1,1.39,GET 404
+lever,ordr,empty,0,0,1,1.41,
+lever,orijin,empty,0,0,1,11.17,
+lever,orkes,not_found,0,0,1,1.39,GET 404
+lever,orum,not_found,0,0,1,10.93,GET 404
+lever,osaro,ok,10,0,1,1.41,
+lever,osedea,failed,0,0,1,33.86,GET TimeoutError: The read operation timed out
+lever,osmind,not_found,0,0,1,8.51,GET 404
+lever,osnational,not_found,0,0,1,1.19,GET 404
+lever,oso,not_found,0,0,1,1.19,GET 404
+lever,osomprivacy,not_found,0,0,1,1.15,GET 404
+lever,otilumionics,ok,5,0,1,1.26,
+lever,ou-education-services,ok,3,0,1,1.34,
+lever,our-place,ok,5,0,1,2.15,
+lever,ouster,not_found,0,0,1,1.1,GET 404
+lever,outcomesai,ok,3,0,1,0.91,
+lever,outlast,ok,4,0,1,6.44,
+lever,outpacebio,empty,0,0,1,18.36,
+lever,outreach,ok,16,0,1,1.01,
+lever,outrider,not_found,0,0,1,0.64,GET 404
+lever,outschool,not_found,0,0,1,0.6,GET 404
+lever,outsight,ok,13,0,1,0.87,
+lever,outsourcedstaff,ok,7,0,1,0.83,
+lever,overbit,not_found,0,0,1,12.73,GET 404
+lever,overbond,not_found,0,0,1,0.4,GET 404
+lever,overcast,empty,0,0,1,2.67,
+lever,overmind,ok,3,0,1,0.35,
+lever,overmoon,not_found,0,0,1,0.38,GET 404
+lever,owletcare,empty,0,0,1,0.42,
+lever,owner,not_found,0,0,1,0.5,GET 404
+lever,oxeonpartners,not_found,0,0,1,8.76,GET 404
+lever,oxio,not_found,0,0,1,12.1,GET 404
+lever,oxman,not_found,0,0,1,17.78,GET 404
+lever,oxylabs,not_found,0,0,1,0.43,GET 404
+lever,p-1ai,not_found,0,0,1,0.22,GET 404
+lever,p3vetpartners,ok,53,2,1,1.19,
+lever,pachama,empty,0,0,1,0.24,
+lever,pachyderm,not_found,0,0,1,0.28,GET 404
+lever,pacific-environment,ok,2,0,1,0.37,
+lever,pacificoenergy,ok,4,0,1,0.35,
+lever,packagex,ok,8,0,1,0.52,
+lever,packmatic,not_found,0,0,1,0.26,GET 404
+lever,padsplit,ok,1,0,1,0.23,
+lever,pagerduty,not_found,0,0,1,10.54,GET 404
+lever,palantir,ok,303,0,1,8.37,
+lever,pamu,not_found,0,0,1,0.33,GET 404
+lever,panapartners,not_found,0,0,1,9.8,GET 404
+lever,panda,not_found,0,0,1,0.27,GET 404
+lever,panderasystems,not_found,0,0,1,0.4,GET 404
+lever,pano,not_found,0,0,1,8.16,GET 404
+lever,panopto,ok,15,1,1,0.97,
+lever,pansns,ok,1,0,1,0.23,
+lever,panteracapital,not_found,0,0,1,0.27,GET 404
+lever,panum,not_found,0,0,1,0.23,GET 404
+lever,papara,not_found,0,0,1,0.29,GET 404
+lever,papercut,not_found,0,0,1,4.1,GET 404
+lever,paradigm-health,ok,11,0,1,9.41,
+lever,paradoxum-gg,not_found,0,0,1,0.3,GET 404
+lever,paralleldomain,ok,8,0,1,2.4,
+lever,parallelwireless,ok,51,0,1,0.7,
+lever,paramedicservices,ok,14,0,1,2.72,
+lever,paramobility,ok,1,0,1,18.93,
+lever,parcellab,not_found,0,0,1,2.77,GET 404
+lever,parcelvision,empty,0,0,1,4.28,
+lever,pardon,not_found,0,0,1,0.24,GET 404
+lever,parkplace,not_found,0,0,1,3.09,GET 404
+lever,parnalllaw,ok,138,0,1,19.37,
+lever,parrotsa,not_found,0,0,1,0.22,GET 404
+lever,parsleyhealth,not_found,0,0,1,0.23,GET 404
+lever,parspec,not_found,0,0,1,13.32,GET 404
+lever,participantmedia,not_found,0,0,1,18.22,GET 404
+lever,partiful,not_found,0,0,1,0.66,GET 404
+lever,partoo,not_found,0,0,1,14.04,GET 404
+lever,partyslate,not_found,0,0,1,0.22,GET 404
+lever,passport,not_found,0,0,1,0.22,GET 404
+lever,passportshipping,not_found,0,0,1,0.29,GET 404
+lever,patch,ok,4,0,1,2.4,
+lever,patchmypc,ok,5,0,1,1.07,
+lever,pathpoint,ok,1,0,1,0.44,
+lever,pathrise,not_found,0,0,1,2.88,GET 404
+lever,patientcolife,not_found,0,0,1,11.53,GET 404
+lever,patsnap,empty,0,0,1,0.3,
+lever,pattern,ok,95,0,1,2.69,
+lever,pavementcoffee,not_found,0,0,1,12.1,GET 404
+lever,pax8,not_found,0,0,1,0.44,GET 404
+lever,payabli,empty,0,0,1,0.39,
+lever,payactiv,ok,5,0,1,0.6,
+lever,payfit,not_found,0,0,1,0.36,GET 404
+lever,payjoy,ok,88,0,1,21.93,
+lever,paymongo,not_found,0,0,1,1.99,GET 404
+lever,paystack,not_found,0,0,1,0.75,GET 404
+lever,paytm,ok,202,0,1,1.17,
+lever,paytmbank,not_found,0,0,1,0.58,GET 404
+lever,paytmpayments,ok,1131,0,1,1.32,
+lever,payugpo,ok,9,0,1,7.11,
+lever,payzen,not_found,0,0,1,0.6,GET 404
+lever,pditechnologies,ok,26,0,1,3.99,
+lever,pdq,not_found,0,0,1,3.69,GET 404
+lever,peachfinance,not_found,0,0,1,0.31,GET 404
+lever,peakdentalservices,not_found,0,0,1,0.36,GET 404
+lever,peakdesign,not_found,0,0,1,0.29,GET 404
+lever,peakgames,ok,20,0,1,0.54,
+lever,peakmetrics,not_found,0,0,1,7.71,GET 404
+lever,pearpop,empty,0,0,1,12.75,
+lever,peckwaterbrands,empty,0,0,1,0.41,
+lever,peddie,not_found,0,0,1,0.55,GET 404
+lever,peerspace,ok,4,0,1,14.38,
+lever,pelago,not_found,0,0,1,0.89,GET 404
+lever,pelmorex,ok,7,0,1,0.95,
+lever,pendulum,ok,7,0,1,1.02,
+lever,pennylane,not_found,0,0,1,0.77,GET 404
+lever,penrodsoftware,ok,2,0,1,0.8,
+lever,pentagrp,ok,6,0,1,0.78,
+lever,pento,not_found,0,0,1,0.42,GET 404
+lever,penumbrainc,ok,69,1,1,1.47,
+lever,people-ai,ok,6,0,1,0.78,
+lever,peoplefun,not_found,0,0,1,12.85,GET 404
+lever,peoplegrove,ok,8,0,1,0.78,
+lever,percipient,not_found,0,0,1,1.47,GET 404
+lever,percona,not_found,0,0,1,2.72,GET 404
+lever,perennial,empty,0,0,1,0.46,
+lever,perforce,ok,16,0,1,11.14,
+lever,perrknight,ok,5,0,1,5.85,
+lever,persistiq,not_found,0,0,1,0.43,GET 404
+lever,persona,not_found,0,0,1,0.35,GET 404
+lever,pestotech,not_found,0,0,1,0.23,GET 404
+lever,petalcard,not_found,0,0,1,0.47,GET 404
+lever,petcircle,not_found,0,0,1,0.32,GET 404
+lever,peteforamerica,not_found,0,0,1,0.49,GET 404
+lever,petfriendly,not_found,0,0,1,0.52,GET 404
+lever,petvisor,not_found,0,0,1,0.46,GET 404
+lever,pex,not_found,0,0,1,0.5,GET 404
+lever,pexa,ok,3,0,1,0.74,
+lever,phaze-technologies,not_found,0,0,1,0.66,GET 404
+lever,phiatech,not_found,0,0,1,0.64,GET 404
+lever,phoenixtailings,not_found,0,0,1,0.73,GET 404
+lever,photoroom,not_found,0,0,1,0.68,GET 404
+lever,phrasee,not_found,0,0,1,1.03,GET 404
+lever,pibenchmark,ok,7,0,1,3.9,
+lever,piccollage,ok,11,0,1,0.67,
+lever,pickethomes,not_found,0,0,1,0.65,GET 404
+lever,picklerobot,ok,9,0,1,0.82,
+lever,picktrace,ok,2,0,1,0.71,
+lever,picsart,not_found,0,0,1,0.86,GET 404
+lever,picus,ok,17,0,1,1.24,
+lever,pieinsurance,not_found,0,0,1,0.5,GET 404
+lever,piepacker,not_found,0,0,1,0.61,GET 404
+lever,pigment,ok,127,8,1,2.63,
+lever,pillar,empty,0,0,1,0.54,
+lever,pillarbiosciences,ok,1,0,1,0.68,
+lever,pillartechnology,ok,4,0,1,10.62,
+lever,pillow,not_found,0,0,1,5.96,GET 404
+lever,pinata,not_found,0,0,1,0.91,GET 404
+lever,pine-services,ok,12,0,1,1.33,
+lever,pinegames,ok,6,0,1,0.55,
+lever,pineparkhealth,not_found,0,0,1,0.43,GET 404
+lever,pingcap,not_found,0,0,1,0.24,GET 404
+lever,pingwind,ok,93,0,1,2.53,
+lever,pinkoi,ok,7,0,1,0.7,
+lever,pioneer-services,ok,4,0,1,0.49,
+lever,pip,empty,0,0,1,0.4,
+lever,pipedrive,empty,0,0,1,0.24,
+lever,piplabs,empty,0,0,1,0.32,
+lever,pirouettemedical,not_found,0,0,1,3.63,GET 404
+lever,pison,ok,1,0,1,0.42,
+lever,pivotal,ok,36,0,1,0.65,
+lever,pivotenergy,ok,9,0,1,6.12,
+lever,pjp,not_found,0,0,1,0.31,GET 404
+lever,placemakr,ok,12,0,1,0.61,
+lever,placemeter,not_found,0,0,1,0.23,GET 404
+lever,placepass,not_found,0,0,1,0.35,GET 404
+lever,placeshowroom.com,ok,5,0,1,0.42,
+lever,plaid,not_found,0,0,1,0.33,GET 404
+lever,plailabsinc,not_found,0,0,1,1.0,GET 404
+lever,planetinnovation,not_found,0,0,1,1.94,GET 404
+lever,planettechnologies,ok,18,0,1,0.67,
+lever,plangrid,not_found,0,0,1,0.45,GET 404
+lever,planned,ok,3,0,1,0.58,
+lever,planned-2,not_found,0,0,1,0.6,GET 404
+lever,planner5d,ok,4,0,1,0.42,
+lever,plastiq,not_found,0,0,1,0.3,GET 404
+lever,platform-stud,not_found,0,0,1,0.44,GET 404
+lever,playbook,ok,11,0,1,10.73,
+lever,playco,empty,0,0,1,0.51,
+lever,playonsports,empty,0,0,1,0.59,
+lever,playplay,empty,0,0,1,0.61,
+lever,playvs,not_found,0,0,1,0.65,GET 404
+lever,plazahomemortgage,not_found,0,0,1,0.67,GET 404
+lever,plenti,ok,7,0,1,6.78,
+lever,plexus,ok,2,0,1,0.8,
+lever,plivo,not_found,0,0,1,0.82,GET 404
+lever,plooto,ok,3,0,1,0.87,
+lever,plum,not_found,0,0,1,0.69,GET 404
+lever,plume,ok,1,0,1,0.65,
+lever,plus-2,ok,45,0,1,2.29,
+lever,plusgrade,empty,0,0,1,2.07,
+lever,pmaconsultants,ok,27,0,1,1.17,
+lever,pmdsoft,empty,0,0,1,1.6,
+lever,pocketfm,ok,15,0,1,0.98,
+lever,pockethealth,not_found,0,0,1,2.07,GET 404
+lever,pocketworlds,not_found,0,0,1,3.29,GET 404
+lever,pointb,ok,1,0,1,0.9,
+lever,pointclickcare,ok,79,0,1,10.53,
+lever,pointonenav,not_found,0,0,1,0.92,GET 404
+lever,poki,ok,2,0,1,0.58,
+lever,polarsteps,not_found,0,0,1,0.91,GET 404
+lever,policyfly,not_found,0,0,1,0.54,GET 404
+lever,policyme,ok,11,0,1,2.02,
+lever,polleverywhere,empty,0,0,1,6.07,
+lever,pollyex,not_found,0,0,1,0.46,GET 404
+lever,polygon,not_found,0,0,1,0.54,GET 404
+lever,polymerlabs,not_found,0,0,1,0.6,GET 404
+lever,polywork,empty,0,0,1,0.46,
+lever,pond5,not_found,0,0,1,0.75,GET 404
+lever,poplarhomes,not_found,0,0,1,0.7,GET 404
+lever,popmenu,not_found,0,0,1,0.71,GET 404
+lever,popsa,not_found,0,0,1,0.8,GET 404
+lever,popsockets,ok,1,0,1,0.86,
+lever,portagepointpartners,ok,55,0,1,1.09,
+lever,portcast,ok,9,0,1,0.97,
+lever,porter,ok,21,0,1,2.62,
+lever,portoro,not_found,0,0,1,0.7,GET 404
+lever,portpro,ok,5,0,1,0.94,
+lever,poshtech,not_found,0,0,1,0.81,GET 404
+lever,possiblefinance,not_found,0,0,1,0.8,GET 404
+lever,postera,ok,2,0,1,0.95,
+lever,potentialmotors,not_found,0,0,1,0.92,GET 404
+lever,potloc,not_found,0,0,1,6.53,GET 404
+lever,powdevs,empty,0,0,1,0.84,
+lever,powerex,ok,4,0,1,1.01,
+lever,pozy,ok,1,0,1,2.15,
+lever,pp-la,ok,37,0,1,1.38,
+lever,ppau,ok,4,0,1,1.65,
+lever,ppaz,empty,0,0,1,1.65,
+lever,ppcentralcoast,ok,7,0,1,1.39,
+lever,ppcw,empty,0,0,1,1.31,
+lever,ppde,ok,8,0,1,1.42,
+lever,ppfa,ok,26,0,1,1.42,
+lever,ppgnnj,empty,0,0,1,1.29,
+lever,ppgny,ok,25,0,1,1.77,
+lever,ppgreatplains,ok,13,0,1,1.8,
+lever,ppgt,not_found,0,0,1,1.25,GET 404
+lever,pphp,ok,22,0,1,1.51,
+lever,ppil,ok,11,0,1,1.34,
+lever,ppink,ok,4,0,1,1.26,
+lever,ppkeystone,ok,4,0,1,1.21,
+lever,pplm,ok,15,0,1,1.46,
+lever,pplwise,not_found,0,0,1,1.36,GET 404
+lever,ppmd,ok,10,0,1,1.42,
+lever,ppmet,empty,0,0,1,1.61,
+lever,ppmi,ok,6,0,1,1.58,
+lever,ppmontana,ok,4,0,1,1.52,
+lever,ppmw,ok,4,0,1,1.96,
+lever,ppnc,not_found,0,0,1,1.92,GET 404
+lever,ppncny,empty,0,0,1,1.47,
+lever,ppnne,ok,16,0,1,1.66,
+lever,ppnyc,not_found,0,0,1,1.42,GET 404
+lever,pppsgv,ok,2,0,1,1.58,
+lever,pprm,empty,0,0,1,1.61,
+lever,ppro,empty,0,0,1,1.69,
+lever,ppsat,ok,15,0,1,2.08,
+lever,ppse,ok,19,0,1,1.97,
+lever,ppsenfl,not_found,0,0,1,1.81,GET 404
+lever,ppslrswmo,not_found,0,0,1,1.87,GET 404
+lever,ppsne,ok,16,0,1,2.43,
+lever,ppsouthtexas,empty,0,0,1,1.8,
+lever,ppsp,empty,0,0,1,1.82,
+lever,ppswo,empty,0,0,1,1.76,
+lever,ppsworegon,ok,1,0,1,1.9,
+lever,ppwi,ok,13,0,1,2.32,
+lever,ppwp,ok,6,0,1,2.84,
+lever,practicebetter,not_found,0,0,1,1.8,GET 404
+lever,precede,ok,5,0,1,1.76,
+lever,prefixbox,empty,0,0,1,1.71,
+lever,preligens,not_found,0,0,1,1.72,GET 404
+lever,prelim,empty,0,0,1,1.85,
+lever,premia,not_found,0,0,1,1.82,GET 404
+lever,premiertruck,ok,101,0,1,2.25,
+lever,prescriptivedata,not_found,0,0,1,2.87,GET 404
+lever,prestashop,not_found,0,0,1,2.76,GET 404
+lever,prestigedevelopment,not_found,0,0,1,1.78,GET 404
+lever,presto,not_found,0,0,1,2.5,GET 404
+lever,prestolabs,ok,2,0,1,1.84,
+lever,pretto,not_found,0,0,1,1.88,GET 404
+lever,prevail,not_found,0,0,1,2.24,GET 404
+lever,pricebenowitz,not_found,0,0,1,1.9,GET 404
+lever,pricemoov,not_found,0,0,1,1.88,GET 404
+lever,prilenia,ok,1,0,1,6.73,
+lever,primary-2,not_found,0,0,1,2.12,GET 404
+lever,primarybio,empty,0,0,1,1.83,
+lever,primaryvc,not_found,0,0,1,1.68,GET 404
+lever,primatelabs,empty,0,0,1,1.93,
+lever,primechiefofstaff,not_found,0,0,1,1.79,GET 404
+lever,primee,ok,62,0,1,2.15,
+lever,primeexecutiveoffice,ok,4,0,1,1.96,
+lever,primefiber,ok,2,0,1,1.98,
+lever,primemoverslab,not_found,0,0,1,1.71,GET 404
+lever,princesspolly,empty,0,0,1,1.7,
+lever,princeton10,ok,13,0,1,1.92,
+lever,print-recruiting,ok,126,0,1,2.13,
+lever,printavo,not_found,0,0,1,1.87,GET 404
+lever,printify,not_found,0,0,1,1.88,GET 404
+lever,priorities,not_found,0,0,1,1.89,GET 404
+lever,prismic,empty,0,0,1,1.83,
+lever,privacy,not_found,0,0,1,1.84,GET 404
+lever,prizeout,ok,4,0,1,1.83,
+lever,procept-biorobotics,not_found,0,0,1,7.68,GET 404
+lever,processunity,not_found,0,0,1,2.33,GET 404
+lever,proconconsulting,not_found,0,0,1,2.14,GET 404
+lever,procreate,ok,9,0,1,2.17,
+lever,prodigyeducation,not_found,0,0,1,2.1,GET 404
+lever,prodigygame,not_found,0,0,1,2.01,GET 404
+lever,productable,empty,0,0,1,2.13,
+lever,productiv,not_found,0,0,1,2.15,GET 404
+lever,productventures,ok,3,0,1,2.27,
+lever,profoundresearch,ok,14,0,1,7.75,
+lever,progressive-design,not_found,0,0,1,2.12,GET 404
+lever,project-healthy-minds,ok,7,0,1,2.45,
+lever,projectcallisto,not_found,0,0,1,2.26,GET 404
+lever,projectkittyhawk,ok,2,0,1,2.77,
+lever,projector-2,not_found,0,0,1,2.14,GET 404
+lever,projectyx,not_found,0,0,1,2.18,GET 404
+lever,prolific-machines,ok,10,0,1,2.42,
+lever,promaxo,not_found,0,0,1,2.24,GET 404
+lever,promenade,ok,12,0,1,2.44,
+lever,promesaacademy,ok,13,0,1,2.49,
+lever,prometheanworld,ok,3,0,1,2.37,
+lever,prominentedge,ok,2,0,1,2.31,
+lever,promiserobotics,ok,18,0,1,3.19,
+lever,pronto-ai,not_found,0,0,1,2.05,GET 404
+lever,proof,ok,5,0,1,2.14,
+lever,propellerhead,ok,10,0,1,2.33,
+lever,propelplm,not_found,0,0,1,2.22,GET 404
+lever,propelsoftware,ok,4,0,1,2.34,
+lever,proper,ok,13,0,1,2.51,
+lever,prophethomes,ok,32,0,1,4.54,
+lever,propsolutionsgroup,ok,1,0,1,2.16,
+lever,prosper,ok,12,0,1,5.21,
+lever,protectenvironmental,ok,12,0,1,2.23,
+lever,protective,ok,51,0,1,2.47,
+lever,protegrity,not_found,0,0,1,1.99,GET 404
+lever,protocol,not_found,0,0,1,2.0,GET 404
+lever,protolabs,ok,72,0,1,2.23,
+lever,protrials,ok,7,0,1,2.6,
+lever,provectus,ok,40,0,1,2.25,
+lever,provi,empty,0,0,1,1.92,
+lever,proxima,empty,0,0,1,1.97,
+lever,proximafusion,empty,0,0,1,1.98,
+lever,pryon,ok,3,0,1,2.1,
+lever,psintegrated,empty,0,0,1,2.07,
+lever,psivant,ok,2,0,1,1.98,
+lever,pslove-pte,ok,6,0,1,2.17,
+lever,pspdfkit,not_found,0,0,1,1.89,GET 404
+lever,pt78,ok,11,0,1,2.08,
+lever,publiccloudgroup-2,not_found,0,0,1,1.97,GET 404
+lever,publicprep,not_found,0,0,1,1.94,GET 404
+lever,pubstack,not_found,0,0,1,2.23,GET 404
+lever,pulsedata,not_found,0,0,1,1.8,GET 404
+lever,pulsemedianl,not_found,0,0,1,1.81,GET 404
+lever,pumpkin,not_found,0,0,1,1.91,GET 404
+lever,purchasingplatform,ok,1,0,1,1.97,
+lever,puritanmedproducts,not_found,0,0,1,1.71,GET 404
+lever,purple-technology,ok,3,0,1,1.78,
+lever,purplelandmgmt,ok,61,0,1,2.37,
+lever,pushpress,ok,1,0,1,2.34,
+lever,pushsecurity,empty,0,0,1,1.83,
+lever,pyka,ok,14,0,1,2.45,
+lever,pyramidci,not_found,0,0,1,2.18,GET 404
+lever,pythian,not_found,0,0,1,1.89,GET 404
+lever,q-centrix,not_found,0,0,1,2.36,GET 404
+lever,q-ctrl,ok,34,1,1,9.21,
+lever,q4inc,not_found,0,0,1,1.88,GET 404
+lever,qarik,not_found,0,0,1,2.1,GET 404
+lever,qashier,not_found,0,0,1,1.79,GET 404
+lever,qbio,empty,0,0,1,6.0,
+lever,qcells,not_found,0,0,1,1.94,GET 404
+lever,qcells-2,not_found,0,0,1,3.05,GET 404
+lever,qloo,ok,1,0,1,1.94,
+lever,qogita,not_found,0,0,1,2.44,GET 404
+lever,qonto,empty,0,0,1,1.99,
+lever,qover,not_found,0,0,1,2.57,GET 404
+lever,qredo,not_found,0,0,1,2.03,GET 404
+lever,qrypt,ok,6,0,1,2.95,
+lever,qsic,ok,4,0,1,2.12,
+lever,quadlock,ok,3,0,1,2.17,
+lever,qualdoc,ok,61,0,1,2.26,
+lever,qualified,not_found,0,0,1,6.29,GET 404
+lever,qualtekservices,not_found,0,0,1,5.49,GET 404
+lever,qualysoft,ok,88,2,1,2.2,
+lever,quandri,ok,16,0,1,2.17,
+lever,quantcast,empty,0,0,1,6.93,
+lever,quantco-,ok,14,1,1,2.16,
+lever,quantgene,not_found,0,0,1,2.07,GET 404
+lever,quantlabs,not_found,0,0,1,2.16,GET 404
+lever,quantlane,ok,2,0,1,3.86,
+lever,quantumcircuits,not_found,0,0,1,2.88,GET 404
+lever,quantummetric,ok,7,0,1,3.07,
+lever,quantumworkplace,not_found,0,0,1,2.1,GET 404
+lever,quartet,not_found,0,0,1,3.35,GET 404
+lever,quartethealth,not_found,0,0,1,2.19,GET 404
+lever,quartzy,ok,1,0,1,3.19,
+lever,quenchwater,ok,67,0,1,2.22,
+lever,questanalytics,ok,7,0,1,1.95,
+lever,quicknode,not_found,0,0,1,1.79,GET 404
+lever,quidd,not_found,0,0,1,1.93,GET 404
+lever,quidel,not_found,0,0,1,1.75,GET 404
+lever,quilt,not_found,0,0,1,2.4,GET 404
+lever,quilted-health,ok,1,0,1,1.68,
+lever,quince,not_found,0,0,1,1.69,GET 404
+lever,quincus,ok,2,0,1,11.77,
+lever,quincyinst,ok,3,0,1,1.85,
+lever,quiq,ok,1,0,1,1.89,
+lever,quitgenius,not_found,0,0,1,1.98,GET 404
+lever,quixel,ok,1,0,1,1.87,
+lever,quizizz,not_found,0,0,1,1.28,GET 404
+lever,quizlet-2,not_found,0,0,1,1.34,GET 404
+lever,quokka,not_found,0,0,1,9.32,GET 404
+lever,quora,not_found,0,0,1,1.34,GET 404
+lever,quotapath,not_found,0,0,1,1.35,GET 404
+lever,quotevelocity,not_found,0,0,1,1.41,GET 404
+lever,quotient,not_found,0,0,1,1.48,GET 404
+lever,quri,not_found,0,0,1,1.53,GET 404
+lever,qvest.us,ok,34,2,1,1.72,
+lever,qwello.eu,ok,7,5,1,1.63,
+lever,qwoted,ok,5,0,1,1.47,
+lever,r4d,not_found,0,0,1,1.42,GET 404
+lever,rabbitholestudios,not_found,0,0,1,1.45,GET 404
+lever,rackspace,empty,0,0,1,2.28,
+lever,radai,not_found,0,0,1,1.62,GET 404
+lever,radformation,ok,3,0,1,1.79,
+lever,radicalai,not_found,0,0,1,2.59,GET 404
+lever,radix,not_found,0,0,1,1.7,GET 404
+lever,radpowerbikes-2,not_found,0,0,1,1.73,GET 404
+lever,rai,ok,15,0,1,1.94,
+lever,railroad19,empty,0,0,1,1.85,
+lever,raine,ok,2,0,1,1.85,
+lever,rainfocus,ok,13,0,1,1.96,
+lever,rainforest,not_found,0,0,1,1.95,GET 404
+lever,rainmaking,not_found,0,0,1,1.82,GET 404
+lever,raise,not_found,0,0,1,3.32,GET 404
+lever,ramenvr,empty,0,0,1,8.07,
+lever,rangeenergy,empty,0,0,1,1.65,
+lever,ranger,ok,3,0,1,1.78,
+lever,ranitherapeutics,not_found,0,0,1,1.79,GET 404
+lever,rapidai,ok,11,0,1,2.03,
+lever,rapidapi,not_found,0,0,1,1.92,GET 404
+lever,rapiddeploy,empty,0,0,1,1.81,
+lever,rapidmicrobio,ok,10,1,1,2.08,
+lever,rappi,not_found,0,0,1,1.77,GET 404
+lever,raptormaps,not_found,0,0,1,1.79,GET 404
+lever,raptstudio,not_found,0,0,1,1.8,GET 404
+lever,raptv,ok,4,0,1,1.84,
+lever,rarible,not_found,0,0,1,1.84,GET 404
+lever,ratemyagent,not_found,0,0,1,1.88,GET 404
+lever,raven,not_found,0,0,1,1.87,GET 404
+lever,ravio,empty,0,0,1,4.12,
+lever,ravl_io,ok,21,0,1,2.18,
+lever,raya,ok,8,0,1,1.95,
+lever,rbanw,ok,17,0,1,2.23,
+lever,reachpower,ok,2,0,1,6.23,
+lever,reali,not_found,0,0,1,2.14,GET 404
+lever,realscout,not_found,0,0,1,1.95,GET 404
+lever,realself,ok,4,0,1,2.07,
+lever,realvision,not_found,0,0,1,2.12,GET 404
+lever,realworklabs,empty,0,0,1,3.84,
+lever,recast-software,empty,0,0,1,8.97,
+lever,recess,empty,0,0,1,1.99,
+lever,recognisebank,ok,3,0,1,2.01,
+lever,recordpoint,ok,3,0,1,3.32,
+lever,recormedical,not_found,0,0,1,1.9,GET 404
+lever,recur,not_found,0,0,1,1.87,GET 404
+lever,recurly,not_found,0,0,1,1.91,GET 404
+lever,recurrency,not_found,0,0,1,1.92,GET 404
+lever,recurve,not_found,0,0,1,1.93,GET 404
+lever,redaptiveinc,not_found,0,0,1,8.46,GET 404
+lever,redbee,ok,7,0,1,2.29,
+lever,redcanary,not_found,0,0,1,2.17,GET 404
+lever,redcanyonsoftware,ok,10,0,1,4.56,
+lever,reddit,not_found,0,0,1,1.79,GET 404
+lever,reddogmedia,ok,1,0,1,1.71,
+lever,redhorsecorp,ok,67,0,1,2.18,
+lever,redoxengine,ok,3,0,1,1.92,
+lever,redsox,ok,15,0,1,4.98,
+lever,redwoodcu,ok,36,0,1,2.05,
+lever,redwoodresearch,not_found,0,0,1,1.56,GET 404
+lever,redwoodstrategygroup,ok,10,0,1,1.97,
+lever,reebelo,not_found,0,0,1,1.81,GET 404
+lever,reekon-tools,ok,10,0,1,1.8,
+lever,refed,empty,0,0,1,1.84,
+lever,reflectorentertainment,not_found,0,0,1,8.91,GET 404
+lever,refuel,not_found,0,0,1,1.72,GET 404
+lever,regalvoice,not_found,0,0,1,1.2,GET 404
+lever,regard,not_found,0,0,1,1.3,GET 404
+lever,regentcraft,not_found,0,0,1,1.47,GET 404
+lever,regenxbio,ok,15,0,1,1.61,
+lever,reggora,not_found,0,0,1,2.05,GET 404
+lever,regrello,not_found,0,0,1,1.75,GET 404
+lever,reibus,not_found,0,0,1,1.37,GET 404
+lever,reifyhealth,not_found,0,0,1,1.68,GET 404
+lever,relativity,not_found,0,0,1,1.49,GET 404
+lever,relay,ok,3,0,1,1.35,
+lever,relay-commerce,ok,1,0,1,1.3,
+lever,relayfi,not_found,0,0,1,1.38,GET 404
+lever,relayr,not_found,0,0,1,1.34,GET 404
+lever,relayrobotics.com,ok,6,0,1,1.52,
+lever,relaytx,not_found,0,0,1,4.11,GET 404
+lever,reli-sh,not_found,0,0,1,7.81,GET 404
+lever,reliable,empty,0,0,1,1.31,
+lever,remedyentertainment,not_found,0,0,1,1.65,GET 404
+lever,remedyproductstudio,ok,6,0,1,1.46,
+lever,remine,not_found,0,0,1,1.4,GET 404
+lever,remix,not_found,0,0,1,1.38,GET 404
+lever,remofirst,empty,0,0,1,1.29,
+lever,rendernetworks,empty,0,0,1,1.41,
+lever,renegade,empty,0,0,1,1.35,
+lever,renofi,ok,3,0,1,2.25,
+lever,repairsmith,not_found,0,0,1,1.54,GET 404
+lever,replicant,not_found,0,0,1,1.52,GET 404
+lever,reply,ok,52,0,1,1.92,
+lever,repreach,not_found,0,0,1,1.65,GET 404
+lever,republic,not_found,0,0,1,1.7,GET 404
+lever,repurposeglobal,ok,4,0,1,2.92,
+lever,reputation,not_found,0,0,1,1.67,GET 404
+lever,request,not_found,0,0,1,1.78,GET 404
+lever,rescale,not_found,0,0,1,1.73,GET 404
+lever,researchgate,ok,1,1,1,1.55,
+lever,researchinnovations.com,ok,12,0,1,3.18,
+lever,residenthome,not_found,0,0,1,1.66,GET 404
+lever,resilience,not_found,0,0,1,1.73,GET 404
+lever,resiliencelab,ok,4,0,1,1.91,
+lever,resilientco,ok,23,0,1,2.14,
+lever,resilinc,ok,11,0,1,1.91,
+lever,resonanceglobal,not_found,0,0,1,1.79,GET 404
+lever,respawn,not_found,0,0,1,1.88,GET 404
+lever,respondent,not_found,0,0,1,1.72,GET 404
+lever,restaurant365,ok,42,0,1,3.61,
+lever,restore-dispensaries,ok,25,0,1,1.91,
+lever,restream,empty,0,0,1,1.7,
+lever,resultadosdigitais,not_found,0,0,1,2.17,GET 404
+lever,retailmenot,not_found,0,0,1,2.09,GET 404
+lever,retailreinvented,not_found,0,0,1,1.67,GET 404
+lever,retentionscience,not_found,0,0,1,1.86,GET 404
+lever,retired,empty,0,0,1,1.77,
+lever,retool,not_found,0,0,1,1.95,GET 404
+lever,retro,ok,9,0,1,1.87,
+lever,returnly,not_found,0,0,1,1.7,GET 404
+lever,returntocorp,not_found,0,0,1,1.76,GET 404
+lever,revealtech,ok,3,0,1,1.67,
+lever,revefi,ok,4,0,1,1.71,
+lever,revel,empty,0,0,1,1.72,
+lever,reveneer,ok,2,0,1,2.01,
+lever,revenueanalytics,ok,2,0,1,1.81,
+lever,revenuecat,not_found,0,0,1,2.67,GET 404
+lever,revenuemanage,not_found,0,0,1,2.08,GET 404
+lever,reverielabs,not_found,0,0,1,2.25,GET 404
+lever,revero,not_found,0,0,1,1.91,GET 404
+lever,revhealth,empty,0,0,1,1.77,
+lever,review,not_found,0,0,1,1.82,GET 404
+lever,reviewtrackers,not_found,0,0,1,2.63,GET 404
+lever,revinate,ok,8,0,1,2.49,
+lever,reviverx,ok,2,0,1,1.9,
+lever,revolut,not_found,0,0,1,2.5,GET 404
+lever,revolutionparts,not_found,0,0,1,1.88,GET 404
+lever,revzilla,not_found,0,0,1,2.02,GET 404
+lever,rewardsnetwork,empty,0,0,1,3.36,
+lever,rewatch,not_found,0,0,1,2.01,GET 404
+lever,rezolutebio,ok,19,0,1,2.3,
+lever,rezotx,ok,5,0,1,2.05,
+lever,rfa-2,ok,10,0,1,2.09,
+lever,rgi,ok,17,0,1,2.82,
+lever,rhinobackroofing,empty,0,0,1,4.61,
+lever,rhombus-systems,ok,7,0,1,2.1,
+lever,richards-services,ok,1,0,1,1.94,
+lever,richards-supply,ok,37,0,1,2.43,
+lever,rideonewheel,ok,3,0,1,1.97,
+lever,rideos,not_found,0,0,1,1.9,GET 404
+lever,ridereport,not_found,0,0,1,2.01,GET 404
+lever,ridezum,ok,37,0,1,2.28,
+lever,ridwell,not_found,0,0,1,2.02,GET 404
+lever,riftfinance,not_found,0,0,1,1.9,GET 404
+lever,rigetti,ok,16,0,1,2.1,
+lever,rightformula,ok,9,0,1,2.12,
+lever,rightsideup,ok,28,0,1,3.04,
+lever,riley,not_found,0,0,1,1.94,GET 404
+lever,rilldata,not_found,0,0,1,2.6,GET 404
+lever,rillet,not_found,0,0,1,1.87,GET 404
+lever,rimsys,not_found,0,0,1,1.9,GET 404
+lever,ring,not_found,0,0,1,1.99,GET 404
+lever,riocan,ok,8,0,1,2.13,
+lever,riptidetech,not_found,0,0,1,2.05,GET 404
+lever,rise,ok,20,0,1,2.4,
+lever,risklabs,not_found,0,0,1,2.63,GET 404
+lever,ritual,not_found,0,0,1,1.95,GET 404
+lever,ritual-technologies,not_found,0,0,1,4.96,GET 404
+lever,riverdale,ok,14,0,1,2.25,
+lever,riveron,not_found,0,0,1,2.0,GET 404
+lever,rivosinc,not_found,0,0,1,1.97,GET 404
+lever,rivr,ok,6,0,1,2.08,
+lever,rld-foundation,empty,0,0,1,2.03,
+lever,ro,ok,55,0,1,2.42,
+lever,roadio-ai,not_found,0,0,1,2.36,GET 404
+lever,roadrunner-studios,ok,8,0,1,5.95,
+lever,roadrunnerwm,not_found,0,0,1,2.27,GET 404
+lever,robinpowered,not_found,0,0,1,2.09,GET 404
+lever,roboflow,not_found,0,0,1,2.12,GET 404
+lever,roboticassistancedevices,not_found,0,0,1,2.18,GET 404
+lever,robust-ai,ok,5,0,1,2.15,
+lever,robustintelligence,not_found,0,0,1,2.15,GET 404
+lever,rockcontent,not_found,0,0,1,2.25,GET 404
+lever,rocketcommunications,empty,0,0,1,2.09,
+lever,rocketlawyer,not_found,0,0,1,2.08,GET 404
+lever,rocketpartners,ok,4,0,1,4.03,
+lever,rocketpharma,not_found,0,0,1,2.08,GET 404
+lever,rocketrip,not_found,0,0,1,3.57,GET 404
+lever,rocketship,ok,111,0,1,3.41,
+lever,rockset,not_found,0,0,1,2.08,GET 404
+lever,rockymountainprep,not_found,0,0,1,2.2,GET 404
+lever,roger,not_found,0,0,1,2.12,GET 404
+lever,roh,not_found,0,0,1,2.24,GET 404
+lever,roico,empty,0,0,1,2.57,
+lever,rollbar,not_found,0,0,1,2.57,GET 404
+lever,roo,not_found,0,0,1,2.33,GET 404
+lever,roofr,not_found,0,0,1,2.31,GET 404
+lever,roofstacks,ok,23,0,1,3.22,
+lever,roofstock,not_found,0,0,1,2.22,GET 404
+lever,rookcoffee,ok,12,0,1,2.78,
+lever,roosterteeth,not_found,0,0,1,2.23,GET 404
+lever,root16,empty,0,0,1,2.51,
+lever,roserocket,not_found,0,0,1,2.14,GET 404
+lever,roshalimaging,ok,104,4,1,2.81,
+lever,roundglass,not_found,0,0,1,2.62,GET 404
+lever,routethis,not_found,0,0,1,2.29,GET 404
+lever,rover,ok,29,0,1,3.25,
+lever,rovio-2,ok,4,0,1,2.77,
+lever,roy-cooper,empty,0,0,1,1.82,
+lever,royal,not_found,0,0,1,1.86,GET 404
+lever,royalambulance,ok,11,0,1,2.05,
+lever,rqteam,not_found,0,0,1,1.85,GET 404
+lever,rsandf-2,not_found,0,0,1,1.68,GET 404
+lever,ruangguru,not_found,0,0,1,1.7,GET 404
+lever,rubylabs,not_found,0,0,1,2.31,GET 404
+lever,rubyplay,ok,1,0,1,1.73,
+lever,rumin8,empty,0,0,1,1.74,
+lever,run-alloy,not_found,0,0,1,1.82,GET 404
+lever,runforsomething,not_found,0,0,1,1.75,GET 404
+lever,runkeeper,not_found,0,0,1,1.77,GET 404
+lever,runningtide,not_found,0,0,1,1.8,GET 404
+lever,rupa,ok,1,0,1,2.18,
+lever,rushdownstudio,not_found,0,0,1,1.8,GET 404
+lever,rw1,not_found,0,0,1,1.82,GET 404
+lever,rws,ok,133,2,1,2.23,
+lever,rxsavingssolutions-2,not_found,0,0,1,2.03,GET 404
+lever,rylo,ok,8,0,1,1.91,
+lever,ryzlabs,not_found,0,0,1,1.86,GET 404
+lever,saagie,not_found,0,0,1,1.92,GET 404
+lever,safe,ok,21,0,1,5.48,
+lever,safeai,not_found,0,0,1,1.98,GET 404
+lever,safelease,not_found,0,0,1,2.11,GET 404
+lever,safetyculture-2,empty,0,0,1,2.19,
+lever,safran-ai,ok,21,0,1,3.19,
+lever,saga-xyz,empty,0,0,1,2.14,
+lever,sagana,not_found,0,0,1,2.21,GET 404
+lever,sage-growth,empty,0,0,1,2.17,
+lever,sagesure,not_found,0,0,1,2.19,GET 404
+lever,saiglobal,not_found,0,0,1,3.58,GET 404
+lever,sait,ok,14,0,1,2.95,
+lever,sakon,ok,1,0,1,2.3,
+lever,sakuu,not_found,0,0,1,2.3,GET 404
+lever,saleor,not_found,0,0,1,2.85,GET 404
+lever,salesmsg,empty,0,0,1,2.32,
+lever,saleswhale,not_found,0,0,1,2.44,GET 404
+lever,salo-sciences,not_found,0,0,1,2.35,GET 404
+lever,salvohealth,ok,4,0,1,2.42,
+lever,samacare,not_found,0,0,1,2.3,GET 404
+lever,sambatv,ok,61,0,1,2.53,
+lever,sanabenefits,ok,7,0,1,2.35,
+lever,sanctuary,not_found,0,0,1,2.31,GET 404
+lever,sandboxvr,ok,47,0,1,3.38,
+lever,sapiosciences,ok,13,0,1,6.3,
+lever,sapling,ok,1,0,1,2.31,
+lever,sar,ok,17,0,1,2.32,
+lever,saronic,not_found,0,0,1,2.15,GET 404
+lever,sarwa,not_found,0,0,1,3.29,GET 404
+lever,satispay,empty,0,0,1,2.22,
+lever,satoricapital,empty,0,0,1,2.18,
+lever,sauce,not_found,0,0,1,2.23,GET 404
+lever,savage-interactive,not_found,0,0,1,2.01,GET 404
+lever,savii-2,not_found,0,0,1,2.0,GET 404
+lever,saviynt,ok,71,2,1,2.24,
+lever,sayari,not_found,0,0,1,1.87,GET 404
+lever,sayurbox,not_found,0,0,1,2.59,GET 404
+lever,sbz,empty,0,0,1,2.18,
+lever,scalablepress,not_found,0,0,1,1.95,GET 404
+lever,scalac,not_found,0,0,1,2.73,GET 404
+lever,scale3c,ok,1,0,1,2.14,
+lever,scaleai,not_found,0,0,1,2.19,GET 404
+lever,scalebio,not_found,0,0,1,1.96,GET 404
+lever,scalemicrogridsolutions,not_found,0,0,1,2.27,GET 404
+lever,scaleway,ok,33,0,1,2.68,
+lever,scality,ok,6,0,1,2.29,
+lever,scanifly,empty,0,0,1,2.09,
+lever,scanlinevfx,not_found,0,0,1,1.95,GET 404
+lever,scheduleengine,ok,7,0,1,2.14,
+lever,schibsted,not_found,0,0,1,1.96,GET 404
+lever,schmidt-entities,ok,16,0,1,2.21,
+lever,scholarrock,ok,35,0,1,2.33,
+lever,scholarsoffinance,empty,0,0,1,2.02,
+lever,schoolhouseworld,not_found,0,0,1,2.01,GET 404
+lever,scienceexchange,not_found,0,0,1,2.04,GET 404
+lever,scio,not_found,0,0,1,2.06,GET 404
+lever,scismic,ok,20,0,1,2.16,
+lever,scoopforwork,not_found,0,0,1,1.96,GET 404
+lever,scopear,not_found,0,0,1,2.67,GET 404
+lever,scoperecruiting,not_found,0,0,1,1.98,GET 404
+lever,scorpion,not_found,0,0,1,2.07,GET 404
+lever,scottlogic,ok,41,0,1,2.27,
+lever,scottscheapflights,not_found,0,0,1,2.03,GET 404
+lever,scrapinghub,not_found,0,0,1,2.1,GET 404
+lever,scribd,not_found,0,0,1,2.17,GET 404
+lever,scrollfoundation,not_found,0,0,1,2.01,GET 404
+lever,sdatasystems.com,ok,11,0,1,2.11,
+lever,sdhrconsulting,empty,0,0,1,2.07,
+lever,seaoil,not_found,0,0,1,2.11,GET 404
+lever,seaportglobal,ok,8,0,1,2.31,
+lever,seattleartmuseum,ok,7,0,1,2.32,
+lever,secondfrontsystems,not_found,0,0,1,2.2,GET 404
+lever,section,not_found,0,0,1,2.15,GET 404
+lever,securecodewarrior,ok,2,0,1,2.14,
+lever,secureframe,ok,15,0,1,2.39,
+lever,securityinnovation,not_found,0,0,1,2.19,GET 404
+lever,seedify-fund,ok,2,1,1,2.27,
+lever,seekai,not_found,0,0,1,2.26,GET 404
+lever,seerinteractive,ok,7,0,1,6.51,
+lever,seesaw,not_found,0,0,1,2.2,GET 404
+lever,seifdn,not_found,0,0,1,2.18,GET 404
+lever,seilabs,not_found,0,0,1,2.2,GET 404
+lever,selfbook,not_found,0,0,1,2.4,GET 404
+lever,selfmade,not_found,0,0,1,2.5,GET 404
+lever,semanticbits,not_found,0,0,1,2.52,GET 404
+lever,semaphoresolutions,not_found,0,0,1,2.2,GET 404
+lever,semgrep,not_found,0,0,1,2.36,GET 404
+lever,sendoso,not_found,0,0,1,2.68,GET 404
+lever,sensefinance,empty,0,0,1,2.76,
+lever,sensible,not_found,0,0,1,2.36,GET 404
+lever,sensortower,not_found,0,0,1,2.3,GET 404
+lever,sentibio,empty,0,0,1,2.42,
+lever,seoulrobotics,not_found,0,0,1,2.39,GET 404
+lever,sep,ok,7,0,1,2.41,
+lever,septerna,not_found,0,0,1,2.41,GET 404
+lever,seqera,not_found,0,0,1,2.28,GET 404
+lever,sequel-med-tech,ok,7,0,1,5.05,
+lever,seranbio,ok,31,0,1,2.74,
+lever,serigraph,ok,9,0,1,2.91,
+lever,serotonin,ok,2,0,1,3.79,
+lever,serv-u-success,ok,31,0,1,3.06,
+lever,serverfarm,ok,50,0,1,2.66,
+lever,servicerocket,ok,12,0,1,2.58,
+lever,servicewire,ok,36,0,1,2.57,
+lever,sesame,empty,0,0,1,5.24,
+lever,seven-starling,ok,13,0,1,2.36,
+lever,sevenbridges,not_found,0,0,1,2.08,GET 404
+lever,sewerai,not_found,0,0,1,2.01,GET 404
+lever,sfcg,not_found,0,0,1,2.07,GET 404
+lever,sfeir,ok,50,0,1,2.49,
+lever,sfgiants,ok,7,0,1,2.26,
+lever,sfmoma,ok,12,0,1,30.99,
+lever,sgff.org,ok,3,0,1,2.21,
+lever,shadow,empty,0,0,1,2.59,
+lever,shakacode,ok,2,0,1,2.29,
+lever,shakepay,not_found,0,0,1,2.31,GET 404
+lever,shakudo,ok,11,0,1,2.36,
+lever,shapertools,not_found,0,0,1,2.2,GET 404
+lever,sharethrough,not_found,0,0,1,3.79,GET 404
+lever,sharpsmart,ok,15,0,1,2.11,
+lever,sheerid,not_found,0,0,1,1.63,GET 404
+lever,sheertex,not_found,0,0,1,1.7,GET 404
+lever,shef,not_found,0,0,1,1.72,GET 404
+lever,shelfengine,not_found,0,0,1,1.79,GET 404
+lever,shieldai,ok,663,2,1,2.5,
+lever,shippit,not_found,0,0,1,1.81,GET 404
+lever,shippo,not_found,0,0,1,1.87,GET 404
+lever,shiru,ok,1,0,1,1.96,
+lever,shop-canal,not_found,0,0,1,2.28,GET 404
+lever,shopback-2,ok,75,0,1,2.11,
+lever,shopify,not_found,0,0,1,1.81,GET 404
+lever,shopreli,empty,0,0,1,1.85,
+lever,showcaseidx,empty,0,0,1,1.84,
+lever,showpo-2,ok,2,0,1,2.23,
+lever,shyftlabs,ok,27,0,1,2.23,
+lever,sidebench,not_found,0,0,1,1.93,GET 404
+lever,sideinc,ok,2,0,1,1.94,
+lever,sidequest,not_found,0,0,1,1.93,GET 404
+lever,siepe,empty,0,0,1,1.8,
+lever,sierraclub,ok,6,0,1,19.54,
+lever,sietefoods-2,ok,9,0,1,2.38,
+lever,sigfig-2,not_found,0,0,1,1.97,GET 404
+lever,sightviewsoftware,not_found,0,0,1,1.99,GET 404
+lever,sigma-squared,ok,2,0,1,2.03,
+lever,signal,failed,0,0,1,34.18,GET TimeoutError: The read operation timed out
+lever,signalfx,not_found,0,0,1,19.19,GET 404
+lever,significanceinc,ok,31,0,1,2.28,
+lever,signinsolutions,ok,1,0,1,2.03,
+lever,sila,ok,224,0,1,3.27,
+lever,silasg,empty,0,0,1,19.11,
+lever,silhouette,ok,43,0,1,2.15,
+lever,silo,not_found,0,0,1,1.94,GET 404
+lever,silverbackstrategies,ok,6,0,1,2.2,
+lever,silvercar,not_found,0,0,1,2.04,GET 404
+lever,silviaterra,not_found,0,0,1,2.14,GET 404
+lever,silvustechnologies,not_found,0,0,1,2.18,GET 404
+lever,simberobotics,not_found,0,0,1,1.97,GET 404
+lever,simonmed,ok,260,0,1,2.47,
+lever,simplebet,not_found,0,0,1,19.37,GET 404
+lever,simplehabit,not_found,0,0,1,2.23,GET 404
+lever,simpleventures,ok,6,0,1,3.29,
+lever,simpli-2,not_found,0,0,1,2.33,GET 404
+lever,simplybusiness,not_found,0,0,1,2.08,GET 404
+lever,simulmedia,ok,7,0,1,2.28,
+lever,singerlewak,ok,50,0,1,2.37,
+lever,siren-bio,not_found,0,0,1,2.02,GET 404
+lever,sirnaomics,not_found,0,0,1,1.89,GET 404
+lever,siteground,ok,3,0,1,16.24,
+lever,siteminder,not_found,0,0,1,1.7,GET 404
+lever,sitetracker,ok,7,0,1,18.99,
+lever,sitka,not_found,0,0,1,1.69,GET 404
+lever,sixfoldbioscience,not_found,0,0,1,1.66,GET 404
+lever,sixspeed,not_found,0,0,1,1.73,GET 404
+lever,skava,not_found,0,0,1,19.06,GET 404
+lever,skello,not_found,0,0,1,1.8,GET 404
+lever,sketch,not_found,0,0,1,1.54,GET 404
+lever,skill-lync,not_found,0,0,1,1.57,GET 404
+lever,skillcloudhcm,ok,34,0,1,14.87,
+lever,skillerszone,ok,72,0,1,1.85,
+lever,skilljar,not_found,0,0,1,1.54,GET 404
+lever,skillshare,not_found,0,0,1,1.73,GET 404
+lever,skima,ok,1,0,1,1.61,
+lever,skims,not_found,0,0,1,1.56,GET 404
+lever,skinny-dipped,ok,3,0,1,1.68,
+lever,skio,ok,3,0,1,1.66,
+lever,skipscooters,ok,6,0,1,1.61,
+lever,skulabs,not_found,0,0,1,18.88,GET 404
+lever,skyboxlabs,ok,8,0,1,1.76,
+lever,skydance,ok,6,0,1,1.71,
+lever,skygrid,empty,0,0,1,1.51,
+lever,skylineconstruction,ok,24,0,1,1.72,
+lever,skypointcloud,not_found,0,0,1,1.4,GET 404
+lever,skyralio,ok,9,0,1,1.53,
+lever,skysafe,empty,0,0,1,1.2,
+lever,skyslope,ok,1,0,1,1.43,
+lever,skywarditsolutions,ok,5,0,1,1.4,
+lever,skyways,ok,20,0,1,2.44,
+lever,slab,not_found,0,0,1,1.35,GET 404
+lever,slang,not_found,0,0,1,1.35,GET 404
+lever,slangai,ok,4,0,1,1.4,
+lever,slate,ok,2,0,1,1.25,
+lever,sleuth,not_found,0,0,1,1.2,GET 404
+lever,smarking,not_found,0,0,1,18.91,GET 404
+lever,smarsh,ok,15,0,1,11.07,
+lever,smart-working-solutions,ok,13,0,1,18.59,
+lever,smartadserver,not_found,0,0,1,1.21,GET 404
+lever,smartbugoperatingllc,not_found,0,0,1,1.16,GET 404
+lever,smartcar,not_found,0,0,1,1.16,GET 404
+lever,smartenergy,ok,26,0,1,33.14,
+lever,smartthings,not_found,0,0,1,1.2,GET 404
+lever,smiledigitalhealth,ok,6,0,1,13.32,
+lever,snacknation,not_found,0,0,1,1.12,GET 404
+lever,snackpass,not_found,0,0,1,1.19,GET 404
+lever,snapcommerce,not_found,0,0,1,0.88,GET 404
+lever,snapdocs,not_found,0,0,1,0.9,GET 404
+lever,snaplogic,ok,9,0,1,1.15,
+lever,snappr,ok,18,0,1,1.2,
+lever,snif,not_found,0,0,1,0.9,GET 404
+lever,snowfork,not_found,0,0,1,0.9,GET 404
+lever,snowplow,not_found,0,0,1,0.78,GET 404
+lever,snowplowanalytics,not_found,0,0,1,0.8,GET 404
+lever,socialchorus,not_found,0,0,1,0.81,GET 404
+lever,socialtables,not_found,0,0,1,0.8,GET 404
+lever,sofarsounds,ok,11,3,1,30.81,
+lever,softdocs,ok,4,0,1,11.84,
+lever,softrams,not_found,0,0,1,0.7,GET 404
+lever,softworld,ok,9,1,1,0.92,
+lever,sogoodsoyou,ok,4,0,1,1.05,
+lever,solarlandscape,ok,23,0,1,1.07,
+lever,solestial,ok,8,0,1,0.91,
+lever,solfl,ok,5,0,1,0.99,
+lever,solidcore,ok,249,0,1,1.03,
+lever,soloavt,not_found,0,0,1,0.47,GET 404
+lever,solopulseco,ok,8,0,1,14.54,
+lever,solutiondesign,ok,1,0,1,0.39,
+lever,solutionsjournalism,empty,0,0,1,0.45,
+lever,solutuslegal,ok,28,0,1,18.05,
+lever,solvd,not_found,0,0,1,2.69,GET 404
+lever,solvhealth,empty,0,0,1,0.41,
+lever,sonar,not_found,0,0,1,0.37,GET 404
+lever,sonarsource,ok,110,5,1,1.01,
+lever,sonatus,not_found,0,0,1,0.29,GET 404
+lever,sonatype,ok,12,0,1,0.57,
+lever,soniresources,ok,8,0,1,0.38,
+lever,sonrai-security,ok,3,0,1,0.29,
+lever,sophos,empty,0,0,1,0.31,
+lever,soraschools,empty,0,0,1,10.68,
+lever,soum,ok,24,0,1,0.47,
+lever,soundcommerce,not_found,0,0,1,5.95,GET 404
+lever,soundstack,not_found,0,0,1,0.94,GET 404
+lever,source,ok,3,0,1,0.28,
+lever,sourcegraph,not_found,0,0,1,0.22,GET 404
+lever,southwestwater,not_found,0,0,1,17.8,GET 404
+lever,soylent,not_found,0,0,1,0.69,GET 404
+lever,spaceback,not_found,0,0,1,0.27,GET 404
+lever,spacemaker,not_found,0,0,1,0.23,GET 404
+lever,spacetecpartners,not_found,0,0,1,17.9,GET 404
+lever,sparkclimatesolutions,not_found,0,0,1,18.12,GET 404
+lever,sparkfund,not_found,0,0,1,0.28,GET 404
+lever,spawglass,ok,42,0,1,0.57,
+lever,speakeasyapi,empty,0,0,1,0.23,
+lever,spear,ok,126,0,1,20.62,
+lever,spear-ai,ok,11,0,1,0.48,
+lever,spectral,not_found,0,0,1,0.31,GET 404
+lever,spectrum,empty,0,0,1,0.4,
+lever,spekit,not_found,0,0,1,9.7,GET 404
+lever,spendesk,not_found,0,0,1,11.32,GET 404
+lever,sphinxdefense,not_found,0,0,1,0.4,GET 404
+lever,spiceai,empty,0,0,1,0.39,
+lever,spinai,ok,12,0,1,0.54,
+lever,spine-media,ok,2,0,1,0.25,
+lever,spinwheel,not_found,0,0,1,0.23,GET 404
+lever,spiria,ok,10,0,1,18.44,
+lever,splash-music,not_found,0,0,1,0.87,GET 404
+lever,splashfinancial,not_found,0,0,1,0.39,GET 404
+lever,splend,ok,7,0,1,0.42,
+lever,spmb,ok,7,0,1,0.39,
+lever,sporty,not_found,0,0,1,0.25,GET 404
+lever,spotify,ok,85,1,1,0.56,
+lever,spreedly,ok,3,0,1,9.09,
+lever,spreetail,ok,36,0,1,1.67,
+lever,springboard,not_found,0,0,1,0.44,GET 404
+lever,springfreeev,not_found,0,0,1,0.23,GET 404
+lever,springhealth,not_found,0,0,1,1.05,GET 404
+lever,springoakliving,ok,73,0,1,23.57,
+lever,springrecruits,ok,17,0,1,0.66,
+lever,sprinterhealth,not_found,0,0,1,0.51,GET 404
+lever,sprintfwd,not_found,0,0,1,0.5,GET 404
+lever,sprinto,not_found,0,0,1,8.49,GET 404
+lever,spruce,not_found,0,0,1,5.22,GET 404
+lever,sprucestreetcomp,ok,4,0,1,0.44,
+lever,sprucestreetcompinternships,not_found,0,0,1,0.22,GET 404
+lever,sprucesystems,not_found,0,0,1,3.02,GET 404
+lever,sprymethods,ok,24,0,1,0.49,
+lever,sprypointservices,ok,5,0,1,8.32,
+lever,spyglass,ok,2,0,1,0.59,
+lever,spyke-games,ok,4,0,1,0.73,
+lever,sqaservices,ok,53,0,1,7.07,
+lever,sqreen-2,not_found,0,0,1,0.23,GET 404
+lever,squirepb,ok,1,0,1,0.95,
+lever,sta,empty,0,0,1,0.23,
+lever,stable,not_found,0,0,1,2.54,GET 404
+lever,stable-money1,ok,12,0,1,0.41,
+lever,stackadapt,not_found,0,0,1,9.39,GET 404
+lever,stackblitz,not_found,0,0,1,9.92,GET 404
+lever,stackedsp,empty,0,0,1,0.36,
+lever,stackhawk,ok,1,0,1,0.47,
+lever,stacksfoundation,not_found,0,0,1,1.27,GET 404
+lever,staffingfitness,ok,1,0,1,0.29,
+lever,standtogether,ok,132,0,1,0.74,
+lever,stanleygroup,ok,83,0,1,0.62,
+lever,starburstdata,not_found,0,0,1,0.23,GET 404
+lever,starcompliance,ok,7,0,1,0.5,
+lever,stardog,empty,0,0,1,0.23,
+lever,starkbank,ok,4,0,1,12.43,
+lever,starknet,not_found,0,0,1,1.16,GET 404
+lever,starship,not_found,0,0,1,0.39,GET 404
+lever,startengine,ok,4,0,1,0.5,
+lever,startuplifers,empty,0,0,1,0.27,
+lever,startuptap,not_found,0,0,1,0.3,GET 404
+lever,statesproject,not_found,0,0,1,0.22,GET 404
+lever,statflo,not_found,0,0,1,0.29,GET 404
+lever,statuspageio,not_found,0,0,1,0.53,GET 404
+lever,statuspro,not_found,0,0,1,0.45,GET 404
+lever,stavvy,not_found,0,0,1,0.4,GET 404
+lever,stax,empty,0,0,1,0.4,
+lever,stedi,not_found,0,0,1,0.41,GET 404
+lever,steemit,not_found,0,0,1,0.76,GET 404
+lever,steerbridge,ok,48,0,1,13.88,
+lever,stellar,not_found,0,0,1,0.61,GET 404
+lever,stellarfinance,not_found,0,0,1,1.8,GET 404
+lever,stem,not_found,0,0,1,0.6,GET 404
+lever,stemprepacademy,not_found,0,0,1,0.38,GET 404
+lever,stevenstransport,empty,0,0,1,4.64,
+lever,stickermule,not_found,0,0,1,1.5,GET 404
+lever,stimlabs,not_found,0,0,1,5.37,GET 404
+lever,stockpile,not_found,0,0,1,0.42,GET 404
+lever,stoic,not_found,0,0,1,0.91,GET 404
+lever,stoneridgesoftware,ok,3,0,1,0.37,
+lever,storiogroup,ok,14,2,1,0.39,
+lever,stormforge,not_found,0,0,1,0.22,GET 404
+lever,storygrounds,not_found,0,0,1,0.24,GET 404
+lever,storyprotocol,not_found,0,0,1,0.22,GET 404
+lever,stradaeducation,ok,12,0,1,7.34,
+lever,straighterline,empty,0,0,1,0.32,
+lever,strapi,not_found,0,0,1,1.96,GET 404
+lever,strategicgears,ok,8,0,1,0.61,
+lever,strategysource,empty,0,0,1,0.52,
+lever,streck,ok,10,0,1,0.79,
+lever,streetcontext,not_found,0,0,1,0.49,GET 404
+lever,streetlightdata,not_found,0,0,1,0.45,GET 404
+lever,streetsmartsvr,not_found,0,0,1,0.49,GET 404
+lever,stridefunding,not_found,0,0,1,1.1,GET 404
+lever,strongcompute,empty,0,0,1,0.68,
+lever,strongdm,not_found,0,0,1,0.64,GET 404
+lever,stronghold,not_found,0,0,1,0.61,GET 404
+lever,structionsite,not_found,0,0,1,0.7,GET 404
+lever,strydefurther,not_found,0,0,1,0.79,GET 404
+lever,stuart,not_found,0,0,1,4.64,GET 404
+lever,stubhub,not_found,0,0,1,0.79,GET 404
+lever,studiothree,not_found,0,0,1,0.69,GET 404
+lever,studypoint,ok,11,0,1,0.87,
+lever,stxnft,not_found,0,0,1,0.75,GET 404
+lever,sublimesystems,not_found,0,0,1,0.73,GET 404
+lever,subsense,ok,8,0,1,0.94,
+lever,subspacelabs,not_found,0,0,1,0.78,GET 404
+lever,substackinc,not_found,0,0,1,0.7,GET 404
+lever,sugarcrm,empty,0,0,1,0.77,
+lever,suger,not_found,0,0,1,0.81,GET 404
+lever,sukut,not_found,0,0,1,0.65,GET 404
+lever,summersalt,not_found,0,0,1,0.7,GET 404
+lever,summithq,empty,0,0,1,5.58,
+lever,summitmgmt-corp,ok,18,0,1,1.3,
+lever,sumo-digital,not_found,0,0,1,0.72,GET 404
+lever,sundaysfordogs,not_found,0,0,1,0.93,GET 404
+lever,sundrivesolar,ok,2,0,1,4.01,
+lever,sunnova,not_found,0,0,1,0.79,GET 404
+lever,sunpower,not_found,0,0,1,0.8,GET 404
+lever,sunrisefarms,ok,31,0,1,6.19,
+lever,sunshinesachs,ok,22,0,1,1.02,
+lever,sunsrce,ok,262,0,1,1.11,
+lever,sunstudio,ok,7,0,1,0.74,
+lever,suntribegroup,not_found,0,0,1,2.07,GET 404
+lever,sunwatercapital,ok,3,0,1,0.78,
+lever,super,ok,2,0,1,1.32,
+lever,super-com,not_found,0,0,1,0.7,GET 404
+lever,superannotate,ok,5,0,1,0.69,
+lever,superiorexecutiveandlegalrecruiting,ok,19,0,1,0.89,
+lever,supermove,ok,5,0,1,0.82,
+lever,supernovacompanies,not_found,0,0,1,0.73,GET 404
+lever,supernoya-logistics,not_found,0,0,1,1.18,GET 404
+lever,superpedestrian,empty,0,0,1,0.78,
+lever,superside,ok,15,8,1,1.65,
+lever,superstate,ok,3,0,1,0.77,
+lever,supportkind,ok,4,0,1,3.5,
+lever,supportninja,not_found,0,0,1,0.8,GET 404
+lever,sure,ok,1,0,1,0.8,
+lever,surfshark,empty,0,0,1,0.79,
+lever,surglogs,empty,0,0,1,1.29,
+lever,sustain-cert,not_found,0,0,1,1.02,GET 404
+lever,swaniti,not_found,0,0,1,1.0,GET 404
+lever,swapcard,ok,6,1,1,1.07,
+lever,swappie,not_found,0,0,1,0.85,GET 404
+lever,sweedpos,not_found,0,0,1,0.88,GET 404
+lever,swiftconnect,ok,3,0,1,1.0,
+lever,swiftlynx,ok,2,0,1,1.25,
+lever,swiftlysystems,not_found,0,0,1,1.07,GET 404
+lever,swiftmedical,not_found,0,0,1,1.18,GET 404
+lever,swiggy,not_found,0,0,1,1.71,GET 404
+lever,swile,ok,30,0,1,1.31,
+lever,swimply,not_found,0,0,1,1.15,GET 404
+lever,swingdev,ok,6,0,1,1.36,
+lever,swingvision,not_found,0,0,1,6.21,GET 404
+lever,swiss-mile,not_found,0,0,1,1.25,GET 404
+lever,swissblock,ok,2,0,1,1.26,
+lever,swissborg,ok,10,8,1,1.38,
+lever,switchboardsoftware,not_found,0,0,1,1.31,GET 404
+lever,swoopapp,not_found,0,0,1,1.61,GET 404
+lever,swordhealth,empty,0,0,1,1.32,
+lever,swyftx,not_found,0,0,1,1.23,GET 404
+lever,sygnaturediscovery,not_found,0,0,1,1.43,GET 404
+lever,sylvera,not_found,0,0,1,1.31,GET 404
+lever,symmetryinvestments,empty,0,0,1,2.03,
+lever,symmetrysystems,not_found,0,0,1,1.27,GET 404
+lever,symplicity,ok,4,0,1,1.33,
+lever,synapseint,not_found,0,0,1,1.26,GET 404
+lever,synapticure,ok,4,0,1,1.41,
+lever,synergyecp,ok,45,0,1,4.85,
+lever,synmax,empty,0,0,1,1.34,
+lever,synolotx,ok,1,0,1,1.37,
+lever,syntax,ok,1,0,1,1.44,
+lever,synthego,ok,5,0,1,6.07,
+lever,synthetaic,not_found,0,0,1,4.64,GET 404
+lever,syntronic,ok,32,0,1,11.33,
+lever,sysdig,ok,35,1,1,1.87,
+lever,system1,ok,9,0,1,1.8,
+lever,syw.com,empty,0,0,1,1.5,
+lever,t1,not_found,0,0,1,1.64,GET 404
+lever,t5datacenters,not_found,0,0,1,4.28,GET 404
+lever,t6talentpartners,not_found,0,0,1,1.51,GET 404
+lever,tachyus,not_found,0,0,1,1.64,GET 404
+lever,tackle,not_found,0,0,1,1.68,GET 404
+lever,tact,ok,3,0,1,1.72,
+lever,tactical,not_found,0,0,1,1.64,GET 404
+lever,tactilegames,not_found,0,0,1,1.7,GET 404
+lever,tag,ok,4,0,1,2.66,
+lever,tagup,ok,8,0,1,2.8,
+lever,tahoebio-ai,ok,3,0,1,1.92,
+lever,tajir-app,not_found,0,0,1,1.9,GET 404
+lever,takescoop,not_found,0,0,1,1.75,GET 404
+lever,tala,ok,11,0,1,4.6,
+lever,talend,not_found,0,0,1,6.55,GET 404
+lever,talent2win,not_found,0,0,1,2.99,GET 404
+lever,talentkompass-deutschland,not_found,0,0,1,1.62,GET 404
+lever,talentneuron,not_found,0,0,1,1.67,GET 404
+lever,talentus,not_found,0,0,1,6.17,GET 404
+lever,talentwerx.io,not_found,0,0,1,1.58,GET 404
+lever,talkiatry,not_found,0,0,1,1.61,GET 404
+lever,talkwalker,empty,0,0,1,2.68,
+lever,tallarium,empty,0,0,1,2.47,
+lever,tamara,not_found,0,0,1,1.6,GET 404
+lever,tamr,not_found,0,0,1,1.34,GET 404
+lever,tandemcare,not_found,0,0,1,5.19,GET 404
+lever,tandems,ok,1,0,1,1.4,
+lever,tandh,ok,121,0,1,1.58,
+lever,tangibleplay,not_found,0,0,1,1.29,GET 404
+lever,tangram,empty,0,0,1,1.21,
+lever,tangraminteriors,ok,17,0,1,1.62,
+lever,tapasmedia,not_found,0,0,1,3.08,GET 404
+lever,tapcart,not_found,0,0,1,1.28,GET 404
+lever,taplytics,not_found,0,0,1,1.3,GET 404
+lever,taptapsend,not_found,0,0,1,1.09,GET 404
+lever,tari,not_found,0,0,1,1.16,GET 404
+lever,tataunistore,not_found,0,0,1,1.2,GET 404
+lever,tavernresearch,not_found,0,0,1,1.3,GET 404
+lever,taxfyle,not_found,0,0,1,1.39,GET 404
+lever,tdaboulder,empty,0,0,1,1.28,
+lever,tdthornton,empty,0,0,1,1.53,
+lever,teachable,not_found,0,0,1,1.19,GET 404
+lever,teachinglab,not_found,0,0,1,1.26,GET 404
+lever,tealbook,empty,0,0,1,1.3,
+lever,tealium,not_found,0,0,1,1.32,GET 404
+lever,teambuilders,ok,13,0,1,2.22,
+lever,teameven,not_found,0,0,1,1.39,GET 404
+lever,teampilot,not_found,0,0,1,1.52,GET 404
+lever,teamshares,ok,22,0,1,8.99,
+lever,teamsnap,ok,8,0,1,3.77,
+lever,techflow,not_found,0,0,1,1.69,GET 404
+lever,techmatters,not_found,0,0,1,1.6,GET 404
+lever,technation,empty,0,0,1,1.94,
+lever,technexus,not_found,0,0,1,1.56,GET 404
+lever,techquarter,ok,7,0,1,1.64,
+lever,techruiter,not_found,0,0,1,1.96,GET 404
+lever,techtrust-inc,not_found,0,0,1,1.62,GET 404
+lever,teck-2,empty,0,0,1,1.61,
+lever,tecla,not_found,0,0,1,1.63,GET 404
+lever,tecton,empty,0,0,1,1.72,
+lever,teecom,ok,10,0,1,1.85,
+lever,tegus,not_found,0,0,1,1.79,GET 404
+lever,teikametrics,empty,0,0,1,1.81,
+lever,tektome,ok,5,0,1,1.82,
+lever,tekton,ok,9,0,1,1.82,
+lever,teleo,ok,9,0,1,5.22,
+lever,teleport,not_found,0,0,1,1.64,GET 404
+lever,telesat,ok,52,0,1,1.98,
+lever,teller,ok,3,0,1,1.86,
+lever,tempest,not_found,0,0,1,1.6,GET 404
+lever,temporal,not_found,0,0,1,1.74,GET 404
+lever,tenderly,not_found,0,0,1,1.59,GET 404
+lever,tendermint,not_found,0,0,1,4.44,GET 404
+lever,tendo,ok,6,0,1,1.79,
+lever,tenna,ok,51,0,1,1.96,
+lever,tensorwave,not_found,0,0,1,1.74,GET 404
+lever,tenstorrent,not_found,0,0,1,3.95,GET 404
+lever,teramind,ok,1,0,1,1.81,
+lever,terawattinfrastructure,ok,10,0,1,1.88,
+lever,terazo,not_found,0,0,1,1.74,GET 404
+lever,terminus,empty,0,0,1,1.84,
+lever,termius,not_found,0,0,1,1.8,GET 404
+lever,terms,not_found,0,0,1,1.83,GET 404
+lever,terra,not_found,0,0,1,1.93,GET 404
+lever,terraformation,not_found,0,0,1,3.11,GET 404
+lever,terrahq,ok,9,0,1,5.46,
+lever,terrascend,ok,44,0,1,3.62,
+lever,terrascope,empty,0,0,1,1.83,
+lever,terrific-innovation,ok,10,0,1,2.05,
+lever,tesorio,empty,0,0,1,1.84,
+lever,tessian,not_found,0,0,1,1.95,GET 404
+lever,tevora,ok,28,0,1,2.29,
+lever,texas-original,ok,17,0,1,2.31,
+lever,textio,not_found,0,0,1,2.31,GET 404
+lever,textnow,empty,0,0,1,1.87,
+lever,tgsmc,empty,0,0,1,1.83,
+lever,thalolabs,ok,2,0,1,1.93,
+lever,the-sia-foundation,empty,0,0,1,1.83,
+lever,the-street,not_found,0,0,1,1.82,GET 404
+lever,the-wing,not_found,0,0,1,1.85,GET 404
+lever,thea.energy,ok,61,0,1,2.37,
+lever,theambrgroup,not_found,0,0,1,1.93,GET 404
+lever,theathletic,ok,10,0,1,2.07,
+lever,thebabyboxco,not_found,0,0,1,1.57,GET 404
+lever,theblacktux,ok,8,0,1,1.65,
+lever,theblockcrypto,empty,0,0,1,1.81,
+lever,thebrowser-company,empty,0,0,1,1.91,
+lever,thecitizenry,not_found,0,0,1,1.38,GET 404
+lever,thecontigroup,not_found,0,0,1,2.49,GET 404
+lever,thedispatch,empty,0,0,1,1.5,
+lever,theex,empty,0,0,1,5.4,
+lever,theexteriorcompany,not_found,0,0,1,1.59,GET 404
+lever,theflexcompany,not_found,0,0,1,1.68,GET 404
+lever,thefp,ok,3,0,1,1.67,
+lever,thefreeosk,empty,0,0,1,1.68,
+lever,theguarantors,not_found,0,0,1,1.79,GET 404
+lever,thehousemajoritypac,ok,1,0,1,2.52,
+lever,theinformationlab,ok,1,1,1,1.94,
+lever,thejuggernaut,not_found,0,0,1,2.11,GET 404
+lever,thekey,not_found,0,0,1,1.99,GET 404
+lever,thekrazycouponlady,not_found,0,0,1,2.63,GET 404
+lever,themuse,not_found,0,0,1,1.99,GET 404
+lever,thenotcompany,not_found,0,0,1,1.97,GET 404
+lever,thentwrk,not_found,0,0,1,2.0,GET 404
+lever,thenudge,not_found,0,0,1,2.03,GET 404
+lever,theodo,ok,132,0,1,2.5,
+lever,theorem,not_found,0,0,1,2.05,GET 404
+lever,theoremonellc,not_found,0,0,1,1.98,GET 404
+lever,theorycraftgames,ok,1,1,1,1.99,
+lever,thepeoplebrand,ok,20,0,1,2.23,
+lever,thepieexecsearch,ok,3,0,1,2.22,
+lever,thepillclub,not_found,0,0,1,5.84,GET 404
+lever,therabodycorp,not_found,0,0,1,2.0,GET 404
+lever,therealdeal,ok,12,0,1,2.14,
+lever,therecount,not_found,0,0,1,2.0,GET 404
+lever,therichardsgrp,empty,0,0,1,2.13,
+lever,therounds,not_found,0,0,1,1.91,GET 404
+lever,thesalesfactory,ok,9,0,1,1.99,
+lever,thesleepreset,not_found,0,0,1,2.21,GET 404
+lever,thespringhillco,not_found,0,0,1,1.89,GET 404
+lever,thestudio,not_found,0,0,1,1.93,GET 404
+lever,thetrainline,not_found,0,0,1,2.0,GET 404
+lever,thetrevorproject,ok,5,0,1,4.39,
+lever,thewanderlustgroup,not_found,0,0,1,2.0,GET 404
+lever,thewire-media,not_found,0,0,1,2.15,GET 404
+lever,thezebra,not_found,0,0,1,2.18,GET 404
+lever,thiga,ok,16,0,1,2.44,
+lever,thimble,ok,2,0,1,2.21,
+lever,thinair,not_found,0,0,1,2.2,GET 404
+lever,thinkahead,ok,141,0,1,2.78,
+lever,thinkcyte,not_found,0,0,1,2.19,GET 404
+lever,thinkful,not_found,0,0,1,2.12,GET 404
+lever,thinkhr,not_found,0,0,1,2.23,GET 404
+lever,thinkingbox,ok,38,0,1,2.43,
+lever,thinkon,not_found,0,0,1,2.22,GET 404
+lever,thinkstermath,empty,0,0,1,2.17,
+lever,third-city-christian-church,not_found,0,0,1,2.1,GET 404
+lever,third-plateau,ok,3,0,1,5.47,
+lever,thirdlove,not_found,0,0,1,4.28,GET 404
+lever,thirdwavelabs,not_found,0,0,1,2.43,GET 404
+lever,thortech-solutions,not_found,0,0,1,2.22,GET 404
+lever,thoughtexchange,not_found,0,0,1,2.58,GET 404
+lever,thrasio,not_found,0,0,1,2.12,GET 404
+lever,threatconnect,not_found,0,0,1,2.12,GET 404
+lever,threattec,ok,51,0,1,2.43,
+lever,thredup,not_found,0,0,1,2.44,GET 404
+lever,thrillworks,not_found,0,0,1,2.2,GET 404
+lever,thrive-therapies,ok,3,0,1,2.06,
+lever,thrivecausemetics,ok,6,0,1,5.68,
+lever,thrivemarket,not_found,0,0,1,3.1,GET 404
+lever,thrivingcenterofpsych,ok,8,0,1,2.3,
+lever,thuma,ok,20,0,1,2.31,
+lever,thundertoken,not_found,0,0,1,2.26,GET 404
+lever,thunkable,ok,2,0,1,1.99,
+lever,thycotic,not_found,0,0,1,2.23,GET 404
+lever,tiberius,ok,19,0,1,2.42,
+lever,tiff,not_found,0,0,1,2.29,GET 404
+lever,tiket,not_found,0,0,1,2.3,GET 404
+lever,tilda-research,not_found,0,0,1,2.21,GET 404
+lever,tildei,ok,1,0,1,1.78,
+lever,tileapp,not_found,0,0,1,1.76,GET 404
+lever,timely-md,not_found,0,0,1,1.91,GET 404
+lever,timelycare,not_found,0,0,1,1.9,GET 404
+lever,tinybird,ok,2,0,1,1.74,
+lever,tiplink,not_found,0,0,1,1.8,GET 404
+lever,titan,not_found,0,0,1,1.8,GET 404
+lever,titanelectric-ga,ok,32,0,1,2.24,
+lever,titanwh,ok,31,0,1,2.1,
+lever,titanx,not_found,0,0,1,1.92,GET 404
+lever,titmouse,not_found,0,0,1,1.97,GET 404
+lever,tivix,not_found,0,0,1,2.04,GET 404
+lever,tkda,ok,86,0,1,2.15,
+lever,tlnt,empty,0,0,1,5.3,
+lever,todaytixgroup,ok,4,0,1,2.08,
+lever,togetherhood,ok,49,0,1,2.0,
+lever,token,not_found,0,0,1,2.0,GET 404
+lever,tokenmetrics,not_found,0,0,1,1.73,GET 404
+lever,tokenwin,not_found,0,0,1,2.24,GET 404
+lever,toku,ok,2,0,1,1.95,
+lever,tom-steyer,empty,0,0,1,2.01,
+lever,tombras,not_found,0,0,1,2.07,GET 404
+lever,tomjames,ok,119,0,1,2.5,
+lever,tomonetworks,not_found,0,0,1,2.24,GET 404
+lever,tonal,not_found,0,0,1,2.2,GET 404
+lever,tonic,ok,1,0,1,2.23,
+lever,tonkean,ok,2,0,1,2.25,
+lever,tonsser,empty,0,0,1,2.2,
+lever,topanga,empty,0,0,1,2.23,
+lever,topazlabs,ok,5,0,1,2.07,
+lever,topdesk,ok,6,3,1,2.0,
+lever,tophat,not_found,0,0,1,2.03,GET 404
+lever,tophatter,not_found,0,0,1,2.12,GET 404
+lever,topicalsrx,ok,1,0,1,2.09,
+lever,topl,not_found,0,0,1,2.1,GET 404
+lever,toplinepro,not_found,0,0,1,1.95,GET 404
+lever,toptal,ok,31,5,1,2.73,
+lever,torch,not_found,0,0,1,2.01,GET 404
+lever,torchdental,ok,5,0,1,2.34,
+lever,toruslabs,not_found,0,0,1,1.99,GET 404
+lever,totalexpert,ok,8,0,1,2.32,
+lever,totalsystech,ok,13,0,1,2.28,
+lever,tovala,ok,11,0,1,3.61,
+lever,tpgsi,ok,6,0,1,2.25,
+lever,traackr,ok,1,0,1,2.12,
+lever,traba,not_found,0,0,1,1.99,GET 404
+lever,trace3,not_found,0,0,1,2.36,GET 404
+lever,tracksuit-limited,empty,0,0,1,2.23,
+lever,tracktik,ok,2,0,1,2.2,
+lever,trackvfx,ok,8,0,1,2.6,
+lever,tractian,empty,0,0,1,2.36,
+lever,trade-lanes,not_found,0,0,1,2.28,GET 404
+lever,tradecentriccareers,not_found,0,0,1,2.29,GET 404
+lever,trader,not_found,0,0,1,2.81,GET 404
+lever,tradeshift,not_found,0,0,1,2.37,GET 404
+lever,tradesy,not_found,0,0,1,2.39,GET 404
+lever,trailappliances,ok,19,0,1,4.29,
+lever,trailofbits,not_found,0,0,1,2.3,GET 404
+lever,trainsweateat,ok,8,0,1,4.09,
+lever,trainual,not_found,0,0,1,2.21,GET 404
+lever,tramgroup,ok,11,0,1,3.66,
+lever,transcarent,empty,0,0,1,2.02,
+lever,transfrvr,not_found,0,0,1,2.04,GET 404
+lever,transitscreen,not_found,0,0,1,2.02,GET 404
+lever,translifeline,empty,0,0,1,2.17,
+lever,transmutex,ok,2,0,1,2.32,
+lever,transparentpartners,ok,1,0,1,2.59,
+lever,transwest,not_found,0,0,1,5.24,GET 404
+lever,travala,not_found,0,0,1,2.43,GET 404
+lever,travertine,ok,3,0,1,2.23,
+lever,treasure-data,not_found,0,0,1,2.64,GET 404
+lever,treecard,not_found,0,0,1,2.27,GET 404
+lever,treering,ok,1,0,1,2.38,
+lever,trela,empty,0,0,1,2.42,
+lever,trella,not_found,0,0,1,2.17,GET 404
+lever,trellis,ok,2,2,1,2.57,
+lever,trendyol,ok,49,0,1,2.41,
+lever,trengobv,not_found,0,0,1,4.22,GET 404
+lever,trevipay,ok,2,0,1,2.81,
+lever,tri,ok,40,0,1,2.54,
+lever,triallibrary,ok,7,0,1,3.06,
+lever,tribe-payments,ok,2,0,1,2.3,
+lever,trility,ok,4,0,1,2.21,
+lever,trilogyfederal,not_found,0,0,1,2.1,GET 404
+lever,trinet,empty,0,0,1,2.21,
+lever,trinityhunt,ok,7,0,1,2.21,
+lever,trio,not_found,0,0,1,1.82,GET 404
+lever,trip-ninja,not_found,0,0,1,1.89,GET 404
+lever,tripalink,empty,0,0,1,1.91,
+lever,tripleblind,not_found,0,0,1,1.74,GET 404
+lever,triplebyte,not_found,0,0,1,2.33,GET 404
+lever,triplewhale,not_found,0,0,1,1.95,GET 404
+lever,tripscout,ok,1,0,1,2.02,
+lever,trivenibio,ok,6,0,1,2.06,
+lever,trolley,not_found,0,0,1,1.86,GET 404
+lever,true-environmental,ok,49,0,1,2.27,
+lever,trueaccord,not_found,0,0,1,2.01,GET 404
+lever,trueml,ok,8,0,1,2.32,
+lever,truenorth,not_found,0,0,1,1.98,GET 404
+lever,truepill,not_found,0,0,1,2.02,GET 404
+lever,trueplatform,ok,5,0,1,1.95,
+lever,truetandem,ok,5,0,1,2.21,
+lever,truevault,not_found,0,0,1,1.89,GET 404
+lever,truezerotech,ok,38,0,1,2.2,
+lever,trunkio,empty,0,0,1,1.92,
+lever,truora,not_found,0,0,1,1.98,GET 404
+lever,trussworks,not_found,0,0,1,2.04,GET 404
+lever,trustandwill,not_found,0,0,1,2.04,GET 404
+lever,trustarc,ok,4,0,1,2.12,
+lever,trustedhealth,not_found,0,0,1,2.0,GET 404
+lever,trustedhousesitters.com,ok,2,0,1,2.19,
+lever,trustlab,not_found,0,0,1,4.89,GET 404
+lever,trustly,empty,0,0,1,1.85,
+lever,trusttoken,not_found,0,0,1,1.9,GET 404
+lever,trustyou,not_found,0,0,1,1.94,GET 404
+lever,truv,ok,10,0,1,2.53,
+lever,truveris,not_found,0,0,1,2.13,GET 404
+lever,trycourier,not_found,0,0,1,2.57,GET 404
+lever,tryjeeves,ok,77,0,1,2.44,
+lever,tryriot,not_found,0,0,1,2.1,GET 404
+lever,tsmg,ok,4477,604,1,4.1,
+lever,ttecdigital,ok,59,0,1,3.39,
+lever,ttxinc,ok,25,0,1,2.49,
+lever,tubularlabs,not_found,0,0,1,2.4,GET 404
+lever,tuftandneedle,not_found,0,0,1,2.35,GET 404
+lever,tul,not_found,0,0,1,2.33,GET 404
+lever,tune,not_found,0,0,1,2.17,GET 404
+lever,tunein,not_found,0,0,1,2.26,GET 404
+lever,tunnl-data,not_found,0,0,1,2.3,GET 404
+lever,turing-labs,not_found,0,0,1,2.47,GET 404
+lever,turvo,ok,5,0,1,3.24,
+lever,tusker,ok,18,0,1,2.6,
+lever,tuskventures,not_found,0,0,1,2.3,GET 404
+lever,tutorintelligence,ok,79,0,1,3.69,
+lever,tweeq,not_found,0,0,1,2.74,GET 404
+lever,twelvelabs,not_found,0,0,1,2.71,GET 404
+lever,twentyfirstcenturybrand,not_found,0,0,1,2.73,GET 404
+lever,twingate,ok,3,0,1,2.79,
+lever,twisp,not_found,0,0,1,2.43,GET 404
+lever,twitch,not_found,0,0,1,2.19,GET 404
+lever,twodots,ok,4,0,1,2.17,
+lever,tx-inc.com,ok,43,0,1,2.32,
+lever,txidigital,empty,0,0,1,2.02,
+lever,txse,ok,3,0,1,2.07,
+lever,typology,not_found,0,0,1,2.01,GET 404
+lever,uaustin,ok,17,0,1,2.44,
+lever,uberflip,empty,0,0,1,2.38,
+lever,ubiminds,not_found,0,0,1,2.11,GET 404
+lever,ucsf,not_found,0,0,1,2.12,GET 404
+lever,udacity,not_found,0,0,1,2.47,GET 404
+lever,udemy,not_found,0,0,1,1.93,GET 404
+lever,uei,ok,18,0,1,2.19,
+lever,ueno,not_found,0,0,1,2.08,GET 404
+lever,ufonia,not_found,0,0,1,1.99,GET 404
+lever,uft,ok,29,0,1,1.78,
+lever,uipath,not_found,0,0,1,1.64,GET 404
+lever,ullico,ok,6,0,1,1.97,
+lever,ultra,not_found,0,0,1,1.85,GET 404
+lever,ultrahealthproviders,ok,13,0,1,2.24,
+lever,umaproject,not_found,0,0,1,1.91,GET 404
+lever,umbragestudios,not_found,0,0,1,2.03,GET 404
+lever,umpqua-health,not_found,0,0,1,2.65,GET 404
+lever,uncountable,not_found,0,0,1,5.5,GET 404
+lever,unico,not_found,0,0,1,2.51,GET 404
+lever,unify,ok,9,0,1,2.69,
+lever,unifyconsulting,ok,1,0,1,2.19,
+lever,uniphore,not_found,0,0,1,2.4,GET 404
+lever,unisoninfra,ok,10,2,1,2.44,
+lever,unitedwayla,ok,4,0,1,2.46,
+lever,unitq,ok,6,0,1,2.92,
+lever,univeris.com,ok,9,0,1,3.24,
+lever,universalengineeringsciences,not_found,0,0,1,2.19,GET 404
+lever,unknownworlds,not_found,0,0,1,2.26,GET 404
+lever,unlearnai,not_found,0,0,1,2.29,GET 404
+lever,unlikely,not_found,0,0,1,2.14,GET 404
+lever,unlimit,ok,51,1,1,2.49,
+lever,unraveldata,not_found,0,0,1,2.66,GET 404
+lever,unstoppabledomains,not_found,0,0,1,2.32,GET 404
+lever,unstructuredtechnologies,not_found,0,0,1,2.3,GET 404
+lever,untether,not_found,0,0,1,2.27,GET 404
+lever,until,ok,12,0,1,2.97,
+lever,unu,not_found,0,0,1,2.24,GET 404
+lever,unusual,ok,8,0,1,3.7,
+lever,upgrade,not_found,0,0,1,2.18,GET 404
+lever,upguard,empty,0,0,1,2.24,
+lever,uplift,not_found,0,0,1,2.0,GET 404
+lever,upmetrics,not_found,0,0,1,3.41,GET 404
+lever,uprightproject,ok,3,0,1,2.01,
+lever,upside,not_found,0,0,1,2.01,GET 404
+lever,upstox,not_found,0,0,1,1.98,GET 404
+lever,upwork,not_found,0,0,1,2.07,GET 404
+lever,uqual,ok,1,0,1,2.15,
+lever,usasurveyjob,ok,1571,15,1,5.46,
+lever,usecipher,not_found,0,0,1,2.08,GET 404
+lever,useinsider,not_found,0,0,1,2.11,GET 404
+lever,useloom,not_found,0,0,1,2.09,GET 404
+lever,userinterviews,not_found,0,0,1,1.97,GET 404
+lever,userlane,not_found,0,0,1,2.02,GET 404
+lever,ushur,not_found,0,0,1,2.01,GET 404
+lever,usmobile,not_found,0,0,1,2.42,GET 404
+lever,util-assist,ok,2,0,1,2.55,
+lever,utopialabs,not_found,0,0,1,2.14,GET 404
+lever,utvate,not_found,0,0,1,2.13,GET 404
+lever,uvcyber,ok,18,0,1,2.43,
+lever,ux-woman,not_found,0,0,1,2.1,GET 404
+lever,v2sa,empty,0,0,1,2.11,
+lever,vacancies,ok,28,0,1,2.26,
+lever,vailsys,ok,3,0,1,2.11,
+lever,valarian,ok,14,0,1,2.33,
+lever,valdera,ok,11,1,1,2.26,
+lever,valdeseng,ok,48,0,1,2.7,
+lever,valence,empty,0,0,1,2.32,
+lever,valgenesis,ok,11,0,1,2.11,
+lever,valiantys,ok,21,3,1,2.29,
+lever,valinor,not_found,0,0,1,1.99,GET 404
+lever,valkyrietrading,ok,5,0,1,2.06,
+lever,valoremreply,not_found,0,0,1,2.0,GET 404
+lever,valorepartners,ok,1,0,1,2.15,
+lever,valpeo.com,ok,22,5,1,2.33,
+lever,vana,ok,18,0,1,2.41,
+lever,vannevarlabs-2,not_found,0,0,1,2.41,GET 404
+lever,vantagepointlogistics,not_found,0,0,1,1.99,GET 404
+lever,varicent,not_found,0,0,1,2.19,GET 404
+lever,varni-labs,not_found,0,0,1,2.1,GET 404
+lever,varomoney,not_found,0,0,1,2.18,GET 404
+lever,vauld,not_found,0,0,1,2.13,GET 404
+lever,vaxcyte,not_found,0,0,1,2.2,GET 404
+lever,vclab,not_found,0,0,1,2.23,GET 404
+lever,vectara,not_found,0,0,1,2.31,GET 404
+lever,vedadata,not_found,0,0,1,2.08,GET 404
+lever,vedatechlabs,ok,3,0,1,2.55,
+lever,veefriends,not_found,0,0,1,2.04,GET 404
+lever,veepee,ok,103,4,1,2.48,
+lever,veeva,ok,860,54,1,2.82,
+lever,veho,not_found,0,0,1,2.09,GET 404
+lever,veir,not_found,0,0,1,2.1,GET 404
+lever,velo3d,ok,42,0,1,2.32,
+lever,velocityglobal,empty,0,0,1,2.15,
+lever,vendavo,ok,7,1,1,2.41,
+lever,venteur,ok,4,0,1,3.22,
+lever,venusaero,ok,26,0,1,19.61,
+lever,veo,ok,25,0,1,2.31,
+lever,veonhq,empty,0,0,1,2.14,
+lever,verafin,not_found,0,0,1,2.21,GET 404
+lever,verdigris,ok,2,0,1,2.38,
+lever,vergesense,ok,1,0,1,2.25,
+lever,vericred,not_found,0,0,1,2.32,GET 404
+lever,verifiable,ok,3,0,1,2.74,
+lever,verisart,not_found,0,0,1,2.28,GET 404
+lever,verisinsights,ok,4,0,1,2.64,
+lever,veritasinv,empty,0,0,1,2.35,
+lever,verity,not_found,0,0,1,2.35,GET 404
+lever,verkada,not_found,0,0,1,2.36,GET 404
+lever,verkor,ok,39,25,1,3.13,
+lever,vero,not_found,0,0,1,2.3,GET 404
+lever,versana,not_found,0,0,1,2.1,GET 404
+lever,versapay,ok,30,0,1,2.4,
+lever,verse,not_found,0,0,1,2.19,GET 404
+lever,verse-medical,not_found,0,0,1,2.24,GET 404
+lever,verticalscope,not_found,0,0,1,2.25,GET 404
+lever,verygoodsecurity,ok,18,0,1,3.13,
+lever,verypossible,not_found,0,0,1,2.38,GET 404
+lever,verytechnology,not_found,0,0,1,2.07,GET 404
+lever,vesta-tech,not_found,0,0,1,3.84,GET 404
+lever,vestahousing,not_found,0,0,1,23.33,GET 404
+lever,vestiairecollective,ok,17,2,1,2.43,
+lever,vesync,ok,30,0,1,2.33,
+lever,vetcove,not_found,0,0,1,2.26,GET 404
+lever,veteransadvantage,not_found,0,0,1,2.17,GET 404
+lever,vevo,ok,1,0,1,23.11,
+lever,vevo-ai,not_found,0,0,1,3.26,GET 404
+lever,vhslab,not_found,0,0,1,2.47,GET 404
+lever,vhx,not_found,0,0,1,2.09,GET 404
+lever,viabill,ok,3,0,1,2.25,
+lever,viacom18,not_found,0,0,1,2.21,GET 404
+lever,vial,not_found,0,0,1,2.28,GET 404
+lever,viamericas,ok,12,0,1,19.76,
+lever,viantinc,not_found,0,0,1,20.78,GET 404
+lever,viaseparations,ok,2,0,1,2.47,
+lever,vibrenthealth,not_found,0,0,1,2.1,GET 404
+lever,vicicollection,ok,9,0,1,2.86,
+lever,victoryhrg,not_found,0,0,1,2.12,GET 404
+lever,vida,ok,18,0,1,2.4,
+lever,videahealth,failed,0,0,1,34.35,GET TimeoutError: The read operation timed out
+lever,vidrovr,empty,0,0,1,2.05,
+lever,vidsy,ok,3,0,1,19.12,
+lever,viget,ok,7,0,1,1.91,
+lever,villa-homes,failed,0,0,1,21.41,GET TimeoutError: The read operation timed out
+lever,vimpelcom,not_found,0,0,1,23.13,GET 404
+lever,vinted,not_found,0,0,1,1.89,GET 404
+lever,viome,ok,1,0,1,1.8,
+lever,vipdesk,ok,1,0,1,1.72,
+lever,vippetcare,not_found,0,0,1,1.8,GET 404
+lever,vir,not_found,0,0,1,1.82,GET 404
+lever,virtualitics,ok,21,0,1,2.17,
+lever,virtuous,not_found,0,0,1,1.6,GET 404
+lever,virtus,not_found,0,0,1,4.75,GET 404
+lever,visby,ok,1,0,1,1.71,
+lever,viseven,ok,18,0,1,1.97,
+lever,visier,not_found,0,0,1,1.74,GET 404
+lever,visioncritical,not_found,0,0,1,1.56,GET 404
+lever,visioninvest,ok,17,0,1,1.83,
+lever,visotrust,empty,0,0,1,1.5,
+lever,vistarmedia-2,not_found,0,0,1,1.63,GET 404
+lever,vital-software,empty,0,0,1,1.5,
+lever,vitalbio,not_found,0,0,1,1.51,GET 404
+lever,vitalfarms,not_found,0,0,1,18.74,GET 404
+lever,vivacitylabs,empty,0,0,1,1.51,
+lever,vivenu,ok,32,18,1,1.89,
+lever,vivo-care,ok,6,0,1,1.9,
+lever,vivrelle,ok,6,0,1,1.43,
+lever,vivsoft,not_found,0,0,1,1.31,GET 404
+lever,vivun,not_found,0,0,1,11.85,GET 404
+lever,vizion,not_found,0,0,1,1.5,GET 404
+lever,vngrs,not_found,0,0,1,11.71,GET 404
+lever,vo2-group,ok,42,0,1,2.07,
+lever,vogo,ok,3,0,1,1.44,
+lever,vohra,ok,1492,0,1,17.35,
+lever,voleon,empty,0,0,1,1.4,
+lever,volka,not_found,0,0,1,1.39,GET 404
+lever,voltacharging,not_found,0,0,1,1.29,GET 404
+lever,voltai,ok,2,0,1,1.06,
+lever,voltalabs,ok,3,0,1,20.65,
+lever,voltus,ok,13,0,1,1.27,
+lever,volume-finance,not_found,0,0,1,1.0,GET 404
+lever,voodoo,not_found,0,0,1,18.41,GET 404
+lever,voro,empty,0,0,1,0.92,
+lever,voterformationproject,not_found,0,0,1,0.89,GET 404
+lever,voterparticipation,empty,0,0,1,0.9,
+lever,vowel,not_found,0,0,1,18.08,GET 404
+lever,vowforgirls,empty,0,0,1,12.74,
+lever,voxel,not_found,0,0,1,11.82,GET 404
+lever,voxy,not_found,0,0,1,0.8,GET 404
+lever,voxy-engen,not_found,0,0,1,0.94,GET 404
+lever,vrchat,ok,9,7,1,0.98,
+lever,vrify,not_found,0,0,1,1.04,GET 404
+lever,vrsystems,not_found,0,0,1,0.9,GET 404
+lever,vtex,not_found,0,0,1,0.98,GET 404
+lever,vtg,empty,0,0,1,15.14,
+lever,vts,not_found,0,0,1,0.6,GET 404
+lever,vvt,not_found,0,0,1,0.52,GET 404
+lever,waabi,ok,86,0,1,1.89,
+lever,wachter,ok,150,0,1,1.08,
+lever,wadetrim,ok,118,0,1,1.68,
+lever,wahed.com,failed,0,0,1,32.73,GET TimeoutError: The read operation timed out
+lever,wahi,empty,0,0,1,0.47,
+lever,waitrapp,not_found,0,0,1,0.22,GET 404
+lever,waitwhat,empty,0,0,1,13.04,
+lever,walkerandcompany,empty,0,0,1,13.58,
+lever,walkerconsultants,ok,45,0,1,3.15,
+lever,walkme,ok,25,2,1,2.37,
+lever,walnut,not_found,0,0,1,0.22,GET 404
+lever,walser,not_found,0,0,1,0.22,GET 404
+lever,wandb,not_found,0,0,1,0.22,GET 404
+lever,warblerlabs,not_found,0,0,1,0.23,GET 404
+lever,waremalcomb,ok,95,0,1,3.53,
+lever,warmly,empty,0,0,1,0.43,
+lever,wasabi,not_found,0,0,1,4.44,GET 404
+lever,wasatchglobal,ok,3,0,1,0.36,
+lever,washburn,not_found,0,0,1,0.23,GET 404
+lever,washmen,not_found,0,0,1,0.63,GET 404
+lever,watchguard,ok,36,0,1,0.71,
+lever,waterfall,ok,6,0,1,0.9,
+lever,waterworks,ok,24,0,1,1.19,
+lever,wattpad,ok,18,0,1,0.57,
+lever,waveapps,ok,9,0,1,5.77,
+lever,wavicledata,ok,5,0,1,0.67,
+lever,way,not_found,0,0,1,12.68,GET 404
+lever,wayflyer,not_found,0,0,1,0.32,GET 404
+lever,wc-br,ok,15,0,1,0.38,
+lever,wealthfinancialtechnologies,not_found,0,0,1,17.93,GET 404
+lever,wealthfront,ok,21,0,1,0.49,
+lever,wealthsimple,empty,0,0,1,1.6,
+lever,wearatoms,not_found,0,0,1,0.36,GET 404
+lever,weareaccord,empty,0,0,1,0.24,
+lever,wearedream,ok,51,0,1,1.05,
+lever,wearemeru,ok,7,0,1,0.71,
+lever,webfx,empty,0,0,1,0.29,
+lever,websummit,ok,26,0,1,0.45,
+lever,weekdayworks,ok,42,0,1,0.58,
+lever,weekender-hotels,not_found,0,0,1,0.3,GET 404
+lever,weel,not_found,0,0,1,12.48,GET 404
+lever,weinfuse,not_found,0,0,1,0.4,GET 404
+lever,wellfit,ok,5,0,1,0.59,
+lever,welocalize,not_found,0,0,1,0.48,GET 404
+lever,weloglobal,ok,450,22,1,4.82,
+lever,wemaintain,not_found,0,0,1,0.6,GET 404
+lever,wepay,not_found,0,0,1,0.59,GET 404
+lever,wepclinical,ok,21,1,1,0.8,
+lever,weride,ok,12,0,1,0.68,
+lever,wesalute,not_found,0,0,1,18.02,GET 404
+lever,westair,ok,17,0,1,2.76,
+lever,wgsn,ok,22,0,1,18.65,
+lever,whereby,empty,0,0,1,0.51,
+lever,whiterabbit,ok,1,0,1,2.54,
+lever,whiterivertoyota,ok,3,0,1,0.29,
+lever,whoop,empty,0,0,1,17.59,
+lever,whymonster,ok,66,0,1,0.71,
+lever,wilburlabs,ok,1,0,1,0.38,
+lever,wildlight,empty,0,0,1,0.83,
+lever,williamsburglearning,empty,0,0,1,7.03,
+lever,willowinc,ok,4,0,1,17.83,
+lever,winamax,ok,20,1,1,10.77,
+lever,windfalldata,ok,13,0,1,0.51,
+lever,windownation,ok,33,0,1,17.92,
+lever,windowsbyrba,empty,0,0,1,0.47,
+lever,windsormanagement,not_found,0,0,1,17.68,GET 404
+lever,wingedrecruitment,not_found,0,0,1,0.6,GET 404
+lever,wingtra-2,ok,10,1,1,9.07,
+lever,winnco,empty,0,0,1,0.52,
+lever,wintermute-trading,ok,18,0,1,18.0,
+lever,wisdomai,empty,0,0,1,3.92,
+lever,wisdomtree,empty,0,0,1,1.88,
+lever,wisdomtree-2,ok,4,1,1,0.58,
+lever,wisecode,ok,2,0,1,0.44,
+lever,wish,not_found,0,0,1,0.31,GET 404
+lever,wishpond,ok,2,0,1,1.5,
+lever,wisk,not_found,0,0,1,0.41,GET 404
+lever,wisprai,not_found,0,0,1,0.47,GET 404
+lever,wisr,ok,1,0,1,0.98,
+lever,with-foundation,not_found,0,0,1,7.04,GET 404
+lever,withclutch,not_found,0,0,1,1.1,GET 404
+lever,withdouble,not_found,0,0,1,0.45,GET 404
+lever,withmerlin,empty,0,0,1,0.38,
+lever,wiz,not_found,0,0,1,0.87,GET 404
+lever,wmg,ok,30,2,1,0.54,
+lever,wolt,not_found,0,0,1,0.29,GET 404
+lever,wolve,not_found,0,0,1,0.31,GET 404
+lever,wolvgroup,not_found,0,0,1,0.22,GET 404
+lever,wonderbly,not_found,0,0,1,0.3,GET 404
+lever,wonolo,empty,0,0,1,2.19,
+lever,woodardcurran,ok,61,0,1,0.93,
+lever,work-life,not_found,0,0,1,0.56,GET 404
+lever,workbravely,not_found,0,0,1,0.6,GET 404
+lever,workingfamilies,ok,10,0,1,13.17,
+lever,workinprogress,ok,5,0,1,1.38,
+lever,workos,not_found,0,0,1,6.33,GET 404
+lever,workramp,not_found,0,0,1,0.5,GET 404
+lever,workwave,ok,10,0,1,0.71,
+lever,world-view-enterprises-inc.,ok,12,0,1,0.71,
+lever,worldscape-technology,ok,11,0,1,0.46,
+lever,woven-by-toyota,ok,135,0,1,7.56,
+lever,woven-planet,empty,0,0,1,0.29,
+lever,wpromote,ok,46,0,1,6.25,
+lever,wr,ok,41,0,1,0.64,
+lever,wra-ca,ok,4,1,1,2.92,
+lever,wristcheck,not_found,0,0,1,0.4,GET 404
+lever,wwprosolutions,ok,39,0,1,0.55,
+lever,wyetechllc,ok,270,0,1,1.96,
+lever,wyld,not_found,0,0,1,0.29,GET 404
+lever,wyze,not_found,0,0,1,0.22,GET 404
+lever,x1creditcard,not_found,0,0,1,0.25,GET 404
+lever,xage-security,ok,10,0,1,17.59,
+lever,xagroup,not_found,0,0,1,1.52,GET 404
+lever,xby2,ok,6,0,1,0.42,
+lever,xcimer,ok,65,0,1,0.79,
+lever,xepelin,ok,12,0,1,0.39,
+lever,xero,not_found,0,0,1,0.32,GET 404
+lever,xfers,not_found,0,0,1,12.89,GET 404
+lever,xilis,empty,0,0,1,0.61,
+lever,xmodesocial,not_found,0,0,1,0.36,GET 404
+lever,xometry,not_found,0,0,1,0.43,GET 404
+lever,xsolla,ok,186,7,1,0.87,
+lever,xtb,not_found,0,0,1,0.3,GET 404
+lever,xxartists,not_found,0,0,1,10.07,GET 404
+lever,yardstick,ok,2,0,1,0.34,
+lever,yardzen,empty,0,0,1,0.55,
+lever,yassir,not_found,0,0,1,0.23,GET 404
+lever,yellowai,not_found,0,0,1,0.24,GET 404
+lever,yelp,not_found,0,0,1,0.23,GET 404
+lever,yieldstreet,not_found,0,0,1,0.26,GET 404
+lever,yonexusa,ok,2,0,1,17.64,
+lever,yottaa,not_found,0,0,1,0.44,GET 404
+lever,you,not_found,0,0,1,0.41,GET 404
+lever,younited,ok,7,0,1,0.56,
+lever,yourmechanic,not_found,0,0,1,0.3,GET 404
+lever,yubico,not_found,0,0,1,0.32,GET 404
+lever,yubo,not_found,0,0,1,0.49,GET 404
+lever,yuno,ok,10,1,1,0.51,
+lever,ywcaworks,ok,10,0,1,0.57,
+lever,z1tech,ok,10,0,1,0.73,
+lever,zadara,not_found,0,0,1,0.49,GET 404
+lever,zaimler,ok,9,0,1,0.77,
+lever,zambezi,ok,3,0,1,6.41,
+lever,zanskar,not_found,0,0,1,1.79,GET 404
+lever,zapsurgical,empty,0,0,1,0.4,
+lever,zartis,ok,7,0,1,0.63,
+lever,zayzoon,not_found,0,0,1,0.39,GET 404
+lever,zazzle,empty,0,0,1,0.43,
+lever,zededa,not_found,0,0,1,0.55,GET 404
+lever,zeeco,ok,111,0,1,0.93,
+lever,zeffy,empty,0,0,1,0.39,
+lever,zeiss,ok,3,0,1,2.32,
+lever,zeitgold,not_found,0,0,1,0.48,GET 404
+lever,zeller,not_found,0,0,1,0.58,GET 404
+lever,zencore,ok,20,4,1,0.74,
+lever,zendesk,not_found,0,0,1,0.95,GET 404
+lever,zendrive,not_found,0,0,1,0.51,GET 404
+lever,zeneducate,ok,56,0,1,7.88,
+lever,zenogroup,not_found,0,0,1,0.59,GET 404
+lever,zensurance,ok,9,0,1,0.59,
+lever,zentail,not_found,0,0,1,0.47,GET 404
+lever,zenysis,not_found,0,0,1,0.39,GET 404
+lever,zeotap,not_found,0,0,1,0.31,GET 404
+lever,zeplin,not_found,0,0,1,0.38,GET 404
+lever,zerion,ok,1,0,1,9.0,
+lever,zerocater,not_found,0,0,1,4.35,GET 404
+lever,zerofox,not_found,0,0,1,0.49,GET 404
+lever,zerohomes,empty,0,0,1,3.07,
+lever,zerotier,ok,6,0,1,2.73,
+lever,zesty,not_found,0,0,1,0.7,GET 404
+lever,zeta,ok,29,0,1,1.87,
+lever,zeus,not_found,0,0,1,0.72,GET 404
+lever,zignallabs,not_found,0,0,1,3.47,GET 404
+lever,ziing,not_found,0,0,1,0.4,GET 404
+lever,zilliz,ok,12,0,1,1.09,
+lever,zimperium,ok,17,1,1,0.51,
+lever,zinccollective,not_found,0,0,1,0.9,GET 404
+lever,zingtree,ok,3,0,1,0.34,
+lever,zinier,not_found,0,0,1,0.72,GET 404
+lever,zinovo,ok,1,0,1,0.33,
+lever,zip,not_found,0,0,1,0.4,GET 404
+lever,zipari,not_found,0,0,1,0.4,GET 404
+lever,zipongo,not_found,0,0,1,0.58,GET 404
+lever,zippi,ok,4,0,1,0.4,
+lever,zivaro,not_found,0,0,1,0.29,GET 404
+lever,zocks,ok,19,0,1,0.51,
+lever,zoomer,not_found,0,0,1,0.53,GET 404
+lever,zoomprop,not_found,0,0,1,0.32,GET 404
+lever,zoox,ok,229,0,1,0.82,
+lever,zopa,ok,28,0,1,0.96,
+lever,zotecpartners,not_found,0,0,1,0.38,GET 404
+lever,zowie,not_found,0,0,1,0.51,GET 404
+lever,zoyi,ok,71,0,1,0.87,
+lever,zumper,not_found,0,0,1,0.55,GET 404
+lever,zurichinstruments,ok,10,1,1,1.3,
+lever,zurigroup,not_found,0,0,1,0.55,GET 404
+lever,zuru,not_found,0,0,1,0.75,GET 404
+lever,zushealth,ok,6,0,1,6.73,
+lever,zuva,not_found,0,0,1,0.6,GET 404

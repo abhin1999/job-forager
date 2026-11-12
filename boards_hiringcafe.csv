@@ -1,0 +1,2 @@
+source,board,status,records,germany_records,http_requests,seconds,detail
+hiringcafe,(single endpoint),failed,0,0,5,0,GET 404; GET 403; GET 404

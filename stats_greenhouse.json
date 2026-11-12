@@ -1,0 +1,43 @@
+{
+  "tag": "greenhouse",
+  "source": "greenhouse",
+  "collected_at": "2026-11-12T12:12:23+00:00",
+  "boards_discovered_total": 9863,
+  "raw_records": 188251,
+  "germany_records": 4421,
+  "board_status": {
+    "not_found": 3418,
+    "ok": 5445,
+    "empty": 997,
+    "failed": 3
+  },
+  "http_requests_by_host": {
+    "githubusercontent.com": 4,
+    "greenhouse.io": 10430
+  },
+  "list_sources": [
+    {
+      "ats": "greenhouse",
+      "list": "engine (data/*.json + engine fetch)",
+      "url": "",
+      "status": "ok",
+      "entries": 8333
+    },
+    {
+      "ats": "greenhouse",
+      "list": "Feashliaa",
+      "url": "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/greenhouse_companies.json",
+      "status": "ok",
+      "entries": 8333
+    },
+    {
+      "ats": "greenhouse",
+      "list": "stapply-ai",
+      "url": "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ats-companies/greenhouse.csv",
+      "status": "ok",
+      "entries": 6009
+    }
+  ],
+  "errors": [],
+  "elapsed_seconds": 522
+}

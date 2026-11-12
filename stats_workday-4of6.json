@@ -1,0 +1,44 @@
+{
+  "tag": "workday-4of6",
+  "source": "workday",
+  "collected_at": "2026-11-12T12:13:24+00:00",
+  "boards_discovered_total": 13372,
+  "raw_records": 161476,
+  "germany_records": 2154,
+  "board_status": {
+    "not_found": 179,
+    "ok": 898,
+    "failed": 1024,
+    "empty": 127
+  },
+  "http_requests_by_host": {
+    "githubusercontent.com": 6,
+    "myworkdayjobs.com": 13915,
+    "myworkdaysite.com": 3
+  },
+  "list_sources": [
+    {
+      "ats": "workday",
+      "list": "engine (data/*.json + engine fetch)",
+      "url": "",
+      "status": "ok",
+      "entries": 2836
+    },
+    {
+      "ats": "workday",
+      "list": "Feashliaa",
+      "url": "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/workday_companies.json",
+      "status": "ok",
+      "entries": 11944
+    },
+    {
+      "ats": "workday",
+      "list": "stapply-ai",
+      "url": "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ats-companies/workday.csv",
+      "status": "ok",
+      "entries": 3530
+    }
+  ],
+  "errors": [],
+  "elapsed_seconds": 998
+}

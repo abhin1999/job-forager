@@ -1,0 +1,43 @@
+{
+  "tag": "ashby",
+  "source": "ashby",
+  "collected_at": "2026-11-12T12:12:53+00:00",
+  "boards_discovered_total": 4321,
+  "raw_records": 55819,
+  "germany_records": 3158,
+  "board_status": {
+    "ok": 2920,
+    "not_found": 914,
+    "empty": 437,
+    "failed": 50
+  },
+  "http_requests_by_host": {
+    "githubusercontent.com": 4,
+    "ashbyhq.com": 4371
+  },
+  "list_sources": [
+    {
+      "ats": "ashby",
+      "list": "engine (data/*.json + engine fetch)",
+      "url": "",
+      "status": "ok",
+      "entries": 3161
+    },
+    {
+      "ats": "ashby",
+      "list": "Feashliaa",
+      "url": "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/ashby_companies.json",
+      "status": "ok",
+      "entries": 3161
+    },
+    {
+      "ats": "ashby",
+      "list": "stapply-ai",
+      "url": "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ats-companies/ashby.csv",
+      "status": "ok",
+      "entries": 3451
+    }
+  ],
+  "errors": [],
+  "elapsed_seconds": 438
+}
